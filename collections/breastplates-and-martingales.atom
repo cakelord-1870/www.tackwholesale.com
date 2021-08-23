@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/breastplates-and-martingales.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-08-11T11:25:16-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4615718895676</id>
+    <published>2020-08-11T11:25:16-04:00</published>
+    <updated>2020-08-11T11:25:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-standing-martingale-attachment"/>
+    <title>Weaver Leather Economy English Standing Martingale Attachment</title>
+    <s:type>Breastplates &amp; Martingales</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/4156_StandingMartingale_HV.jpg?v=1597162926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Breastplates &amp; Martingales<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This standing martingale attachment turns any breast collar into a standing martingale and is designed to be easily removable and adjustable to best fit your needs.</span></p>
+<p><span>This Weaver Leather English standing martingale attachment is made of 1/2" wide double-stitched leather and is adjustable in 1/2" increments from 21" to 26" long.</span></p>
+<p><span>In order to use this martingale attachment, simply attach it to your horse's breast collar and then run through the back of the noseband on your horse's bridle.</span></p>
+<p><span>This handy attachment prevents your horse from lifting its head above a certain point to control head height and prevent them from throwing their head.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4615718895676</id>
+      <title>Havana</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>40-4156-HV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

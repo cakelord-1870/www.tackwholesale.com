@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/neck-covers-hoods.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-01-15T12:23:59-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4433280172092</id>
+    <published>2020-01-15T12:23:59-05:00</published>
+    <updated>2020-01-15T12:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-nordic-tough-heavyweight-1200d-ripstop-waterproof-horse-winter-blanket-hood-neck-cover-with-150g-of-insulation-and-two-year-warranty"/>
+    <title>Derby Originals Nordic-Tough 1200D Medium Weight Winter Horse Neck Cover Hood 150g with 2 Year Warranty</title>
+    <s:type>Blanket Hoods</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Horse_Hood_1200D_Ripstop_Nordic_Red_Swatches_80-8038V2.jpg?v=1592592166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Blanket Hoods<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>RIPSTOP NYLON OUTER SHELL - this blanket hood features a 1200D ripstop nylon construction that is extremely tear and cut-resistant, meaning that you can leave your horse in the barn or at pasture without worry.</span></p>
+<p><span>THE PERFECT BLANKET HOOD - this blanket is the perfect winter blanket hood for almost any horse and climate, due to its highly adjustable design, hefty 150g of Polyfil, and sturdy ripstop nylon shell.</span></p>
+<p><span>COMFORTABLE FIT - this blanket hood has a soft 210T nylon inner lining to prevent irritation of the hair coat or mane, and a cozy 150g of Polyfil to keep your horse warm in the worst weather.</span></p>
+<p><span>QUICK ATTACH SNAPS - this hood attaches to your blanket via three adjustable heavy-duty swiveling snaps, which allows you to adjust the placement of your hood for the best fit possible, and put it on/off with ease.</span></p>
+<p><span>2 YEAR LIMITED MANUFACTURER'S WARRANTY - this product is eligible for a 2 year warranty that protects against manufacturing defects. Normal wear and tear and accidents are not covered. To register your product warranty, visit Derby Originals' website.</span></p>
+<p><span>Dried mud, hair, hay, and other debris should be regularly brushed off your blanket. A stiff dandy brush often works best for this. Keeping your blanket clean helps extend its lifespan, as well as help to keep your horse clean and happy. You can also use a damp, soapy rag to remove mud/debris and then wipe your blanket dry. Fleece blankets should only be hand washed and never machine washed. All removable parts should be removed before washing, all velcro straps velcroed together, and your blanket should only be washed in a detergent made for use with horse blankets, or gentle animal-safe cleaners. When washing, use cool water and hand wash gently. Do not use fabric softener with any of our blankets as it will damage their waterproofing and breathing abilities and prevent the blanket from wicking water and sweat off your horse. All of our blankets should be air-dried or line-dried, never put in a dryer. If your blanket becomes nicked or torn, the blanket should immediately be sewn or patched to prevent further damage from occurring.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Neck Covers</s:tag>
+    <s:tag>Nordic</s:tag>
+    <s:tag>Nordic Tough</s:tag>
+    <s:tag>Red with Black Trim</s:tag>
+    <s:tag>Royal Blue with Black Trim</s:tag>
+    <s:tag>Stable Blanket</s:tag>
+    <s:tag>Turnout Blanket</s:tag>
+    <s:tag>Windstorm Series</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Charcoal / Cob/Arab (Medium)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-CHR-MED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Charcoal / Full Horse (Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-CHR-LRG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Charcoal / Warmblood/Oversize (X-Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-CHR-XLG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Electric Blue / Cob/Arab (Medium)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-EBL-MED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Electric Blue / Full Horse (Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-EBL-LRG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Electric Blue / Warmblood/Oversize (X-Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-EBL-XLG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Orange / Cob/Arab (Medium)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-ORG-MED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Orange / Full Horse (Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-ORG-LRG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Orange / Warmblood/Oversize (X-Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-ORG-XLG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Red / Cob/Arab (Medium)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-RED-MED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Red / Full Horse (Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-RED-LRG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4433280172092</id>
+      <title>Red / Warmblood/Oversize (X-Large)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>80-8038V2-RED-XLG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492719440</id>
+    <published>2019-11-29T10:01:31-05:00</published>
+    <updated>2019-11-29T10:01:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-8041"/>
+    <title>Derby Originals Extreme Elements Series 1200D Ripstop Waterproof Nylon Heavy Weight Horse Turnout Blanket Hood with 2 Year Warranty</title>
+    <s:type>Neck Covers</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Winter-Turnout_Neck-Cover_80-8041-clean_bdd76763-25e4-495a-8bca-ed45a3e09c53.jpg?v=1571609187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Neck Covers<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Our Extreme Elements Series 1200D Ripstop Waterproof Nylon Heavyweight Horse Turnout Blanket Hood was designed to be a comfortable, attractive, and durable hood option to fit almost any horse and blanket. This hood attaches using three adjustable quick attach snaps and is sure to help keep your horse warm and clean in even the worst winter weather.</span></p>
+<br>
+<p><b>Waterproof Construction: </b><span style="font-weight: 400;">this blanket hood is made from a waterproof nylon material covered in a  Teflon coating. These blanket hoods are guaranteed to be fully waterproof unless the hood is ripped/torn, or the Teflon coating is damaged through improper washing or cleaning, or abuse of the blanket hood.</span></p>
+<br>
+<ul>
+<li>THE PERFECT BLANKET HOOD - this blanket is the perfect winter blanket hood for almost any horse and climate, due to its highly adjustable design, hefty 200g of Polyfil, and sturdy ripstop nylon shell.</li>
+<li>RIPSTOP NYLON OUTER SHELL - this blanket hood features a 1200D ripstop nylon construction that is extremely tear and cut resistant, meaning that you can leave your horse in the barn or at pasture without worry of a blanket tear.</li>
+<li>KEEP YOUR HORSE WARM IN ANY WEATHER - this blanket hood was designed to keep your horse warm even in below zero weather thanks to its heavyweight 150g of Polyfil.</li>
+<li>QUICK ATTACH SNAPS - this hood attaches to your blanket via three adjustable heavy-duty swiveling snaps, which allows you to adjust the placement of your hood for the best fit possible, and put it on/off with ease.</li>
+<li>TWO YEAR LIMITED MANUFACTURER’S WARRANTY - this blanket hood comes with a two-year manufacturer’s warranty through Derby Originals, which protects against manufacturing and quality defects.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Neck Covers</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492719440</id>
+      <title>Medium</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8041-CH-MD</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492719440</id>
+      <title>Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8041-CH-LG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492719440</id>
+      <title>X-Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8041-CH-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2361947226172</id>
+    <published>2018-12-12T09:36:27-05:00</published>
+    <updated>2018-12-12T09:36:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-windstorm-series-detachable-neck-cover"/>
+    <title>Derby Originals Wind Storm 1200D Medium Weight Winter Horse Neck Cover Hood 150g with 2 Year Warranty</title>
+    <s:type>Blanket Hoods</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/80_8038_RD_Neck_Cover_copy.jpg?v=1571609244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Blanket Hoods<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ latest line of ultra-premium winter blankets, the Windstorm Series, was designed to offer a myriad of blanket options in material, weight, and design for equines of all sizes. This comprehensive line features stable and turnout blankets and sheets available in a plethora of beautiful, modern colors in every size from 36” all the way up to rare 100” large draft horse sizing. These blankets are not only beautiful but designed to be hardy and long-lasting with even the most destructive horses.</span></p>
+<p><span data-mce-fragment="1">RIPSTOP NYLON OUTER SHELL - this blanket hood features a 1200D ripstop nylon construction that is extremely tear and cut-resistant, meaning that you can leave your horse in the barn or at pasture without worry.</span></p>
+<p><span>THE PERFECT BLANKET HOOD - this blanket is the perfect winter blanket hood for almost any horse and climate, due to its highly adjustable design, hefty 150g of Polyfil, and sturdy ripstop nylon shell.</span></p>
+<p><span>COMFORTABLE FIT - this blanket hood has a soft 210T nylon inner lining to prevent irritation of the hair coat or mane, and a cozy 150g of Polyfil to keep your horse warm in the worst weather.</span></p>
+<p><span>QUICK ATTACH SNAPS - this hood attaches to your blanket via three adjustable heavy-duty swiveling snaps, which allows you to adjust the placement of your hood for the best fit possible, and put it on/off with ease.</span></p>
+<p><span>2 YEAR LIMITED MANUFACTURER'S WARRANTY - this product is eligible for a 2 year warranty that protects against manufacturing defects. Normal wear and tear and accidents are not covered. To register your product warranty, visit Derby Originals' website.</span></p>
+<p><span>Dried mud, hair, hay, and other debris should be regularly brushed off your blanket. A stiff dandy brush often works best for this. Keeping your blanket clean helps extend its lifespan, as well as help to keep your horse clean and happy. You can also use a damp, soapy rag to remove mud/debris and then wipe your blanket dry. Fleece blankets should only be hand washed and never machine washed. All removable parts should be removed before washing, all velcro straps velcroed together, and your blanket should only be washed in a detergent made for use with horse blankets, or gentle animal-safe cleaners. When washing, use cool water and hand wash gently. Do not use fabric softener with any of our blankets as it will damage their waterproofing and breathing abilities and prevent the blanket from wicking water and sweat off your horse. All of our blankets should be air-dried or line-dried, never put in a dryer. If your blanket becomes nicked or torn, the blanket should immediately be sewn or patched to prevent further damage from occurring.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Waterproof Construction: this blanket is made from a waterproof nylon material covered in a  Teflon coating. These blankets are guaranteed to be fully waterproof unless the blanket is ripped/torn, or the Teflon coating is damaged through improper washing or cleaning, or abuse of the blanket.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Sizing Information: our sizing correlates to the following blanket sizes: Medium (69”-72”), Large (75”-78”), and X-Large (81-84”).</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Product Information:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Blanket Style: Blanket Hood/Neck Cover<br></span></li>
+<li><span style="font-weight: 400;">Waterproof: Yes</span></li>
+<li><span style="font-weight: 400;">Breathable: Yes</span></li>
+<li><span style="font-weight: 400;">Weight: Heavy Weight</span></li>
+<li><span style="font-weight: 400;">Material: 1200D Ripstop Nylon</span></li>
+<li><span style="font-weight: 400;">Polyfil: 150g</span></li>
+<li><span style="font-weight: 400;">Inner Lining: 210T Nylon</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Neck Covers</s:tag>
+    <s:tag>Red with Black Trim</s:tag>
+    <s:tag>Royal Blue with Black Trim</s:tag>
+    <s:tag>Windstorm Series</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Cob/Arab (Medium) / Royal Blue with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038BL-MD</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Cob/Arab (Medium) / Red with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038RD-MD</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Full Horse (Large) / Royal Blue with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038BL-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Full Horse (Large) / Red with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038RD-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Warmblood/Oversize (X-Large) / Royal Blue with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038BL-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2361947226172</id>
+      <title>Warmblood/Oversize (X-Large) / Red with Black Trim</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-8038RD-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486166864</id>
+    <published>2017-06-08T15:22:27-04:00</published>
+    <updated>2017-06-08T15:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-8007"/>
+    <title>Derby Originals 600D Ripstop Nylon Waterproof Heavy Weight Winter Horse Blanket Hood with 1 Year Warranty</title>
+    <s:type>Neck Covers</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Matching_600D_Hood_80_8007.v2.v2.jpg?v=1571609167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Neck Covers<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Our 600D Ripstop Nylon Waterproof Heavyweight Winter Horse Blanket Hood was designed to provide an extra layer of protection against the elements, even in the most severe weather, for your horse’s sensitive neck. This no-rub turnout hood will not rub or damage your horse’s mane and is great for preventing snow, rain, or mud from getting on the hair. This hood has 150 grams of polyfill evenly distributed throughout it to help warm your horse and prevent chills. This hood is a great option for horses that are competing or showing during the winter season who need their manes protected, are clipped or shaved, or just need a little extra warmth.</span></p>
+<br>
+<p><b>Waterproof Construction: </b><span style="font-weight: 400;">this blanket hood is made from a waterproof nylon material covered in a Teflon coating. These blankets are guaranteed to be fully waterproof unless the blanket is ripped/torn, or the Teflon coating is damaged through improper washing or cleaning, or abuse of the blanket.</span></p>
+<br>
+<ul>
+<li>RIPSTOP NYLON OUTER SHELL - this blanket hood features a 600D ripstop nylon construction that is extremely tear and cut resistant, meaning that you can leave your horse in the barn or at pasture without worry of a hood tear.</li>
+<li>THE PERFECT BLANKET HOOD - this blanket is the perfect winter blanket hood for almost any horse and climate, due to its highly adjustable design, hefty 190g of Polyfil, and sturdy ripstop nylon shell.</li>
+<li>COMFORTABLE FIT - this blanket hood has a soft 210T nylon inner lining to prevent irritation on the hair coat or mane, and a cozy 195g of Polyfil to keep your horse warm in the worst weather.</li>
+<li>QUICK ATTACH SNAPS - this hood attaches to your blanket via three adjustable heavy-duty swiveling snaps, which allows you to adjust the placement of your hood for the best fit possible, and put it on/off with ease.</li>
+<li>ONE YEAR LIMITED MANUFACTURER’S WARRANTY - this blanket hood comes with a one year manufacturer’s warranty through Derby Originals, which protects against manufacturing and quality defects.</li>
+</ul>
+<p><b>Sizing Information</b></p>
+<p><span style="font-weight: 400;">This blanket hood is designed with the average horse in mind, and the sizing is based off that. A Small size will fit larger ponies, cobs, and smaller horses, a Medium fits most average horses or thick-necked cobs, a Large fits most larger sized horses, and an X-Large fits larger, thick-necked horses or warmbloods and some light drafts.</span></p>
+<p> </p>
+<p><b>Product Information</b></p>
+<p><span style="font-weight: 400;">Blanket Style: Turnout Hood</span></p>
+<p><span style="font-weight: 400;">Waterproof: Yes</span></p>
+<p><span style="font-weight: 400;">Breathable: Yes</span></p>
+<p><span style="font-weight: 400;">Weight: Heavy Weight</span></p>
+<p><span style="font-weight: 400;">Material: Nylon</span></p>
+<p><span style="font-weight: 400;">Denier: 600D</span></p>
+<p><span style="font-weight: 400;">Ripstop: Yes</span></p>
+<p><span style="font-weight: 400;">Tail Cover: N/A</span></p>
+<p><span style="font-weight: 400;">Wither Protector: N/A</span></p>
+<p><span style="font-weight: 400;">Shoulder Gussets: N/A</span></p>
+<p><span style="font-weight: 400;">Polyfil: 150g</span></p>
+<p><span style="font-weight: 400;">Inner Lining: 190T Nylon</span></p>
+<p><span style="font-weight: 400;">Belly Closure: N/A</span></p>
+<p><span style="font-weight: 400;">Leg Straps: N/A</span></p>
+<p><span style="font-weight: 400;">Colors Available: Black with Grey Trim</span></p>
+<p><span style="font-weight: 400;">Sizes Available: Small, Medium, Large, and X-Large</span></p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Neck Covers</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486166864</id>
+      <title>Black - Small</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8007-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486166864</id>
+      <title>Black - Medium</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8007-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486166864</id>
+      <title>Black - Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8007-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486166864</id>
+      <title>Black - X-Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>80-8007-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

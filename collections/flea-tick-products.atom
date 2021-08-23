@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/flea-tick-products.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-07-12T12:27:54-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686903312</id>
+    <published>2017-07-12T12:27:54-04:00</published>
+    <updated>2017-07-12T12:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/extra-long-pet-flea-comb-by-cutenfuzzy"/>
+    <title>CuteNfuzzy Extra Long Pet Flea Comb</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cutenfuzzy_Extra_Long_Pet_Flea_Comb_Main-GY_99-1008.jpg?v=1593715556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The flea comb is great for controlling fleas and flea eggs. Slim handle for comfortable grip.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Removes fleas, eggs, and flea dirt from fur</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Removes dander</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Long comb is great for dogs with long fluffy fur</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>Flea &amp; Tick Products</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686903312</id>
+      <title>Grey</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>99-1008-GY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686903312</id>
+      <title>Purple</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>99-1008-PL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492922640</id>
+    <published>2017-06-09T12:00:24-04:00</published>
+    <updated>2017-06-09T12:00:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1001"/>
+    <title>CuteNfuzzy Pet Flea Comb</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Flea_Comb_Pet_Pink_And_Blue_Main_99-1001.jpg?v=1595348792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Don't let pesky fleas irritate your faithful companion. Comb removes fleas, eggs, and flea dirt from fur. Stainless steel pins provide durability. The handle is made of TPE and PP which are environmentally friendly materials. This helps protect people and pets with skin allergies. Suitable for daily combing for all kinds of pets.<br>
+<ul class="product-features-list">
+<li>Stainless steel pins provide durability.</li>
+<li>Suitable for daily combing for all kinds of pets.</li>
+<li>Removes fleas, eggs, and flea dirt from fur.</li>
+<li>The handle is made of TPE and PP which are environmentally friendly materials. This helps protect people and pets with skin allergies.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>Flea &amp; Tick Products</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492922640</id>
+      <title>Pink</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1001-PK</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492922640</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1001-BL</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485462928</id>
+    <published>2017-06-08T13:02:00-04:00</published>
+    <updated>2017-06-08T13:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1015"/>
+    <title>CuteNfuzzy Easy Tick Remover Pinchers</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tick_Remover_Pinchers_Easy_Use_Red_Main_99-1015.jpg?v=1594057691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Use this handy tool to remove them with ease. Ticks can transmit diseases such as Lyme disease. The longer the ticks are left to feed, the greater risk your pet faces. Spring system makes grabbing and removal simple.</p>
+<ul class="product-features-list">
+<li>Ticks can transmit diseases such as Lyme Disease</li>
+<li>Quick removal is key to preventing disease transmittal</li>
+<li>Spring system makes grabbing and removal simple</li>
+<li>A must have for every dog owner!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>BF50</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming</s:tag>
+    <s:tag>Flea &amp; Tick Products</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>tick remover</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462928</id>
+      <title>Red</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>99-1015-RD</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

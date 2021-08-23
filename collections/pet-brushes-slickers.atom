@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/pet-brushes-slickers.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-07-12T12:27:54-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686903312</id>
+    <published>2017-07-12T12:27:54-04:00</published>
+    <updated>2017-07-12T12:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/extra-long-pet-flea-comb-by-cutenfuzzy"/>
+    <title>CuteNfuzzy Extra Long Pet Flea Comb</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cutenfuzzy_Extra_Long_Pet_Flea_Comb_Main-GY_99-1008.jpg?v=1593715556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The flea comb is great for controlling fleas and flea eggs. Slim handle for comfortable grip.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Removes fleas, eggs, and flea dirt from fur</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Removes dander</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Long comb is great for dogs with long fluffy fur</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>Flea &amp; Tick Products</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686903312</id>
+      <title>Grey</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>99-1008-GY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686903312</id>
+      <title>Purple</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>99-1008-PL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686897616</id>
+    <published>2017-07-12T12:23:22-04:00</published>
+    <updated>2017-07-12T12:23:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/ultimate-pet-shedding-comb-by-cutenfuzzy"/>
+    <title>Ultimate Pet Shedding Comb by cuteNfuzzy®</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pet-Shedding-Comb-1009-Main.v2.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This brush is great for removing excess fur from your pet's coat. Excellent for the do-it-yourselfer or the professional!</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Great for removing loose fur and dander</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Helps remove and prevent matting</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Alternating steel teeth makes loose fur removal easier</li>
+<li>Anti-slip handle for a comfortable grip</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>Deshedding Tools</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686897616</id>
+      <title>Red</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1009-RD</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686897616</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1009-BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686895248</id>
+    <published>2017-07-12T12:20:40-04:00</published>
+    <updated>2017-07-12T12:20:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/double-sided-pet-grooming-brush"/>
+    <title>CuteNfuzzy Double Sided Pet Grooming Brush</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Grooming_Brush_Double_Sided_Pet_Top_View_99-1002.jpg?v=1595277291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Designed with comfort in mind, the stainless steel pins sitting on the cushion pad allows your pet to enjoy hair cleaning and skin massage at the same time. Pins help gently separate and untangle hair while the soft bristles gently brush your pet without scratching the skin.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Stainless steel pins on the cushion pad allows your pet to enjoy hair cleaning and skin massage at the same time</li>
+<li>
+<i class="fa fa-check"></i><span> </span>One side for separating and untangling hair</li>
+<li>
+<i class="fa fa-check"></i><span> </span>One side for brushing and maintaining coat</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Bristle side doubles as clothes brush</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686895248</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>99-1002-BL</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686895248</id>
+      <title>Pink</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>99-1002-PK</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686886288</id>
+    <published>2017-07-12T12:14:46-04:00</published>
+    <updated>2017-07-12T12:14:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/pet-dematting-comb-by-cutenfuzzy"/>
+    <title>CuteNfuzzy Pet Dematting Comb</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Dematting_Comb_Pink_And_Blue_Main_99-1003.jpg?v=1595277701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An excellent choice for long-haired pets as it helps remove that hard to get to undercoat! With regular use, mats are a thing of the past!</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Sharp wave-shaped stainless steel blades are the perfect distance apart to allow easy removal of tangles and mats</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Handle is ergonomically designed, allowing comfortable grip</li>
+<li>
+<span>The blades </span>cannot be reversed</li>
+<li>
+<i class="fa fa-check"></i><span> </span>The handle is made of TPE and PP which are environmentally friendly materials, safe for pets and people with skin allergies</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686886288</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>99-1003-BL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686886288</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>99-1003-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686880784</id>
+    <published>2017-07-12T12:10:49-04:00</published>
+    <updated>2017-07-12T12:10:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/self-cleaning-pet-slicker-brush"/>
+    <title>CuteNfuzzy Self Cleaning Pet Slicker Brush</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Slicker_Brush_Pet_Pink_And_Blue_Main_99-1000.jpg?v=1595276808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Designed with comfort in mind, the brush head pins are seamed by ultrasonic welding. The brush is great for removing loose fur and dander. Keep your pet's coat shiny and soft. Large.</p>
+<ul class="list-unstyled product-feautres-list">
+<li>Great for Velcro Restoration on dog coats, blankets &amp; fly masks etc.</li>
+<li>Great for removing loose fur and dander.</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Soft handle is made of TPE and PP which are environmentally friendly materials. This protects you and your pet from allergies.</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Brush head parts are seamed by ultrasonic welding.</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Self-clean design allows you to remove the loose fur conveniently by one press of the button after fur grooming.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686880784</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>99-1000-BL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686880784</id>
+      <title>Pink</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>99-1000-PK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485463696</id>
+    <published>2017-06-08T13:02:06-04:00</published>
+    <updated>2017-06-08T13:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1013"/>
+    <title>Double-Sided Combo Pet Slicker Brush</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Slicker_Brush_Double_Sided_Pet_Main_99-1013.jpg?v=1594061831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Designed with comfort in mind, the pins setting on the cushion pad is great for removing loose fur and dander while the bristles brush the coat without scratching the skin.</p>
+<ul class="product-features-list">
+<li>Great for Velcro Restoration on dog coats, blankets &amp; fly masks etc.</li>
+<li>Double-sided - does the work of two brushes</li>
+<li>Great for removing loose fur and dander</li>
+<li>Brush side to maintain coat</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485463696</id>
+      <title>Black</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>99-1013-BK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485420688</id>
+    <published>2017-06-08T12:53:37-04:00</published>
+    <updated>2017-06-08T12:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1011"/>
+    <title>CuteNfuzzy Premium Wire Slicker Brush for Pets</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Wire_Slicker_Brush_Pets_Red_Swatch_99-1011_99-1012..jpg?v=1593185782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            3.95 - 4.95
+            <a href="https://www.tackwholesale.com/products/99-1011">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Give new life to your favorite velcro items. Can be used to restore velcro/hook &amp; loop by removing debris &amp; hair. The bristles are approx. 1/2" long.<br>
+<ul class="product-features-list">
+<li>Great for Velcro Restoration on dog coats, blankets &amp; fly masks etc.</li>
+<li>Features fine wire bristles</li>
+<li>Comfortable grip handle helps reduce hand fatigue</li>
+<li>Available in 2 different sizes and colors</li>
+<li>Restores velcro back to its original strength</li>
+<li>Small size - 4.5" long handle, brush area <span data-mce-fragment="1">3.5" X 1.5"</span>
+</li>
+<li><span data-mce-fragment="1">Large size - 4.5" long handle, brush area 4.5" X 3"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485420688</id>
+      <title>Small - Grey</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1012-GY</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485420688</id>
+      <title>Small - Red</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1012-RD</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485420688</id>
+      <title>Large - Grey</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>99-1011-GY</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485420688</id>
+      <title>Large - Red</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>99-1011-RD</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

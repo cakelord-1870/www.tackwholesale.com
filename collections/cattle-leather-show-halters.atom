@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/cattle-leather-show-halters.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2019-03-29T13:21:16-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404290003004</id>
+    <published>2019-03-29T13:21:16-04:00</published>
+    <updated>2019-03-29T13:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-show-spotted-flat-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby New and Improved Premium Show Spotted Flat Leather Cattle Show Halter with Matching Chain Lead - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_Cow_Spots_Black.v2_3d4918f9-e625-4760-bf76-a8c0d52532fb.jpg?v=1574528213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">ADORNED WITH SHOW SPOTS - these show halters feature shiny stainless show spots that provide contrast against the dark leather and add an elegant and royal feel.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404246683708</id>
+    <published>2019-03-29T13:21:10-04:00</published>
+    <updated>2019-03-29T13:21:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-leather-round-rolled-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby Originals New and Improved Premium Round Rolled Leather Cattle Show Halter with Matching Chain Lead  - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cattle-Halters-Rolled-Colors.v2_d41452a7-ceb6-43c0-96c5-4f19c76b506a.jpg?v=1574533974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin-bottom: 0in; line-height: 100%;" align="justify"><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER CONSTRUCTION - this elegant show halter features a solid premium-leather construction, with flexible, supple rolled leather on the nose and cheeks, an adjustable flat leather crown, and sturdy leather stays to keep the halter’s shape in the ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in the sizes Small, Medium, and Large and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404267491388</id>
+    <published>2019-03-29T13:20:59-04:00</published>
+    <updated>2019-03-29T13:20:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-flat-fancy-stitch-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby New and Improved Premium Flat Fancy Stitch Leather Cattle Show Halter with Matching Chain Lead - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cattle-Halter-FS-Colors_grande_ebf92800-1e84-45ae-a28e-c8daad0ac68c.jpg?v=1574548910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER CONSTRUCTION - this elegant show halter features a solid premium-leather construction, with flexible, supple flat leather on the nose and cheeks, an adjustable flat leather crown, and sturdy leather stays to keep the halter’s shape in the ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404279156796</id>
+    <published>2019-03-29T13:20:44-04:00</published>
+    <updated>2019-03-29T13:20:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-crystal-bling-rhinestone-inlay-flat-leather-cattle-show-halter-chain-lead-arranty"/>
+    <title>Derby New &amp; Improved Premium Crystal Bling Rhinestone Inlay Flat Leather Cattle Show Halter with Chain Lead   - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/f4e88f00-d815-4691-9aca-8c4232131645_c232d286-9787-439b-a04f-d939512259da.jpg?v=1574531548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">ADORNED WITH RHINESTONE INLAY - this elegant show halter features two rows of bright white rhinestones that are sure to dazzle in the show ring and make your cow look like royalty.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

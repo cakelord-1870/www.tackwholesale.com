@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/nail-care.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-06-09T11:34:55-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492764880</id>
+    <published>2017-06-09T11:34:55-04:00</published>
+    <updated>2017-06-09T11:34:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1006"/>
+    <title>CuteNfuzzy Professional Heavy Duty Pet Nail Clipper with Nail File</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Nail_Clipper_Pet_Heavy_Duty_Pink_And_Blue_Main_99-1006.jpg?v=1595338802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your pets nails a healthy length with these nail clippers. Handle is made of TPE and PP which are environmentally friendly materials - helps protect people and pets with skin allergies. Stainless steel blades are polished and nickel-plated, sharp and durable. A nail file at the end of the handle is used to trim the nail after cutting. A safety lock allows you to lock the clipper when it's not in use.<br>
+<ul class="product-features-list">
+<li>Stainless steel blades are polished and nickel-plated</li>
+<li>Movable safety shield is installed on the blades to prevent over cutting.</li>
+<li>Spring devices between the handles allow smooth cutting and trimming</li>
+<li>A nail file at the end of the handle is used to trim the nail after cutting</li>
+<li>The handle is made of TPE and PP which are environmentally friendly materials. This helps protect people and pets with skin allergies.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Nail Care</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492764880</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>99-1006-BL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492764880</id>
+      <title>Pink</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>99-1006-PK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485885328</id>
+    <published>2017-06-08T14:36:29-04:00</published>
+    <updated>2017-06-08T14:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1007"/>
+    <title>CuteNfuzzy Professional Pet Nail Clipper w/ Bent Blade Medium</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Nail_Clipper_Pet_Bent_Blade_Medium_Image_Swatch_99-1007.jpg?v=1595339068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/S-IDq3_aCUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>Keep your pets nails a healthy length with these nail clippers. Handle is made of TPE and PP which are environmentally friendly materials - protects humans and pets from skin allergies. Stainless steel blades are polished and nickel-plated, sharp and durable. A safety lock allows you to lock the clipper when it's not in use.</p>
+<ul class="product-features-list">
+<li>Stainless steel blades are polished and nickel-plated</li>
+<li>Movable safety shield installed on the blades to prevent over cutting</li>
+<li>Spring devices between the handles allow smooth cutting and trimming</li>
+<li>Safety lock to lock clipper when not in use</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Nail Care</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485885328</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>99-1007-PK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485885328</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>99-1007-BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

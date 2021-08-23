@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/livestock-nylon-halters.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2021-03-03T13:32:31-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/688566861884</id>
+    <published>2021-03-03T13:32:31-05:00</published>
+    <updated>2021-03-03T13:32:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-goat-halter-3-4-small-black-nylon"/>
+    <title>Weaver Leather Goat Halter, 3/4&quot; Small Black Nylon</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/27116-003-0022316_m.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 3/4" nylon criss-cross halter features nickel plated hardware that's in-line with today's trends. In classic colors, this halter offers a secure fit. Durable nickel plated hardware. Made by Weaver. Small size.</span></p>
+<ul>
+<li>Size: Small</li>
+<li>3/4" Nylon</li>
+<li>Nickel Plated Hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Goat</s:tag>
+    <s:tag>Goat Halter</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688566861884</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">12.49</s:price>
+      <s:sku>35-7100-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9493051408</id>
+    <published>2019-08-02T13:19:50-04:00</published>
+    <updated>2019-08-02T13:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/3040"/>
+    <title>Mustang Mfg. Waxed Nylon Piggin &amp; Goat Strings</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Goat-String-All_f0fce354-c64e-41a0-bcab-d94a336482fd.jpg?v=1571609197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Don't let that goat get away! Tie him up and check your time.<br>
+<ul class="product-features-list">
+<li>Waxed rope</li>
+<li>Best suited for goats</li>
+<li>Made from 3 ply ¼" x 58" nylon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&amp; Lariats</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>blue goat string</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Goat</s:tag>
+    <s:tag>goat string</s:tag>
+    <s:tag>goat strings</s:tag>
+    <s:tag>goat tie</s:tag>
+    <s:tag>green goat string</s:tag>
+    <s:tag>hog tie</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lassos</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>piggin</s:tag>
+    <s:tag>piggin string</s:tag>
+    <s:tag>pink goat string</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>purple goat string</s:tag>
+    <s:tag>Ropes</s:tag>
+    <s:tag>roping</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Purple</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040K</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Lime Green</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040N</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040W</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/688664412220</id>
+    <published>2018-05-24T15:45:34-04:00</published>
+    <updated>2018-05-24T15:45:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-alpaca-halter-5-8-black-nylon"/>
+    <title>Weaver Leather Alpaca Halter, 5/8&quot; Black Nylon</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/51729-003-0083455_l.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            14.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 5/8" nylon criss-cross halter features nickel plated hardware that's in-line with today's trends. Available in a great selection of colors, this halter offers a secure fit. Durable nickel plated hardware.</span></p>
+<ul>
+<li>5/8" Nylon</li>
+<li>Nickel Plated Hardware</li>
+<li>Criss-cross Design</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Alpaca</s:tag>
+    <s:tag>Alpaca Halter</s:tag>
+    <s:tag>Average</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Nylon Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688664412220</id>
+      <title>Baby / Black</title>
+      <s:price currency="USD">14.09</s:price>
+      <s:sku>35-7087-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688664412220</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">14.09</s:price>
+      <s:sku>35-7089-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688664412220</id>
+      <title>Average / Black</title>
+      <s:price currency="USD">14.09</s:price>
+      <s:sku>35-7088-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/688606249020</id>
+    <published>2018-05-24T15:18:58-04:00</published>
+    <updated>2018-05-24T15:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-goat-halter-3-4-medium-blue-nylon"/>
+    <title>Weaver Leather Nylon Goat Halters 3/4&quot;</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/27123-003-0022321_l_grande_6e664c73-57e3-4376-aa11-d766e92c8fd3.jpg?v=1574532985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 3/4" nylon criss-cross halter features nickel plated hardware that's in-line with today's trends. In classic colors, this halter offers a secure fit. Durable nickel plated hardware. Made by Weaver. Medium size.</span></p>
+<ul>
+<li>Size: Medium</li>
+<li>3/4" Nylon</li>
+<li>Nickel Plated Hardware </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Goat</s:tag>
+    <s:tag>Goat Halter</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Nylon Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Small / Blue</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7100-BL</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7100-BK</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Medium / Blue</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7101-BL</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7101-BK</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Large / Blue</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7102-BL</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688606249020</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>35-7102-BK</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/43409899536</id>
+    <published>2017-12-02T14:35:37-05:00</published>
+    <updated>2017-12-02T14:35:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-barn-cow-nylon-halter"/>
+    <title>Weaver Leather Barn Cow Nylon Halter 1&quot;</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/51my4O2E6TL._SL1000.jpg?v=1571609216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Featuring a criss-cross design, this 1" nylon halter is great for tying in the barn. Durable nickel plated hardware is in keeping with today's trends. </span></p>
+<ul>
+<li>Features a Criss-cross Design</li>
+<li>1" Nylon</li>
+<li>Nickel Plated Hardware</li>
+</ul>
+<ul class="list-unstyled product-feautres-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/43409899536</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>35-8003-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/43409899536</id>
+      <title>Small / Red</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>35-8003-RD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/43409899536</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>35-8004-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/43409899536</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>35-8005-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/43409899536</id>
+      <title>X-Large / Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>35-8006-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486090448</id>
+    <published>2017-06-08T15:12:53-04:00</published>
+    <updated>2017-06-08T15:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/90-9050"/>
+    <title>Derby Originals Adjustable Nylon Livestock Cattle Halters Available in Multiple Colors</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Nylon_Cow_Halter_Swatch_Image_Royal_Blue_90-9050.jpg?v=1619810468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z3YdMYzETk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: left;"> </p>
+<p>No matter what breed or type of cow you have, Derby has a nylon halter designed to fit them! With four sizes and five attractive color options, you're sure to find the perfect fit and style for your cow. These halters are a great all-purpose halter: affordable, high quality, and perfect for the barn or pasture. They're built with sturdy double nylon, have reinforced stitching, and durable nickel hardware. This is a halter that's built strong and made to last and look attractive for many years.<span></span></p>
+<p><span>NEW IMPROVED SIZING - we've listened to our customers and have changed our sizing to be more accurate. "Newborn" is now "Small 250-500lbs", "Calf" is now "Medium 500-800lbs", "Cow" is now "Large 800-1400lbs", and "Steer" is now "X-Large 1400-2000+ lbs".</span><br><span></span><br><span>DESIGNED TO FIT ALL BREEDS - these figure-8 style nylon halters are designed to fit all dairy and beef breeds of cattle thanks to their adjustable design. More holes can be added to the crowns of these halters to adjust the fit as needed.</span><br><span></span><br><span>DURABLE AND CLASSIC DESIGN - these halters have an adjustable figure-8 design that makes them perfect for use with cows, foals, miniature horses, and more. Our halters are built to last and made with premium hardware and nylon.</span><br><span></span><br><span>AVAILABLE IN MULTIPLE COLORS – our cattle halters are available in five attractive colors: Black, Royal Blue, Lime Green, Red, and Pink, so that you can choose the color that best complements your cow!</span><br><span></span><br><span>NEW SIZING FOR 2020 - please be aware that you may receive halters with our old size names listed on them, but rest assured you have received the correct size you ordered and it matches our new sizing chart.</span></p>
+<div class="celwidget aplus-module module-4">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" style="max-height: 700px; _height: 700px;">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper">
+<div class="apm-spacing">
+<div class="apm-floatleft">
+<h3 class="a-spacing-small a-color-secondary" style="text-align: center;"></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="celwidget aplus-module module-11">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="360" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" style="max-height: 360px; _height: 360px;">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<div class="apm-sidemodule aplus-module-content"></div>
+<div class="apm-sidemodule aplus-module-content"><strong>Size Chart</strong></div>
+<div class="apm-sidemodule aplus-module-content"></div>
+<div class="apm-sidemodule aplus-module-content">Small (350 lbs - 700 lbs)<br>Crown: 13.5" - 17.5"<br>Cheekpiece: 6.25"<br>Noseband: 9.5"<br><br>Medium (650 lbs - 1,050 lbs)<br>Crown: 15.5" - 19.5"<br>Cheekpiece: 7.25"<br>Noseband: 11"<br><br>Large (950 lbs - 1,500 lbs)<br>Crown: 19.5" - 23.5"<br>Cheekpiece: 8.25"<br>Noseband: 12.25"<br><br>X-Large (1,400 lbs - 1,650 lbs)<br>Crown: 25.5" - 29.5"<br>Cheekpiece: 9"<br>Noseband: 13"</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>CM</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large (Cow)</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>livestock show halter</s:tag>
+    <s:tag>livestock supplies</s:tag>
+    <s:tag>Medium (Calf)</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Small (Newborn)</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>X-Large (Steer)</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050BK-NB</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Small / Lime Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050LM-NB</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Small / Hot Pink</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050PK-NB</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Small / Royal Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RB-NB</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Small / Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RD-NB</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050BK-CF</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Medium / Lime Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050LM-CF</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Medium / Hot Pink</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050PK-CF</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Medium / Royal Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RB-CF</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Medium / Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RD-CF</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050BK-CW</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Large / Lime Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050LM-CW</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Large / Hot Pink</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050PK-CW</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Large / Royal Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RB-CW</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>Large / Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RD-CW</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>X-Large / Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050BK-ST</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>X-Large / Lime Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050LM-ST</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>X-Large / Hot Pink</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050PK-ST</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>X-Large / Royal Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RB-ST</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486090448</id>
+      <title>X-Large / Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>90-9050RD-ST</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+</feed>

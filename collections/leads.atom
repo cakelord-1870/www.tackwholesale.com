@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/leads.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-11-04T16:25:02-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643013328956</id>
+    <published>2020-11-04T16:25:02-05:00</published>
+    <updated>2020-11-04T16:25:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-lead-rope"/>
+    <title>Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes with Replaceable Snap</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Lead_Rope_Cotton_Black_Swatch_11-5151_2.jpg?v=1604525011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            12.99 - 14.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-lead-rope">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes with Replaceable Snap are designed to make any activity requiring a lead rope easier and hassle-free. These premium lead ropes are made of a soft and cushioned cotton material that is comfortable to hold while remaining extremely durable. This non-bulky material is also easier to handle and store than other braided or rounded lead ropes, which are often overly heavy and hard to handle. These lead ropes measure 1” wide and are available in either 7’ or 10’ lengths. Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes are designed with removable snaps, so if anything happens to your snap over time, you can easily replace it without having to replace your entire lead rope! Our premium soft lead ropes come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lead ropes.</span></p>
+<p data-mce-fragment="1"><br></p>
+<ul>
+<li><span style="font-weight: 400;">PREMIUM DESIGN MAKES LEADING EASIER - our lead rope is made of plush cushioned cotton, which is not slippery and makes it easier to hold onto without losing your grip, as well as a removable nickel bolt snap to extend the life of your lead rope.</span></li>
+<li><span style="font-weight: 400;">REMOVABLE SNAP - our lead ropes include a heavy-duty nickel-plated bolt snap that is designed to be less intrusive and bulky than traditional snaps. This snap is easily removable so you can replace it if needed.</span></li>
+<li><span style="font-weight: 400;">CUSHIONED COTTON DESIGN - this lead rope is made of a soft cotton web that is easy and comfortable to hold, and will not chafe or irritate. This material is also extremely durable and not prone to fraying or breaking.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN TWO LENGTHS - our premium cotton lead ropes are available in 7’ and 10’ lengths to best suit your needs. These multipurpose lead ropes are perfect for tying, trailering, leading, using as a leash, and more!</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN FIVE COLORS - our premium soft lead ropes come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lead ropes.</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&apos; lead rope</s:tag>
+    <s:tag>7&apos; lead rope</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Black / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-BLK-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Black / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-BLK-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Charcoal / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-CHR-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Charcoal / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-CHR-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hot Pink / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-HPK-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hot Pink / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-HPK-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hurricane Blue / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-HBL-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hurricane Blue / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-HBL-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Red / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-RED-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Red / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-RED-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643004809276</id>
+    <published>2020-11-04T16:25:01-05:00</published>
+    <updated>2020-11-04T16:25:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-swivel-lunge-line-with-rubber-stopper-24-length"/>
+    <title>Derby Originals Premium Softgrip 24&apos; and 34&apos; Cotton Swivel Lunge Lines with Rubber Stopper</title>
+    <s:type>Lunge Lines</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Swivel_Lunge_Line_With_Rubber_Stopper_Cotton_Black_Swatch_11-5150.jpg?v=1604524782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lunge Lines<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-swivel-lunge-line-with-rubber-stopper-24-length">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Derby Originals Premium Softgrip 24' and 34' Cotton Swivel Lunge Lines with Rubber Stopper are designed to make any activity requiring a lunge line easier and hassle-free. These premium lunge lines are made of a soft and cushioned cotton material that is comfortable to hold while remaining extremely durable. This non-bulky material is also easier to handle and store than other braided or rounded lunge lines, which are often overly heavy and hard to handle. These lunge lines measure 1” wide and are available in either 24’ or 34’ lengths. All of our Derby Originals Premium Softgrip Cotton Swivel Lunge Lines are designed with removable snaps, so if anything happens to your snap over time, you can easily replace it without having to replace your entire lunge line! These lunge lines also have a heavy-duty swivel bolt built into the body of the lunge line to prevent twisting during use, and a rubber donut stopper that improves grip. Not only is this safer, but it helps ensure you’re not having to stop your training to adjust or fix your lunge line. Our premium soft lunge lines come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lunge lines.</span></p>
+<br data-mce-fragment="1">
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">PREMIUM DESIGN MAKES LUNGING EASIER - our lunge line has a rubber stopper on the end to make it easier to hold onto without losing your grip, as well as a removable nickel bolt snap, and a swivel that helps prevent tangling during use.</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">HEAVY-DUTY SWIVEL BOLT - our premium lunge lines feature a heavy-duty swivel bolt that is designed to prevent the line from tangling up during lunging, long lining, or ground driving. This added feature allows for more precise control during training.</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">CUSHIONED COTTON DESIGN - this lunge line is made of a soft cotton web that is easy and comfortable to hold, and will not chafe or irritate. This material is also extremely durable and not prone to fraying or breaking.</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">AVAILABLE IN TWO LENGTHS - our premium cotton lunge lines are available in 24’ and 34’ lengths to best suit your needs. These long lunge lines are perfect for lunging, long lining, ground driving, or using as an extra-long lead or leash.</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">AVAILABLE IN FIVE COLORS - our premium soft lunge lines come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lunge lines.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lunge line</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Black / 24ft</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11-5150-BLK-24</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Black / 34ft</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>11-5150-BLK-34</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Charcoal / 24ft</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11-5150-CHR-24</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Charcoal / 34ft</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>11-5150-CHR-34</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Hot Pink / 24ft</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11-5150-HPK-24</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Hot Pink / 34ft</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>11-5150-HPK-34</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Hurricane Blue / 24ft</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11-5150-HBL-24</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Hurricane Blue / 34ft</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>11-5150-HBL-34</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Red / 24ft</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11-5150-RED-24</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643004809276</id>
+      <title>Red / 34ft</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>11-5150-RED-34</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4113210507324</id>
+    <published>2020-01-13T11:30:26-05:00</published>
+    <updated>2020-01-13T11:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-soft-braided-poly-lead-rope-available-in-multiple-colors-and-sizes"/>
+    <title>Derby Originals Premium Soft Braided Poly Lead Rope - Available in Multiple Colors and Sizes</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/10.png?v=1574550364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            12.99 - 14.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-premium-soft-braided-poly-lead-rope-available-in-multiple-colors-and-sizes">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-weight: 400;">PREMIUM STRENGTH NICKEL HARDWARE - this lead rope features a sturdy nickel snap that is designed to be easy to open and close with a smooth trigger action, and hold up to wear and tear for many years to come.</span></li>
+<li><span style="font-weight: 400;">PLUSH BRAIDED POLY CONSTRUCTION - our premium lead rope is made from an ultra soft and plush braided poly rope that is designed to be comfortable to hold and prevent irritation or rope burns.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN FIVE COLORS - our lead ropes are available in five colors inspired by the landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN TWO LENGTHS - our lead ropes are available in two lengths: 7’ (recommended for miniature horses, smaller livestock, or applications where a shorter lead is needed)  or 10’ (the standard lead rope sizing suitable for most applications). Approx. 1" wide.<br></span></li>
+</ul>
+<p><span style="font-weight: 400;">Derby Originals Premium Braided Poly Lead Ropes are a high quality and attractive alternative to standard, boring leads. Our lead ropes are made with a unique ultra-plush braided poly construction that is much more comfortable to hold than typical stiff and scratchy stiff poly leads. Our lead ropes are designed to not fray or pull apart like other brand’s inferior leads. These attractive leads are available in five colors inspired by the landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise, and in two lengths: 7’ and 10’.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&apos;</s:tag>
+    <s:tag>10&apos; lead rope</s:tag>
+    <s:tag>10ft</s:tag>
+    <s:tag>7&apos;</s:tag>
+    <s:tag>7&apos; lead rope</s:tag>
+    <s:tag>7ft</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black lead rope</s:tag>
+    <s:tag>blue lead rope</s:tag>
+    <s:tag>brass</s:tag>
+    <s:tag>brass hardware</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>cotton lead</s:tag>
+    <s:tag>cotton lead rope</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>derby lead</s:tag>
+    <s:tag>derby lead rope</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>derby originals lead rope</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green lead rope</s:tag>
+    <s:tag>horse lead rope</s:tag>
+    <s:tag>horse stable supplies</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>lead ropes</s:tag>
+    <s:tag>lead ropes for horses</s:tag>
+    <s:tag>matching lead</s:tag>
+    <s:tag>matching lead rope</s:tag>
+    <s:tag>matching lead rope for derby halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>minature horse</s:tag>
+    <s:tag>mini horse</s:tag>
+    <s:tag>mini horse lead rope</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink lead rope</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>red lead rope</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>soft lead</s:tag>
+    <s:tag>soft lead rope</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Midnight Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-BLK-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Coral</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-CRL-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Turquoise</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-TRQ-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Midnight Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-BLK-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Coral</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-CRL-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Turquoise</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-TRQ-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Cactus Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-CGR-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Red Sand</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-RSD-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486291024</id>
+    <published>2019-12-05T14:59:02-05:00</published>
+    <updated>2019-12-05T14:59:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/11-1135-rd-wh-bl"/>
+    <title>Derby Originals Patriotic American Flag 10’ Cotton Lead Ropes with Rust Proof Brass Snaps</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Patriotic-Lead-Rope_11-1135.v2.jpg?v=1571609170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patriotic lead rope in red, white, and blue will make you stand out in the ring for sure. Made of 5/8" quality cotton, 10 ft long, with a durable swivel hook.<br>
+<p style="display: inline !important;"> </p>
+<ul>
+<li>STURDY CONSTRUCTION – these lead ropes are made with high-quality braided cotton and brass plated, rust proof, sturdy metal snaps to guarantee your lead rope lasts for years to come.</li>
+<li>PATRIOTIC DESIGN – you can show your American pride in style with these flashy and attractive red, white, and blue braided cotton leads.</li>
+<li>RUST PROOF BRASS SNAPS – our lead ropes feature brass plated, rust proof snaps that are designed to hold up to heavy use for years to come without rusting or breaking.</li>
+<li>SOLID COTTON CONSTRUCTION – these lead ropes are made from soft and sturdy braided cotton, which provides a long lasting, sustainable, renewable, and eco-friendly choice!</li>
+<li>PERFECT FOR TRAINING – whether you’re leading your horse or other animal (dog, goat, sheep, cow, etc.) around, or doing groundwork or training, these ropes are great due to their sturdy and safe construction.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton &amp; Nylon Leads</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Rope Sale</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Patriotic</s:tag>
+    <s:tag>Patriotic Horse Wear</s:tag>
+    <s:tag>Patriotic Tack</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486291024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1135-RD/WH/BL</s:sku>
+      <s:grams>553</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485458000</id>
+    <published>2017-10-23T15:31:29-04:00</published>
+    <updated>2017-10-23T15:31:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/35-2100"/>
+    <title>Weaver Poly Lead Rope with a Solid Brass 225 Snap</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/49527-002-0081511_l.jpeg?v=1574543025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">This premium polypropylene lead has a soft, broken-in feel you'll love! Features a non-rust solid brass 225 snap. Made by Weaver Leather.</p>
+<ul class="product-features-list">
+<li>Made with premium polypropylene</li>
+<li>Size: 5/8in X 10ft</li>
+<li>Solid brass snap</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue/Pink/Purple</s:tag>
+    <s:tag>Burgundy/Pink/Raspberry</s:tag>
+    <s:tag>Coral/Lavender/Mint</s:tag>
+    <s:tag>Coral/Mint</s:tag>
+    <s:tag>Cotton &amp; Nylon Leads</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Diva Pink</s:tag>
+    <s:tag>Hunter green</s:tag>
+    <s:tag>Hurricane Blue</s:tag>
+    <s:tag>Lavender/Mint/Coral</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Rope Sale</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mint/Lavender/French Blue</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink/Turquoise</s:tag>
+    <s:tag>poly</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Red/White/Blue</s:tag>
+    <s:tag>rope</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>weaver</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Mint/Lavender/French Blue</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-Q15</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Coral/Lavender/Mint</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-Q16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Lavender/Mint/Coral</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-C11</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Coral/Mint</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-T30</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Mint</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S47</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Hunter green</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S13</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Burgundy/Pink/Raspberry</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-K13</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Purple</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Raspberry</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S18</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Diva Pink</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Pink</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-S29</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Red/White/Blue</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-W9</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Pink/Turquoise</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-T27</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458000</id>
+      <title>Blue/Pink/Purple</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>35-2100-B16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485877904</id>
+    <published>2017-10-11T09:57:08-04:00</published>
+    <updated>2017-10-11T09:57:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-3083-bk"/>
+    <title>Derby Originals Matching Leather and Web Lead with Brass Snap and Stopper</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Web_Leather_Lead_3083.v2.jpg?v=1571609143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #00ff00;"><strong></strong></span>This lead supplies comfort and security. Great for training or tricky horses. Made with 1" flat web and leather for strength and durability. Attached rubber stopper and brass plated bolt snap.</p>
+<ul class="product-features-list">
+<li>1" flat web and leather lead</li>
+<li>7 ft long</li>
+<li>Brass plated rust proof bolt snap</li>
+<li>Attached rubber hand stopper</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Cotton &amp; Nylon Leads</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485877904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>30-3083-BK</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486053136</id>
+    <published>2017-06-08T15:06:25-04:00</published>
+    <updated>2017-06-08T15:06:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-3082"/>
+    <title>Matching Leather Lead for Paris Tack Halter w/ Rhinestones USA Leather</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Lead_Leather_Crystals_Havana.jpg?v=1571609150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect accompaniment to our Paris Tack Padded Halters with Rhinestone Crystals, this beautiful matching leather lead is perfect for your next show or event. Stunning sparkling rhinestone crystals - each row is 9-1/2" long.  Style at a great value.<br><ul class="product-features-list">
+<li>Double layered leather by Wickett &amp; Craig of America</li>
+<li>Premium quality 1" wide leather lead</li>
+<li>Features 2 rows of sparkling rhinestone crystals - each row is 9-1/2" long</li>
+<li>29" long chain</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486053136</id>
+      <title>Havana</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>30-3082HV</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486053136</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>30-3082BK</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485975632</id>
+    <published>2017-06-08T14:52:20-04:00</published>
+    <updated>2017-06-08T14:52:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/11-1110b"/>
+    <title>Derby Originals Striped Multicolor 10’ Cotton Lead Ropes with Rust Proof Brass Snaps</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Lead_Rope_Cotton_Rust_Proof_Royal_Blue_And_Light_Blue_Swatch_11-1110B.jpg?v=1594218528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heavy-duty 5/8" round striped cotton lead rope is perfect for all your horse handling needs. Features a brass finish bolt snap with 10 feet of quality soft cotton. Ideal for groundwork. <br>
+<ul>
+<li>STURDY CONSTRUCTION – these lead ropes are made with high-quality braided cotton and brass plated, rust proof, sturdy metal snaps to guarantee your lead rope lasts for years to come.</li>
+<li>MULTIPLE COLORS AVAILABLE – our lead ropes are available in four attractive and fun colors: Purple/Lavender, Pink/Light Pink, Royal Blue/Light Blue, and Navy Blue/Red.</li>
+<li>RUST PROOF BRASS SNAPS – our lead ropes feature brass plated, rust proof snaps that are designed to hold up to heavy use for years to come without rusting or breaking.</li>
+<li>SOLID COTTON CONSTRUCTION – these lead ropes are made from soft and sturdy braided cotton, which provides a long lasting, sustainable, renewable, and eco-friendly choice!</li>
+<li>PERFECT FOR TRAINING – whether you’re leading your horse or other animal (dog, goat, sheep, cow, etc.) around, or doing groundwork or training, these ropes are great due to their sturdy and safe construction.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton &amp; Nylon Leads</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Rope Sale</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Navy/Red</s:tag>
+    <s:tag>Pink/Light Pink</s:tag>
+    <s:tag>Purple/Lavender</s:tag>
+    <s:tag>Royal Blue/Light Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485975632</id>
+      <title>Purple/Lavender</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1110B-LPR/DPR</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485975632</id>
+      <title>Navy/Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1110B-NV/RD</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485975632</id>
+      <title>Royal Blue/Light Blue</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1110B-RB/LtB</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485975632</id>
+      <title>Pink/Light Pink</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1110Pk/Dpk</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485923024</id>
+    <published>2017-06-08T14:42:58-04:00</published>
+    <updated>2017-06-08T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-pt6022"/>
+    <title>Fancy Stitch Raised Leather Lead for Horse Halters Matches Paris Tack Halters</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leather-Lead-PT-FS-Raised-CH.jpg?v=1571609144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An excellent lead for a show features wide Australian leather with fancy stitching and raised padding. The solid brass hardware adds even more style and durability.<br>
+<ul class="product-features-list">
+<li>1" wide Australian Leather made by Paris Tack</li>
+<li>Quality leads to match Paris Tack Fancy Stitch Padded Halters -- loop on end for easy handling</li>
+<li>These supple leather leads feature fancy stitching and raised padding</li>
+<li>20" long chain made from solid brass hardware</li>
+<li>69" long leather section</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485923024</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-PT6022</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/96730644496</id>
+    <published>2017-06-08T14:39:59-04:00</published>
+    <updated>2017-06-08T14:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-fancy-stitched-leather-stable-lead-dark-brown"/>
+    <title>Derby Originals Fancy Stitched Leather Stable Lead - Dark Brown</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Lead_Fancy_Stitch_Matches_Halter.jpg?v=1571609218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This premium quality leather lead matches our fancy stitch padded leather halters. Double Layered Leather by Wickett &amp; Craig of America. 1" wide leather. 23" long chain</p>
+<ul class="product-features-list">
+<li>1 inch wide leather</li>
+<li><span class="a-list-item"> 23 inch long chain </span></li>
+<li><span class="a-list-item"> Matches fancy stitch leather halters </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/96730644496</id>
+      <title>Brown</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-6022PFS-BR-F</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+</feed>

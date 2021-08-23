@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/grooming-totes.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-11-14T10:18:36-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4678188400700</id>
+    <published>2020-11-14T10:18:36-05:00</published>
+    <updated>2020-11-14T10:18:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-ringside-large-horse-grooming-supply-tote-bag"/>
+    <title>Derby Originals Premium Ringside Large Horse Grooming Supply Tote Bag</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tote_Bag-Grooming-90-9277-All-Colors2021.jpg?v=1611949310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals Premium Ringside Large Horse Grooming Supply Tote Bags are new for 2020! Due to customer demand, we’ve finally released these colorful grooming totes which match our famous Derby Originals horse grooming kits. These new grooming totes feature a large central pocket that is perfect for storage and 6 extra outside pockets around the tote for extra storage. Our grooming totes measure 12” long, 8” wide, and 9” tall, and include a removable padded shoulder strap that can extend from 29” to 36” long. Our grooming kits are available in the colors Mint/Green, Grey/Black, Magenta/Black, and Purple/Lavender and are perfect for equestrians young and old, pet owners, or that special person in your life who’s looking for the perfect tote! <b data-mce-fragment="1">Additional grooming tools sold separately.</b></span></p>
+<br>
+<p><span style="font-weight: 400;">MULTIPURPOSE GROOMING TOTE - our fun colorful tote bags aren’t just for horse grooming but are great for storing pet grooming supplies, gear for trail rides or shows, cleaning supplies, and more!</span></p>
+<p><span style="font-weight: 400;">MATCHES OUR BEST-SELLING GROOMING KITS - due to customer demand, we’ve finally released these colorful grooming totes which match our famous Derby Originals horse grooming kits.</span></p>
+<p><span style="font-weight: 400;">MAKES A GREAT GIFT - our grooming tote bags are available in four fun color combinations and are perfect for equestrians young and old, pet owners, or that special person in your life who’s looking for the perfect tote!</span></p>
+<p><span style="font-weight: 400;">GREAT FOR ORGANIZATION - our grooming totes feature a large central pocket that is perfect for storage and 6 extra outside pockets around the tote for extra storage. Our grooming totes measure 12” long, 8” wide, and 9” tall.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN FOUR COLORS - our grooming kits are available in the colors Mint/Green, Grey/Black, Magenta/Black, and Purple/Lavender.</span></p>
+<br><br>
+<p><span style="font-weight: 400;">Measurements:</span></p>
+<p><span style="font-weight: 400;">Length: 12”</span></p>
+<p><span style="font-weight: 400;">Width: 8”</span></p>
+<p><span style="font-weight: 400;">Height: 9”</span></p>
+<p><span style="font-weight: 400;">Number of Pockets: 6</span></p>
+<p><span style="font-weight: 400;">Strap: 29” - 36”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grooming Bag</s:tag>
+    <s:tag>Multi-colored grooming bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188400700</id>
+      <title>Grey/Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9277-GRY</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188400700</id>
+      <title>Magenta/Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9277-MGA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188400700</id>
+      <title>Green/Mint</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9277-MNT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188400700</id>
+      <title>Purple/Lavender</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9277-PUR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4678188007484</id>
+    <published>2020-11-14T10:16:01-05:00</published>
+    <updated>2020-11-14T10:16:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-comfort-large-horse-grooming-supply-tote-bag"/>
+    <title>Derby Originals Premium Comfort Horse Grooming Tote Bag for Organization Available in 4 Colors</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Premium_Comfort_Horse_Grooming_Kit_Green_Mint_Swatch_90-9276.png?v=1605564681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals Premium Comfort Large Horse Grooming Supply Tote Bags are new for 2020! Due to customer demand, we’ve finally released these colorful grooming totes which match our famous Derby Originals horse grooming kits. These new grooming totes feature a large central pocket that is perfect for storage and 6 extra outside pockets around the tote for extra storage. Our grooming totes measure 12” long, 8” wide, and 9” tall, and include a removable padded shoulder strap that can extend from 29” to 36” long. Our grooming kits are available in the colors Mint/Green, Grey/Black, Pink/Purple, and Purple/Lavender and are perfect for equestrians young and old, pet owners, or that special person in your life who’s looking for the perfect tote! <b data-mce-fragment="1">Additional grooming tools sold separately.</b></span></p>
+<p><br></p>
+<ul>
+<li><span style="font-weight: 400;">MULTIPURPOSE GROOMING TOTE - our fun colorful tote bags aren’t just for horse grooming but are great for storing pet grooming supplies, gear for trail rides or shows, cleaning supplies, and more!</span></li>
+<li><span style="font-weight: 400;">MATCHES OUR BEST-SELLING GROOMING KITS - due to customer demand, we’ve finally released these colorful grooming totes which match our famous Derby Originals horse grooming kits.</span></li>
+<li><span style="font-weight: 400;">MAKES A GREAT GIFT - our grooming tote bags are available in four fun color combinations and are perfect for equestrians young and old, pet owners, or that special person in your life who’s looking for the perfect tote!</span></li>
+<li><span style="font-weight: 400;">GREAT FOR ORGANIZATION - our grooming totes feature a large central pocket that is perfect for storage and 6 extra outside pockets around the tote for extra storage. Our grooming totes measure 12” long, 8” wide, and 9” tall.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN FOUR COLORS - our grooming kits are available in the colors Mint/Green, Grey/Black, Pink/Purple, and Purple/Lavender.</span></li>
+</ul>
+<p><br></p>
+<p><span style="font-weight: 400;">Measurements:</span></p>
+<p><span style="font-weight: 400;">Length: 12”</span></p>
+<p><span style="font-weight: 400;">Width: 8”</span></p>
+<p><span style="font-weight: 400;">Height: 9”</span></p>
+<p><span style="font-weight: 400;">Number of Pockets: 6</span></p>
+<p><span style="font-weight: 400;">Strap: 29” - 36”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grooming Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188007484</id>
+      <title>Grey/Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9276-GRY</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188007484</id>
+      <title>Green/Mint</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9276-MNT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188007484</id>
+      <title>Pink/Purple</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9276-PPU</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4678188007484</id>
+      <title>Purple/Lavender</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>90-9276-PUR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4460646989884</id>
+    <published>2020-02-13T14:57:14-05:00</published>
+    <updated>2020-02-13T14:57:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-horse-carry-tote-bag-for-horse-or-pet-grooming-items"/>
+    <title>Derby Horse Carry Tote Bag for Horse or Pet Grooming Items</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/91-7032Chocolate_Tote_Bag.jpg?v=1581624128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carry all of your handy grooming tools in one convenient tote bag. It has both hand straps and a removable shoulder strap. It has 6 outside pockets for additional storage.<br></p>
+<p>Size: 11.5" Wide by 7.5" deep by 9" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4460646989884</id>
+      <title>Chocolate/Tan</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>91-7032CH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485936016</id>
+    <published>2018-01-16T16:46:06-05:00</published>
+    <updated>2018-01-16T16:46:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/90-9275"/>
+    <title>Nylon Horse / Dog Multi Pocket Grooming Tote Bag</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Nylon-Grooming-Tote_90-9275_2016.v2.jpg?v=1571609145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nylon Grooming Tote Bag made of durable nylon is great for the barn, an extra tote for the trailer, or a gift for a friend.<br>
+<ul class="product-features-list">
+<li>Made from durable nylon and canvas</li>
+<li>2 pockets on the front and back with elastic straps to help secure items</li>
+<li>Features two nylon handles for convenience</li>
+<li>Pockets on each side</li>
+<li>Great for cleaning supplies!</li>
+<li>Size: 8.5" H x 6.5" W x 10" L</li>
+</ul>
+<p><span rwr="1" style="font-family: Arial; font-size: large;" size="4"><b>Grooming items pictured with tote bag are not included.</b></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Flash Sale</s:tag>
+    <s:tag>Stable &amp; Trailer Supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485936016</id>
+      <title>Red/Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>90-9275RDBK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485936016</id>
+      <title>Orange/Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>90-9275-ORBK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485936016</id>
+      <title>Turquoise/Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>90-9275-TQBK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492943824</id>
+    <published>2017-10-23T15:51:44-04:00</published>
+    <updated>2017-10-23T15:51:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/90-9286"/>
+    <title>Nylon Horse / Dog Grooming Carry Tote Bag</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Grooming-Totoe-Bag-Orange.v3_grande_f445c9c3-1cc5-4f59-80fd-ce6c8f4af7ba.jpg?v=1571609193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Nylon Grooming Tote Bag is great for the barn, a gift for a friend, or an extra tote for the trailer. Great for shows or the stables.<br>
+<ul class="product-features-list">
+<li>Features two nylon handles for convenience</li>
+<li>Made from durable nylon</li>
+<li>2 pockets on the front and back with elastic straps to help secure items</li>
+<li>Grooming items sold separately</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Stable &amp; Trailer Supplies</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492943824</id>
+      <title>Purple</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>90-9286-PR</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492943824</id>
+      <title>Orange</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>90-9286OR</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492958480</id>
+    <published>2017-06-09T12:05:46-04:00</published>
+    <updated>2017-06-09T12:05:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7184"/>
+    <title>Large Plastic Grooming Tote Caddy</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Plastic-Grooming-Tote-Main_9d3a547e-ee57-428e-88d0-32c77503016d.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This large plastic tote is handy to keep in your stable or take with you on the road.<br>
+<ul class="product-features-list">
+<li>Convenient for stacking within each other for storage</li>
+<li>Size: 13.5" X 8.25" X 4.5"</li>
+<li>Grooming tote is divided into 3 sections</li>
+<li>Features a handle to easy carrying</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>Stable Supply Essentials</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492958480</id>
+      <title>Pink</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>91-7184-PK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492958480</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>91-7184-BL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492958480</id>
+      <title>Red</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>91-7184-RD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485444752</id>
+    <published>2017-06-08T12:58:56-04:00</published>
+    <updated>2017-06-08T12:58:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-9000p"/>
+    <title>Patriotic USA Flag Horse Grooming Tote Bag</title>
+    <s:type>Grooming Totes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/91-9000P_Totebag2.v2.jpg?v=1593115245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Totes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Show your patriotic spirit with this red, white, and blue grooming bag. Conveniently transport your grooming supplies around the barn or at shows.</p>
+<ul class="product-features-list">
+<li>This handy tote bag has 5 compartments to keep everything in its place.</li>
+<li>Features 2 nylon handles.</li>
+<li>Red, white, and blue color is great for patriotic events.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>Patriotic Tack</s:tag>
+    <s:tag>Red/White/Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485444752</id>
+      <title>Red/White/Blue</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>91-9000P</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

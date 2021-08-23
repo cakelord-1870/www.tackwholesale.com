@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/english-apparel.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-07-30T13:27:17-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4609512702012</id>
+    <published>2020-07-30T13:27:17-04:00</published>
+    <updated>2020-07-30T13:27:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/troxel-capriole-english-helmet"/>
+    <title>Troxel Capriole English Helmet</title>
+    <s:type>Helmets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Helmet_Capriole_L.jpg?v=1596130141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Helmets<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Capriole is the perfect everyday helmet for the beginner show rider, and with its excellent ventilation, it is also the answer for a show appearance in hot weather!</p>
+<p>Size: Small (up to 21-1/2"), Medium (22" - 22-3/4"), and Large (22-3/4"+)</p>
+<div class="product-tabs">
+<div class="tab-content hidden-xs">
+<div id="tab1" class="tab-pane fade in active">
+<div class="product-description rte" itemprop="description">
+<p><strong>These are a warehouse find. These helmets may have minor imperfections or may be missing their original packaging. These have not been used.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4609512702012</id>
+      <title>Medium / Black Velveteen</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>31-04-141M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4609512702012</id>
+      <title>Large / Black Velveteen</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>31-04-141L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4607323439164</id>
+    <published>2020-07-27T13:04:20-04:00</published>
+    <updated>2020-07-27T13:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hair-bun-with-sparkling-crystals-closeout"/>
+    <title>Hair Bun with Sparkling Crystals</title>
+    <s:type>Breeches</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Hair_Bun_Black.jpg?v=1595869507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Breeches<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These sparkling scrunchie bun hair covers are sure to draw attention to you. They are adorned with glittering crystals and also feature two hidden mini-comb clips to hold them securely in place so they won't fall off while you're riding.  Available in ten colors. One size fits all.</span><br><br>
+<ul class="product-features-list">
+<li>Adorned with glittering crystals</li>
+<li>Two hidden mini-comb clips to hold securely in place</li>
+<li>Available in ten colors</li>
+<li>One size fits all</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4607323439164</id>
+      <title>Baby Blue</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-3220BB</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4607323439164</id>
+      <title>Lavender</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-3220LV</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4557095960636</id>
+    <published>2020-05-28T13:26:20-04:00</published>
+    <updated>2020-05-28T13:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/troxel-sierra-western-helmets"/>
+    <title>Troxel Sierra Western Helmets</title>
+    <s:type>Helmets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Helmet-Troxel-Sierra-Tan.jpg?v=1590687413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Helmets<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Engineered to withstand the toughest terrain, the Sierra’s nylon and leather covering looks good while protecting the shell from scratches. The comfortable, self-adjusting SureFit™ Pro system and Air-Channel ™ headliner perform flawlessly to provide all day comfort on the trail or in the arena.</p>
+<p><span>Key features include:</span></p>
+<ul>
+<li>Low profile</li>
+<li>Rugged leather &amp; nylon covering</li>
+<li>Mesh-covered vents</li>
+<li>SureFit™ Pro fit system</li>
+<li>FlipFold™ removable washable headliner with Air-Channel™ technology</li>
+<li>ASTM/SEI-certified</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>X-Small / Black</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-067XS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>X-Small / Tan</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-068XS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-067S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-067M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-067L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4557095960636</id>
+      <title>Large / Tan</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>31-04-068L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4543350112316</id>
+    <published>2020-05-18T15:23:44-04:00</published>
+    <updated>2020-05-18T15:23:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/troxel-liberty-series-low-profile-riding-helmet"/>
+    <title>Troxel Liberty Series Low Profile Riding Helmet</title>
+    <s:type>Helmets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/a72dee1b-78f4-4575-9b0b-1ca50edcac4f_1.95fac767ca13126a4b00ea7a47849e45.jpg?v=1589830359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Helmets<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultralight, low profile helmet with large vents providing superior ventilation for a cooler, more comfortable ride. With a DialFit™ comfort system and removable and washable headliner with FlipFold shims for personal fit options, the Liberty is a great option for all types of riding disciplines.<br></p>
+<p>Key features include:</p>
+<ul>
+<li>Low profile</li>
+<li>Durable, lightweight construction</li>
+<li>Six mesh covered vents</li>
+<li>DialFit<sup>™</sup><span> </span>system</li>
+<li>NEW XS size</li>
+<li>FlipFold<sup>™</sup><span> </span>removable washable headliner with Air-Channel<sup>™</sup><span> </span>technology</li>
+<li>ASTM/SEI-certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjust</s:tag>
+    <s:tag>adjustable</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue helmet</s:tag>
+    <s:tag>cobalt</s:tag>
+    <s:tag>cobalt blue</s:tag>
+    <s:tag>comfort fit</s:tag>
+    <s:tag>competition</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>horse riding helmet</s:tag>
+    <s:tag>jumping</s:tag>
+    <s:tag>low profile</s:tag>
+    <s:tag>riding helmet</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>schooling</s:tag>
+    <s:tag>show</s:tag>
+    <s:tag>show helmet</s:tag>
+    <s:tag>troxel</s:tag>
+    <s:tag>troxel riding helmet</s:tag>
+    <s:tag>western</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-237S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Small / Colbalt</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-232S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Small / Fuchsia</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-234S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Small / Pink Duratec</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-229S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-237M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Medium / Colbalt</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-232M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Medium / Pink Duratec</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-229M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Medium / Ruby</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-228M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-237L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Large / Colbalt</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-232L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Large / Fuchsia</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-234L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4543350112316</id>
+      <title>Large / Ruby</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>04-228L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485483856</id>
+    <published>2019-11-25T15:59:57-05:00</published>
+    <updated>2019-11-25T15:59:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1575k"/>
+    <title>Derby Kids Suede Leather Half Chaps Elastic &amp; Zipper</title>
+    <s:type>Half Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Suede-Kids-Half-Chaps_elastic-zipper_75-1575K_both.v2.jpg?v=1571609141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Half Chaps<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Give your young rider the look and feel of tall boots, without the expense! These suede leather half chaps have a tapered leg with an elastic panel for a close, comfortable fit. Elasticized area gives about 1/2" to 3/4" stretch for comfort and fit. A best rated product for over 6 years!<br>
+<br>
+Size X-Small:  11 1/5 " Height at back of the knee, 9" Calf (measure the widest part)<br><ul class="product-features-list">
+<li>Made with suede leather and heavy zippers</li>
+<li>Elastic stirrups and snaps at ankles</li>
+<li>Elasticized tapered leg for the perfect fit</li>
+<li>Elasticized area gives about 1/2" stretch for comfort</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485483856</id>
+      <title>Black - Kids Large</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575K-BK-ML</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485483856</id>
+      <title>Black - Kids Medium</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575K-BK-MM</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485483856</id>
+      <title>Black - Kids Small</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575K-K-MS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485483856</id>
+      <title>Black - Kids X-Small</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575K-BK-XS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485483856</id>
+      <title>Brown - Kids X-Small</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575K-BR-X</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/685591363644</id>
+    <published>2019-11-25T15:48:59-05:00</published>
+    <updated>2019-11-25T15:48:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/copy-of-derby-winter-warm-unisex-genuine-leather-gloves"/>
+    <title>Derby Originals Kids Black Leather Show Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Large_Main_ff63a41a-9393-4bec-82fd-8344d8d6cea8.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Great for every use or outdoor activities in cold weather. Excellent for horse riding and shows!<br>Made of soft and breathable genuine leather with lycra side panels finger reinforcement. Velcro and elastic closure at the wrist to ensure snugness. A great glove for a great price.<br><br>Measure around your hand at the widest part, excluding the thumb. The number of inches should equal your glove size.<br><br>Sizes:<br>•Small (6-1/2" to 7")<span> </span><br><br></p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Genuine leather with lycra side panels finger reinforcement</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Velcro and elastic closure at the wrist to ensure snugness</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Use to keep warm</li>
+<li>
+<i class="fa fa-check"></i><span> </span>See size chart to select the right fit</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Popular for horse shows</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/685591363644</id>
+      <title>Medium</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>31-3078K-M</s:sku>
+      <s:grams>1882</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/35726819344</id>
+    <published>2019-11-25T15:48:58-05:00</published>
+    <updated>2019-11-25T15:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-winter-warm-unisex-genuine-leather-gloves"/>
+    <title>Derby Winter Warm Unisex Genuine Leather Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Large_Main.jpg?v=1571609215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Great for every use or outdoor activities in cold weather. Excellent for horse riding and shows!<br>Made of soft and breathable genuine leather with lycra side panels finger reinforcement. Velcro and elastic closure at the wrist to ensure snugness. A great glove for a great price.<br><br>Measure around your hand at the widest part, excluding the thumb. The number of inches should equal your glove size.<br><br>Sizes:<br>•Small (6-1/2" to 7")<span> </span><br>• Medium (7-1/2" to 8")<span> </span><br>• Large (8-1/2" to 9")<span> </span><br>• X-Large (9" to 9-1/2")</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Genuine leather with lycra side panels finger reinforcement</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Velcro and elastic closure at the wrist to ensure snugness</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Use to keep warm</li>
+<li>
+<i class="fa fa-check"></i><span> </span>See size chart to select right fit</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Popular for horse shows</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/35726819344</id>
+      <title>X-Large</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>31-3078M-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018526800</id>
+    <published>2019-11-25T15:48:58-05:00</published>
+    <updated>2019-11-25T15:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hg215"/>
+    <title>Heritage Pro-Flow Summer Show Riding Gloves Black</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pro-Flow-Summer-Slow-Gloves-BLK_0a217c1a-b970-45d9-b3f3-d58ca205cbe5.jpg?v=1571609213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Events during summer can get really warm in show clothes. Heritage Gloves has developed this unique show glove for those hot days. This show glove is the first of its kind to be fully ventilated with a mesh top and air holes on the palm side of the glove.<br><ul class="product-features-list">
+<li>Made from soft Cabretta sheepskin leather</li>
+<li>Mesh top with air holes</li>
+<li>Fully ventilated</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018526800</id>
+      <title>6</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018526800</id>
+      <title>7</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-07</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018526800</id>
+      <title>8</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-08</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018526608</id>
+    <published>2019-11-25T15:48:57-05:00</published>
+    <updated>2019-11-25T15:48:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hg132"/>
+    <title>Heritage Ultralite Riding Gloves Black</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Ultralite-Gloves-Black.jpg?v=1571609213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Heritage Ultralite glove offers a lightweight and comfortable fit. Our glove is made of breathable mesh material to conform to your natural hand shape while providing ventilation.</span></p>
+<p> </p>
+<ul class="product-features-list">
+<li>Lightweight, breathable material</li>
+<li>Mesh material that conforms to your hand</li>
+<li>Comfortable fit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018526608</id>
+      <title>5</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>HG132-05</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9719061904</id>
+    <published>2019-11-25T15:48:57-05:00</published>
+    <updated>2019-11-25T15:48:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/heritage-ultralite-riding-gloves-black"/>
+    <title>Heritage Ultralite Riding Gloves Black</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Ultralite-Gloves-HG132.png?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Heritage Ultralite glove offers a lightweight and comfortable fit. This glove is made with breathable mesh material to conform to your natural hand shape while providing ventilation.</p>
+<ul class="list-unstyled product-feautres-list">
+<li>Lightweight, breathable material</li>
+<li>Mesh material that conforms to your hand</li>
+<li>Comfortable fit</li>
+</ul>
+<ul class="list-unstyled product-feautres-list">
+<li><i class="fa fa-check"></i></li>
+</ul>
+<ul class="list-unstyled product-feautres-list">
+<li><i class="fa fa-check"></i></li>
+</ul>
+<ul class="list-unstyled product-feautres-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719061904</id>
+      <title>5</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>HG132-05</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492608528</id>
+    <published>2019-11-25T15:48:56-05:00</published>
+    <updated>2019-11-25T15:48:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hg300"/>
+    <title>Heritage Gloves - Power Grip Nylon</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/HG300.png?v=1571609173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This very popular lightweight durable riding glove is made with our own special blend of stretchable nylon and LycraÂ® spandex. The PVC dots pattern palm design provides an excellent grip on the reins whether you are showing or pleasure riding.</p>
+<p> </p>
+<ul class="product-features-list">
+<li>Stretchable knit materials provide a comfortable fit.</li>
+<li>Reinforced PVC dot pattern palm for excellent grip.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Machine washable.</li>
+<li>Size: Adult - 7/8, 8/9, or 9/10</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5/6</s:tag>
+    <s:tag>7/8</s:tag>
+    <s:tag>8/9</s:tag>
+    <s:tag>9/10</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492608528</id>
+      <title>5/6</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>HG300-05</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492608528</id>
+      <title>7/8</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>HG300-07</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492608528</id>
+      <title>8/9</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>HG300-08</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492608528</id>
+      <title>9/10</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>HG300-09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486262352</id>
+    <published>2019-11-25T15:48:55-05:00</published>
+    <updated>2019-11-25T15:48:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/ssg-4900"/>
+    <title>SSG Econo Winter Horse Riding Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>SSG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Gloves_Econo_Winter_SSG_4900.jpg?v=1571609169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SSG<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for riding on cold wet windy weather, these gloves are windproof and water resistant with a soft micro fiber finish and leather palm and finger reinforcement, thinsulate lined. High quality gloves at an affordable price.<br>
+<br>
+Size: Unisex Small, Medium, Large<br>
+Color: Black<br>
+<br>
+Retail Price: $22.95<br>
+Our Wholesale Price: $11.95<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>SSG</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486262352</id>
+      <title>Black - Small</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>SSG-4900-BK-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486262352</id>
+      <title>Black - Medium</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>SSG-4900-BK-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486262352</id>
+      <title>Black - Large</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>SSG-4900-BK-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485321872</id>
+    <published>2019-11-25T15:48:53-05:00</published>
+    <updated>2019-11-25T15:48:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/ssg8600"/>
+    <title>SSG All Weather Horse Riding Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>SSG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Gloves_SSG_8600_All.jpg?v=1571609121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SSG<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You'll find a multitude of uses for these comfortable and long wearing riding gloves... schooling, shows, hacking, dressage... These unlined, long wearing and machine washable gloves are made of soft Aquasuede plusÂ® palm. Colorfast and sweat absorbing with strong elasticized backs for a cool comfortable fit. Velcro wrist closure keeps them secure. Washes like a rag, wears like iron. Super stylish colors.<br> <br> How to measure your glove size:<br> Measure around your hand at widest part, excluding thumb. The number of inches should equal your glove size.<br>
+<ul class="product-features-list">
+<li>Palms and fingers are constructed of Aquasuede PlusÂ®</li>
+<li>Elasticized backs</li>
+<li>Hook-and-loop wrist closures</li>
+<li>Unlined, long wearing, colorfast and sweat absorbing machine washable</li>
+<li>Glove size: Measure around your hand at widest part, excluding thumb. The number of inches should equal your glove size</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>SSG</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Child/Hot Pink</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600HP-K</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Child/Purple</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600PR-K</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Child/Neon Green</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600NG-CU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Child/Leopard</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600PL-K</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Ladies/Purple</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600PR-LU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Ladies/Leopard</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600PL-LU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485321872</id>
+      <title>Ladies/Hot Pink</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>SSG8600HP-LU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485442832</id>
+    <published>2019-01-18T13:24:47-05:00</published>
+    <updated>2019-01-18T13:24:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/31-04-046"/>
+    <title>Troxel Schooling Helmets Spirit Series</title>
+    <s:type>Helmets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/SpiritMintSerenity_1024x1024_copy.png?v=1574531130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Helmets<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The perfect lightweight, everyday schooling helmet by Troxel.<br>
+<ul class="product-features-list">
+<li>Sleek profile &amp; modern design</li>
+<li>GPS IITM soft touch dial fit system</li>
+<li>SEI Certified</li>
+<li>Flip-FoldTM Fit System</li>
+<li>Micro upper and lower shell</li>
+</ul>
+<p>Sizes</p>
+<p>S: (6 5/8"-7")</p>
+<p>M: (7"-7 1/4")</p>
+<p>L: (7 1/4"-7 3/8")</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Cheap</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>everyday helmet</s:tag>
+    <s:tag>helmet</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>sport helmet</s:tag>
+    <s:tag>Troxel</s:tag>
+    <s:tag>troxel helmet</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Periwinkle - Small</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>31-04-047S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Periwinkle - Medium</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>31-04-047M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Periwinkle - Large</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>31-04-047L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Purple Boho - Small</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-540S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Black Duratec - Small</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-551S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Black Duratec - Medium</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-551M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Black Duratec - Large</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-551L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Purple Boho - Large</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-540L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Purple Boho - Medium</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-540M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Mint Serentity - Small</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-541S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485442832</id>
+      <title>Mint Serentity - Medium</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>04-541M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485305488</id>
+    <published>2018-05-17T12:09:41-04:00</published>
+    <updated>2018-05-17T12:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1575"/>
+    <title>Derby Originals Adult and Childrens Suede Leather Half Chaps with Full Length Zippers &amp; Elastic for Horseback Riding or Motorcycle Use</title>
+    <s:type>Half Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Brown_2.jpg?v=1571609121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Half Chaps<br>
+        <strong>Price: </strong>
+            24.95 - 34.95
+            <a href="https://www.tackwholesale.com/products/75-1575">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ half chaps feature high-quality materials and are carefully constructed to ensure the best fit possible, and produce attractive half chaps that will last for many years to come. Whether you’re looking for a new pair of chaps to wear over your breeches, jodhpurs, or jeans, or are simply looking to make a fashion statement, Derby Originals has a wide assortment of options to suit your needs!</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - these half chaps are made with a high-quality suede material that is soft to the touch and will not fade when washed and features sturdy elastic stirrups, and sturdy snap and buckle closures.</span></p>
+<p><span style="font-weight: 400;">MULTIPLE SIZES - these chaps run smaller than average, so we recommend ordering 1-2 sizes up from your typical half-chap size. These chaps are available in Small, Medium, Large, X-Large, and XX-Large.</span></p>
+<p><span style="font-weight: 400;">ELASTIC STRETCH FIT - these half chaps feature elasticized areas on each leg that allow for between ½” to ¾” of stretchability to the material to ensure the best fit possible.</span></p>
+<p><span style="font-weight: 400;">PROTECTS YOUR PANTS - these half chaps are perfect for protecting your breeches, jodhpurs, or jeans from wear and tear during horseback riding or when riding motorcycles. They also make an attractive fashion statement.</span></p>
+<p><span style="font-weight: 400;">NOT JUST FOR RIDERS - these half chaps are ideal for both English or Western riders, but beyond that, they’re also ideal for motorcyclists, for use in costumes, or as a fashionable accessory to everyday boots.</span></p>
+<p> </p>
+<p><strong>Sizing</strong></p>
+<p style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1898/9069/files/Screen_Shot_2018-01-18_at_4.42.20_PM_1024x1024.png?v=1516312013" alt=""></p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>75-1575BK-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>75-1575BK-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575BK-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>75-1575BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>75-1575BK-XXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>75-1575BR-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>75-1575BR-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>75-1575BR-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Brown / X-Large</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>75-1575BR-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485305488</id>
+      <title>Brown / XX-Large</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>75-1575BR-XXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/650388537404</id>
+    <published>2018-05-03T09:34:36-04:00</published>
+    <updated>2018-05-03T09:34:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/metallic-i-love-my-horse-t-shirt-black"/>
+    <title>Metallic I Love My Horse T-Shirt Black</title>
+    <s:type>Show Shirts</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/TShirt_I_Love_My_Horse_BK.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Show Shirts<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fun t-shirt shows your love of horses.</p>
+<ul>
+<li><span class="product-features-name">95% cotton and 5% spandex</span></li>
+<li><span class="product-features-name">"I Love My Horse" is made with shiny red and silver foil circles</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/650388537404</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>6150-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/650388537404</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>6150-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/650388537404</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>6150-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/650388537404</id>
+      <title>X-Large / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>6150-XL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485376592</id>
+    <published>2018-03-19T09:30:50-04:00</published>
+    <updated>2018-03-19T09:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1578"/>
+    <title>Derby Originals Synthetic Leather Half Chaps Half Chaps with Elastic for Horseback Riding or Motorcycle Use</title>
+    <s:type>Half Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Synthetic-Half-Chaps_75-1578_both_s.v2.jpg?v=1571609124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Half Chaps<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ half chaps feature high-quality materials and are carefully constructed to ensure the best fit possible, and produce attractive half chaps that will last for many years to come. Whether you’re looking for a new pair of chaps to wear over your breeches, jodhpurs, or jeans, or are simply looking to make a fashion statement, Derby Originals has a wide assortment of options to suit your needs!</span></p>
+<p> </p>
+<p><strong>Product Features</strong></p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - these half chaps are made with a high-quality synthetic leather material that is soft to the touch and will not fade when washed, and features sturdy elastic stirrups, and sturdy velcro closures.</span></p>
+<p><span style="font-weight: 400;">MULTIPLE SIZES - These chaps are available in Small, Large, X-Large, and XX-Large. We recommend ordering a size larger than you typically wear if you plan to wear these over thick or bulky pants.</span></p>
+<p><span style="font-weight: 400;">WATERPROOF CONSTRUCTION - these half chaps are made from an easy to clean and waterproof synthetic leather material that wipes clean with a damp cloth.</span></p>
+<p><span style="font-weight: 400;">PROTECTS YOUR PANTS - these half chaps are perfect for protecting your breeches, jodhpurs, or jeans from wear and tear during horseback riding or when riding motorcycles. They also make an attractive fashion statement.</span></p>
+<p><span style="font-weight: 400;">NOT JUST FOR RIDERS - these half chaps are ideal for both English or Western riders, but beyond that, they’re also ideal for motorcyclists, for use in costumes, or as a fashionable accessory to everyday boots.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485376592</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1578BK-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485376592</id>
+      <title>X-Large / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1578BK-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485376592</id>
+      <title>XX-Large / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1578BK-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485376592</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1578BK-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485934480</id>
+    <published>2018-01-30T12:01:46-05:00</published>
+    <updated>2018-01-30T12:01:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1585"/>
+    <title>Tahoe Tack Childrens Suede Leather Multi Purpose &quot;I Love My Horse&quot; Half Chaps with Fringes for Horseback Riding or Motorcycle Use</title>
+    <s:type>Half Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1585_4_RD.jpg?v=1571609145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Half Chaps<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack’s’ half chaps feature high-quality materials and are carefully constructed to ensure the best fit possible, and produce attractive half chaps that will last for many years to come. Whether you’re looking for a new pair of chaps to wear over your breeches, jodhpurs, or jeans, or are simply looking to make a fashion statement, Tahoe Tack has a wide assortment of options to suit your needs!</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - these half chaps are made with a high-quality suede material that is soft to the touch and will not fade when washed and features sturdy elastic stirrups, and sturdy snap and buckle closures.</span></p>
+<p><span style="font-weight: 400;">MULTIPLE SIZES - These chaps are available in child’s size Small, Medium, and Large. We recommend ordering a size larger than you typically wear if you plan to wear these over thick or bulky pants.</span></p>
+<p><span style="font-weight: 400;">ELASTIC STRETCH FIT - these half chaps feature elasticized areas on each leg that allow for between ½” to ¾” of stretchability to the material to ensure the best fit possible.</span></p>
+<p><span style="font-weight: 400;">PROTECTS YOUR PANTS - these half chaps are perfect for protecting your breeches, jodhpurs, or jeans from wear and tear during horseback riding or when riding motorcycles. They also make an attractive fashion statement.</span></p>
+<p><span style="font-weight: 400;">NOT JUST FOR RIDERS - these half chaps are ideal for both English or Western riders, but beyond that, they’re also ideal for motorcyclists, for use in costumes, or as a fashionable accessory to everyday boots.</span></p>
+<p> </p>
+<p><strong>Sizing</strong></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1898/9069/files/1585_SizeCHart_1024x1024.png?v=1517331613" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>half chaps</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SUEDE</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585PUR-S</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585PUR-M</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585PUR-L</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585RD-S</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585RD-M</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485934480</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>75-1585RD-L</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018651408</id>
+    <published>2017-10-11T18:02:41-04:00</published>
+    <updated>2017-10-11T18:02:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hg118"/>
+    <title>Heritage Performance Horse Riding Gloves Pink Plaid</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pink-Plaid-Gloves-hg118_670a54cb-7698-4169-b768-5bdcdb1b9d81.png?v=1571609214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Kids, as well as adult riders, love our fun and colorful print pattern Performance riding gloves. Soft and breathable fabrics and durable palm material make this an excellent choice riding glove for all year around. Same great features as our popular Performance Colors riding gloves.</span><br>
+<ul class="product-features-list">
+<li>Stretch Spandura® material provides a comfortable fit.</li>
+<li>Super Grip® synthetic grain leather is breathable and increases grip on reins.</li>
+<li>Patented Rein Cut™ design us patent number 7,281,275.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Elastic cuff with adjustable strap.</li>
+<li>Double layer thumb.</li>
+<li>Personal I.D. Label.</li>
+<li>Machine washable line dry – do not machine dry</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>MDAY</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018651408</id>
+      <title>4</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG118-04</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018651408</id>
+      <title>5</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG118-05</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018651408</id>
+      <title>6</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG118-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018651408</id>
+      <title>7</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG118-07</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018651408</id>
+      <title>8</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG118-08</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9719152144</id>
+    <published>2017-07-18T16:04:11-04:00</published>
+    <updated>2017-07-18T16:04:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/heritage-performance-horse-riding-gloves-gallop"/>
+    <title>Heritage Performance Horse Riding Gloves Gallop</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage Gloves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/HGPerfPrints116_Lg.jpg?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Gloves<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to perform in all uses of equestrian riding. Our versatile performance glove delivers superior fit and comfort. Perfect for daily use in schooling, training, competing and pleasure riding. You will appreciate the top quality materials and design that go into each Heritage glove. Oh, and they're Touchscreen friendly!</p>
+<p><span>Kids, as well as adult riders, love our fun and colorful print pattern Performance riding gloves. Soft and breathable fabrics and durable palm material make this an excellent choice riding glove for all year around. Same great features as our popular Performance Colors riding gloves.</span></p>
+<ul class="list-unstyled product-feautres-list">
+<li>Stretch Spandura® material provides a comfortable fit.</li>
+<li>Super Grip® synthetic grain leather is breathable and increases grip on reins.</li>
+<li>Patented Rein Cut™ design us patent number 7,281,275.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Elastic cuff with adjustable strap.</li>
+<li>Double layer thumb.</li>
+<li>Personal I.D. Label.</li>
+<li>Machine washable line dry – do not machine dry</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>glove</s:tag>
+    <s:tag>gloves</s:tag>
+    <s:tag>Heritage Gloves</s:tag>
+    <s:tag>Horse</s:tag>
+    <s:tag>horses</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>riding gloves</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719152144</id>
+      <title>4</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG116-04</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719152144</id>
+      <title>5</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG116-05</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719152144</id>
+      <title>6</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG116-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719152144</id>
+      <title>7</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG116-07</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719152144</id>
+      <title>8</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG116-08</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9719074256</id>
+    <published>2017-07-18T15:46:56-04:00</published>
+    <updated>2017-07-18T15:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/heritage-pro-flow-summer-show-riding-gloves-black"/>
+    <title>Heritage Pro-Flow Summer Show Riding Gloves Black</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage Gloves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pro-Flow-Summer-Slow-Gloves-BLK.jpg?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Gloves<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We know that at some events during summer it can get really warm in show clothes waiting for your event to begin. That is why we have developed this unique show glove for those hot days. This show glove is the first of its kind to be fully ventilated with a mesh top and air holes on the palm side of the glove. This glove is made with the best grade of soft Cabretta sheepskin leather.</span></p>
+<ul class="list-unstyled product-feautres-list">
+<li>Stretchable Coolmax® Mesh top panel to allow free air flow.</li>
+<li>Stretchable Coolmax® Nylon flex panels along fingers and hand provide a comfortable fit.</li>
+<li>Patented Rein Cut™ design us patent number 7,281,275.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Wrap around leather reinforced index finger.</li>
+<li>Genuine Cabretta leather palm.</li>
+<li>Elastic band strips hold glove securely in place.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>gloves</s:tag>
+    <s:tag>Heritage Gloves</s:tag>
+    <s:tag>riding gloves</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719074256</id>
+      <title>6</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719074256</id>
+      <title>7</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-07</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9719074256</id>
+      <title>8</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>HG215-08</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9718247568</id>
+    <published>2017-07-18T12:46:25-04:00</published>
+    <updated>2017-07-18T12:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/heritage-performance-horse-riding-gloves-pink-plaid"/>
+    <title>Heritage Performance Horse Riding Gloves Pink Plaid</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage Gloves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pink-Plaid-Gloves-hg118.png?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Gloves<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Kids, as well as adult riders, love our fun and colorful print pattern Performance riding gloves. Soft and breathable fabrics and durable palm material make this an excellent choice riding glove for all year around. Same great features as our popular Performance Colors riding gloves.</span></p>
+<ul class="list-unstyled product-feautres-list">
+<li>Stretch Spandura® material provides a comfortable fit.</li>
+<li>Super Grip® synthetic grain leather is breathable and increases grip on reins.</li>
+<li>Patented Rein Cut™ design us patent number 7,281,275.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Elastic cuff with adjustable strap.</li>
+<li>Double layer thumb.</li>
+<li>Personal I.D. Label.</li>
+<li>Machine washable line dry – do not machine dry</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>glove</s:tag>
+    <s:tag>gloves</s:tag>
+    <s:tag>Heritage Gloves</s:tag>
+    <s:tag>MDAY</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>riding gloves</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>summer glove</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9718247568</id>
+      <title>4</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG118-04</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9718247568</id>
+      <title>5</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG118-05</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9718247568</id>
+      <title>6</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG118-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9718247568</id>
+      <title>7</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG118-07</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9718247568</id>
+      <title>8</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>HG118-08</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9493034960</id>
+    <published>2017-06-09T12:17:06-04:00</published>
+    <updated>2017-06-09T12:17:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/00-12"/>
+    <title>Troxel Light Weight Sport Helmet</title>
+    <s:type>Helmets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Helmet-Sports-Troxel-Designs_8313d741-c35f-4522-a6c5-223a3d57d112.jpg?v=1571609196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Helmets<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The pioneer in lightweight, all-purpose, vented riding helmets, the Sport remains one of the most trusted helmets on the market. With a large size range and a very well ventilated lightweight design, the Sport remains a very popular all-purpose style option for the price conscious rider.</p>
+<p>Key features include:</p>
+<ul>
+<li>Durable, lightweight construction</li>
+<li>Seven vents</li>
+<li>Attached visor</li>
+<li>Removable, washable headliner</li>
+<li>ASTM/SEI-certified</li>
+</ul>
+<br>
+<ul class="product-features-list"></ul>
+<p>Sizes</p>
+<p>XS: (6 3/8"-6 5/8")</p>
+<p>S: (6 3/4"-6 7/8")</p>
+<p>M: (7"-7 1/8")</p>
+<p>L: (7 1/4"-7 1/2")</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>everyday</s:tag>
+    <s:tag>everyday helmet</s:tag>
+    <s:tag>helmet</s:tag>
+    <s:tag>plain</s:tag>
+    <s:tag>schooling</s:tag>
+    <s:tag>simple</s:tag>
+    <s:tag>sport</s:tag>
+    <s:tag>sport helmet</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>Troxel</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>XS - Black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-119</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>XS - White</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-125</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>Small - Black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-120</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>Small - White</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-126</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>Medium - Black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-121</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>Medium - White</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-127</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493034960</id>
+      <title>Large - Black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>00-122</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492984848</id>
+    <published>2017-06-09T12:10:46-04:00</published>
+    <updated>2017-06-09T12:10:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1579"/>
+    <title>Derby Originals Amara Synthetic Suede Ribbed Slim Calf Half Chaps with Elastic for Horseback Riding or Motorcycle Use</title>
+    <s:type>Half Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Half_Chaps_Amara_Brown-Model.v2_cb66e7d5-a54b-40d3-a6d4-ec6d92f051b2.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Half Chaps<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ half chaps feature high-quality materials and are carefully constructed to ensure the best fit possible, and produce attractive half chaps that will last for many years to come. Whether you’re looking for a new pair of chaps to wear over your breeches, jodhpurs, or jeans, or are simply looking to make a fashion statement, Derby Originals has a wide assortment of options to suit your needs!</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - these half chaps are made with a high-quality Amara synthetic suede material that is soft to the touch and will not fade when washed and features sturdy elastic stirrups, and sturdy snap and buckle closures.</span></p>
+<p><span style="font-weight: 400;">MULTIPLE SIZES - These chaps are available in Small, Medium, and Large. We recommend ordering a size larger than you typically wear if you plan to wear these over thick or bulky pants.</span></p>
+<p><span style="font-weight: 400;">ELASTIC STRETCH FIT - these half chaps feature elasticized areas on each leg that allow for between ½” to ¾” of stretchability to the material to ensure the best fit possible.</span></p>
+<p><span style="font-weight: 400;">PROTECTS YOUR PANTS - these half chaps are perfect for protecting your breeches, jodhpurs, or jeans from wear and tear during horseback riding or when riding motorcycles. They also make an attractive fashion statement.</span></p>
+<p><span style="font-weight: 400;">NOT JUST FOR RIDERS - these half chaps are ideal for both English or Western riders, but beyond that, they’re also ideal for motorcyclists, for use in costumes, or as a fashionable accessory to everyday boots.</span></p>
+<p> </p>
+<p><strong>Sizing</strong></p>
+<p>Small: Calf- 13"; Leg Height -16"<br>Medium: Calf- 13"; Leg Height- 16.5"<br>Large: Calf- 13"; Leg Height-17"</p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BK-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BK-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BR-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BR-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492984848</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>75-1579BR-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492961296</id>
+    <published>2017-06-09T12:06:15-04:00</published>
+    <updated>2017-06-09T12:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hg222"/>
+    <title>Heritage Spectrum Show Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/HG222.png?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Heritage Spectrum Show glove offers a comfortable custom fit with a stretchable flex panel across your knuckles and adjustable strap closure. This glove is also made with exclusive Heritage breathable "Spectrum Suede" synthetic suede leather to help increase your sensitivity control and grip of the reins. "Spectrum Suede" is designed to be breathable and permeate the perspiration from your skin out at the same time maintaining a perfect grip. This special material is also machine washable.</p>
+<p> </p>
+<ul class="product-features-list">
+<li>Patented Rein Cut™ design us patent number 7,281,275.</li>
+<li>Breathable “Spectrum Suede” synthetic suede leather.</li>
+<li>Double stitched critical outward seams.</li>
+<li>Stretchable flex knuckle panels for comfortable fit.</li>
+<li>Adjustable strap closure.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Heritage</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492961296</id>
+      <title>6</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>HG222-06</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492961296</id>
+      <title>7</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>HG222-07</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492961296</id>
+      <title>8</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>HG222-08</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

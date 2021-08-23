@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/stirrup-leathers-irons-girths.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-11-21T08:49:22-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4683599937596</id>
+    <published>2020-11-21T08:49:22-05:00</published>
+    <updated>2020-11-21T08:49:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-flex-webb-bio-english-stirrup-leathers"/>
+    <title>Paris Tack Flex-Webb Bio English Stirrup Leathers</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Bio_Synthetic_English_Stirrup_Leathers_Brown_Main_16-1613.jpg?v=1605963258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. These stirrup leathers are made with modern and innovative Flex-Webb, which doesn't need special care and will not deteriorate over time.</span></p>
+<p>Size: 1" X 54"<br>Color: Havana</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bio thane</s:tag>
+    <s:tag>biothane</s:tag>
+    <s:tag>flexx web biothane</s:tag>
+    <s:tag>flexx-web</s:tag>
+    <s:tag>stirrup leathers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4683599937596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-1613-HVA-54</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485987984</id>
+    <published>2020-08-06T14:50:41-04:00</published>
+    <updated>2020-08-06T14:50:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-pt6090"/>
+    <title>Paris Tack Raised Fancy Stitched English Chafeless Girth</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-PT6090-Clean.jpg?v=1571609147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautiful girth is made by Paris Tack. Made from premium quality Australian Leather and fully padded for comfort.<br><ul class="product-features-list">
+<li>Padded for comfort</li>
+<li>Stainless steel roller buckles on both ends</li>
+<li>Triple layer heavy duty elastic on one end</li>
+<li>Fancy stitching detail on both girth ends</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>english girth</s:tag>
+    <s:tag>girth</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 38&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 40&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 42&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 50&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 52&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-52</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Chestnut - 54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090CH-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 38&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 40&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 42&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 50&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 52&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-52</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485987984</id>
+      <title>Havana - 54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6090HV-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485359120</id>
+    <published>2020-08-06T14:26:43-04:00</published>
+    <updated>2020-08-06T14:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-6088bk"/>
+    <title>Derby Originals Contoured Natural Leather Chafe-Free English Girth</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-6088main.v2.jpg?v=1571609123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Derby Originals Contoured Natural Leather Chafe-Free English Girth</h1>
+<p style="text-align: center;">A classic, natural leather girth designed to keep your horse happy and comfortable. The contoured shape design relieves any shoulder irritation, and the soft leather prevents any chafing, sore or rubs. Features durable, triple layer elastic at one end and reinforced roller buckles for easy girth adjustment. Available in classic black color and a wide variety of sizes. </p>
+<h3 style="text-align: left;">Key Features &amp; Item Specifications</h3>
+<ul class="product-features-list">
+<li>Designed with 100% real leather, not synthetic like most English girths on the market today.</li>
+<li>Features triple elastic at one end of the girth and heavy duty roller buckles for easy girth adjustment.</li>
+<li>Contour design provides shoulder relief for your horse, and smooth natural leather helps to prevent chafing, sores and rubs.</li>
+<li>Available in traditional black color and a wide variety of sizes.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english girth</s:tag>
+    <s:tag>girth</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 36&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-36</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 40&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-40</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 44&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-44</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 46&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-46</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 48&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-48</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 50&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-50</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 52&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-52</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Black - 54&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BK-54</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 40&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-40</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 44&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-44</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 46&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-46</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 48&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-48</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 50&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-50</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 52&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-52</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 54&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-54</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485359120</id>
+      <title>Dark Brown - 36&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-6088BR-36</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485402640</id>
+    <published>2020-08-06T14:22:25-04:00</published>
+    <updated>2020-08-06T14:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-pt6089"/>
+    <title>Paris Tack Fancy Stitched English Overlay Girth Leather</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-PT6089.jpg?v=1571609125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This girth is excellent quality and a rider favorite. Premium soft Australian leather and elastic ends make this girth a great fit.<br><ul class="product-features-list">
+<li>Premium, soft Australian leather</li>
+<li>Triple layer, heavy duty elastic at one end</li>
+<li>Fancy stitching at both girth ends</li>
+<li>Stainless steel Roller buckles and hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>english girth</s:tag>
+    <s:tag>girth</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 38&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 40&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 42&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 50&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 52&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-52</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Chestnut - 56&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089CH-56</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 50&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 52&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-52</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>Havana - 42&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089HV-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 50&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 52&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-52</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485402640</id>
+      <title>London - 54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-PT6089LD-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4612704141372</id>
+    <published>2020-08-05T14:47:49-04:00</published>
+    <updated>2020-08-05T14:47:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/removable-fleece-lined-overlay-leather-english-girth-w-d-ring"/>
+    <title>Removable Fleece Lined Overlay Leather English Girth w/ D Ring</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Fleece-Girth-16-PT5106.jpg?v=1596653270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This high quality girth will not only keep your horse comfortable, but will keep you looking elegant while you ride. The Paris Tack fleece lining is removable which makes for easy cleaning.</span><br>
+<ul class="product-features-list">
+<li>Color: Chestnut</li>
+<li>Stainless steel buckles</li>
+<li>Triple Layer heavy duty elastic on one end</li>
+<li>Premium Australian Leather</li>
+<li>Removable Synthetic Fleece - attaches with Velcro</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>english girth</s:tag>
+    <s:tag>girth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4612704141372</id>
+      <title>42&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT5106-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4612704141372</id>
+      <title>46&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT5106-46</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4612704141372</id>
+      <title>48&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT5106-48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4612704141372</id>
+      <title>50&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT5106-50</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4610078638140</id>
+    <published>2020-07-31T12:01:14-04:00</published>
+    <updated>2020-07-31T12:01:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-closeout-super-soft-triple-layer-schooling-1-wide-english-stirrup-leathers-for-daily-use"/>
+    <title>Paris Tack Super Soft Triple Layer Schooling 1&quot; Wide English Stirrup Leathers for Daily Use</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Triple_Layer_Stirrup_Leathers_Paris_Tack_Chestnut_Main_16-1611.jpg?v=1596211827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"></span><span style="font-weight: 400;">DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Havana and Chestnut and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<span style="font-weight: bold;"><span style="color: #ff0000;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-45</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-60</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-45</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-60</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4610076803132</id>
+    <published>2020-07-31T11:57:54-04:00</published>
+    <updated>2020-07-31T11:57:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-schooling-7-8-wide-english-stirrup-leathers-for-daily-use"/>
+    <title>Paris Tack Super Soft Triple Layer Schooling 7/8&quot; Wide English Stirrup Leathers for Daily Use</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Leathers_Opulent_3layer_16-OP1606.v3_12cf7f4c-424d-4030-ac72-7ef6bdf1b6a9.jpg?v=1596211063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.<br></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black and Havana and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485440848</id>
+    <published>2020-05-04T11:02:05-04:00</published>
+    <updated>2020-05-04T11:02:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-pt1606s"/>
+    <title>Paris Tack Super Soft 3 Layers English Stirrup Leathers</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Leathers_Soft_Havana_S.jpg?v=1571609139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Manufactured of very soft European double layer leather these leathers are great for all kinds of riding. Reinforced with synthetic material in center for durability <br>
+<br>
+Size: Adult - 54" or Child's - 45"<br><ul class="product-features-list">
+<li>7/8" width</li>
+<li>European leather</li>
+<li>Stainless Steel Buckle</li>
+<li>Reinforced with synthetic material for durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Black</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606S-BK-A</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Childs - Chestnut</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SCH-K</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Havana</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SHV-A</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Childs - Havana</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SHV-K</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Chestnut</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SCH-A</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492730000</id>
+    <published>2020-04-21T09:49:11-04:00</published>
+    <updated>2020-04-21T09:49:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-2677"/>
+    <title>Derby Originals Air Tech Chafe-Free Dressage Girth</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Air-Tech-Dressage-Girth_a0a87182-7cf0-466c-b8c1-456149a6ea26.jpg?v=1571609187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Derby Originals Air Tech Chafe-Free Dressage Girth</h1>
+<p style="text-align: center;">One of Derby Originals most advanced Dressage girths. Designed with your horses health and comfort in mind, this girth features Derby Originals Air Tech textured breathable material to ensure constant air flow during riding and prevent rubs and sores associated with traditional leather girths. The contoured shape of the girth and innovative sponge like material adapts to the shape of your horses girth area to not only keep it in place but to prevent painful pinching. Additional key features include durable elastic on both ends for a comfortable, snug girth fit and stainless steel roller buckles for easy adjustment. Can be cleaned easily with a damp towel, comes in a traditional black color suitable for dressage, and  billet keepers for a smooth, seamless look. A must have for every equestrians tack collection. </p>
+<h3>Key Features &amp; Item Specifications</h3>
+<ul class="product-features-list">
+<li>Designed with Derby Originals Air Tech textured material to ensure constant air flow during riding and prevent rubs and sores associated with traditional leather girths.</li>
+<li>Features a contoured shape and sponge like material to adapt to the shape of your horses girth area and to keep it in place without pinching.</li>
+<li>Includes durable elastic on both ends of girth with stainless steel roller buckles for easy adjustment.</li>
+<li>Comes in a traditional black color suitable for the dressage discipline, and  billet keepers for a smooth, seamless look.</li>
+<li>Can be easily cleaned with a damp towel quickly and efficiently.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Mini &amp; Pony English Girths</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730000</id>
+      <title>24&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2677-D-BK-24</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730000</id>
+      <title>26&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2677-D-BK-26</s:sku>
+      <s:grams>658</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730000</id>
+      <title>28&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2677-D-BK-28</s:sku>
+      <s:grams>1116</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730000</id>
+      <title>36&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2677-D-BK-36</s:sku>
+      <s:grams>844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4459876941884</id>
+    <published>2020-02-12T16:06:46-05:00</published>
+    <updated>2020-02-12T16:06:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-riveted-1-wide-english-stirrup-leathers-with-one-year-warranty"/>
+    <title>Paris Tack Super Soft Triple Layer Riveted 1&quot; Wide English Stirrup Leathers with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1609_Havana_Main_with_Swatches.png?v=1593449216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">REINFORCED STAINLESS STEEL PLATES - these stirrup leathers have stainless steel plates under the buckles to provide added strength without creating a bulge under the saddle, to increase your comfort.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4458154131516</id>
+    <published>2020-02-10T16:15:09-05:00</published>
+    <updated>2020-02-10T16:15:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-1-wide-english-stirrup-leathers-with-one-year-warranty"/>
+    <title>Paris Tack Super Soft Triple Layer 1&quot; Wide English Stirrup Leathers with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Paris_Tack_English_Stirrup_Leather_Set-3_16-1608.png?v=1598043265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">REINFORCED STITCHING - these stirrup leathers feature reinforced stitching around the stainless steel buckles that provide extra strength without added bulk.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4458142629948</id>
+    <published>2020-02-10T15:54:19-05:00</published>
+    <updated>2020-02-10T15:54:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-schooling-1-wide-english-stirrup-leathers-for-daily-use-with-one-year-warranty"/>
+    <title>Paris Tack Schooling 1&quot; Wide English Stirrup Leathers for Daily Use with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1607_Black_Main_with_Swatches.png?v=1594224125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.</span></p>
+<p><span style="font-weight: 400;">SOLID LEATHER CONSTRUCTION - these stirrup leathers are made from a solid leather body that is thin enough to not cause bulging under the saddle, and is flexible for more comfortable riding.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>45&quot;</s:tag>
+    <s:tag>54&quot;</s:tag>
+    <s:tag>60&quot;</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3671711023164</id>
+    <published>2019-05-13T14:15:04-04:00</published>
+    <updated>2019-05-13T14:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-stainless-steel-weighted-jointed-flex-comfort-stirrup-fillis-irons-with-rubber-pads"/>
+    <title>Derby Originals Stainless Steel Weighted Jointed Flex Comfort Stirrup Fillis Irons with Rubber Pads</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1457-425.jpg?v=1596486751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals line of premium stainless steel stirrup irons features a broad array of sizes and styles of stirrup so that every rider, regardless of size or sport, can find their perfect pair of irons.</span></p>
+<p><span style="font-weight: 400;">DESIGNED WITH YOUR COMFORT IN MIND - Derby Originals brand stirrups are only made from high-grade stainless steel and are designed to offer a comfortable option for every rider.</span></p>
+<p><span style="font-weight: 400;">ALLEVIATES KNEE PAIN - these ergonomically designed stirrup irons feature jointed sides that flex, unlike traditional solid metal stirrups, making for a smoother and more comfortable ride. These stirrups prevent the knee strain common with regular fillis stirrups.</span></p>
+<p><span style="font-weight: 400;">FLEXIBLE JOINTED DESIGN - these stirrups feature stainless steel springs that allow for maximum flexibility and shock absorption for both you and your horse. These stirrups are ideal for high-intensity sports.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL CONSTRUCTION - our stirrups are only made from stainless steel, and unlike other inferior stirrups will never rust. When you invest in Derby brand stirrups, you’re investing in quality.</span></p>
+<p><span style="font-weight: 400;">WEIGHTED DESIGN - our fillis irons are weighted so that if you lose your stirrup, they will hang down and it will be much easier for you to regain your footing than with a non-weighted stirrup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english irons</s:tag>
+    <s:tag>english stirrups</s:tag>
+    <s:tag>irons</s:tag>
+    <s:tag>stirrups</s:tag>
+    <s:tag>stirrups irons</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3671711023164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-1457-425</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3671708041276</id>
+    <published>2019-05-13T14:13:45-04:00</published>
+    <updated>2019-05-13T14:13:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-stainless-steel-weighted-comfort-ergonomic-offset-stirrup-fillis-irons-with-rubber-pads"/>
+    <title>Derby Originals Stainless Steel Weighted Comfort Ergonomic Offset Stirrup Fillis Irons with Rubber Pads</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1456-475.jpg?v=1596486723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals line of premium stainless steel stirrup irons features a broad array of sizes and styles of stirrup so that every rider, regardless of size or sport, can find their perfect pair of irons.</span></p>
+<p><span style="font-weight: 400;">DESIGNED WITH YOUR COMFORT IN MIND - Derby Originals brand stirrups are only made from high-grade stainless steel and are designed to offer a comfortable option for every rider.</span></p>
+<p><span style="font-weight: 400;">ALLEVIATES KNEE PAIN - these ergonomically designed stirrup irons feature an offset eye that prevents the knee and ankle strain common with regular fillis stirrups and aids in proper foot positioning by naturally helping to keep the heel down.</span></p>
+<p><span style="font-weight: 400;">OFFSET EYE DESIGN - our ergonomic offset stirrups feature a stirrup leather eye that is offset to aid in proper balance and leg placement, while also preventing pain and fatigue in the knee, leg, or ankle.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL CONSTRUCTION - our stirrups are only made from stainless steel, and unlike other inferior stirrups will never rust. When you invest in Derby brand stirrups, you’re investing in quality.</span></p>
+<p><span style="font-weight: 400;">WEIGHTED DESIGN - our fillis irons are weighted so that if you lose your stirrup, they will hang down and it will be much easier for you to regain your footing than with a non-weighted stirrup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english irons</s:tag>
+    <s:tag>irons</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3671708041276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>16-1456-475</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3671698473020</id>
+    <published>2019-05-13T14:09:28-04:00</published>
+    <updated>2019-05-13T14:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-4-stainless-steel-weighted-stirrup-fillis-irons-with-rubber-pads"/>
+    <title>Derby Originals 4” Stainless Steel Weighted Stirrup Fillis Irons with Rubber Pads</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1453-400.jpg?v=1596486367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals line of premium stainless steel stirrup irons features a broad array of sizes and styles of stirrup so that every rider, regardless of size or sport, can find their perfect pair of irons.</span></p>
+<p><span style="font-weight: 400;">DESIGNED WITH YOUR COMFORT IN MIND - Derby Originals brand stirrups are only made from high-grade stainless steel and are designed to offer a comfortable option for every rider.</span></p>
+<p><span style="font-weight: 400;">TRADITIONAL DESIGN - these stirrup irons feature a traditional fillis iron design that is both comfortable to ride in and suitable for almost any riding application. This is our best selling and most widely used design!</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL CONSTRUCTION - our stirrups are only made from stainless steel, and unlike other inferior stirrups will never rust. When you invest in Derby brand stirrups, you’re investing in quality.</span></p>
+<p><span style="font-weight: 400;">WEIGHTED DESIGN - our fillis irons are weighted so that if you lose your stirrup, they will hang down and it will be much easier for you to regain your footing than with a non-weighted stirrup.</span></p>
+<p><span style="font-weight: 400;">AN ALL PURPOSE STIRRUP - fillis irons are the world’s most popular stirrup irons and are ideal for use in any discipline due to their comfortable and universal design. Our fillis irons are designed to be comfortable for any sport.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english irons</s:tag>
+    <s:tag>english stirrups</s:tag>
+    <s:tag>irons</s:tag>
+    <s:tag>stirrups</s:tag>
+    <s:tag>stirrups irons</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3671698473020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1453-400</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9655876560</id>
+    <published>2017-07-07T12:41:11-04:00</published>
+    <updated>2017-07-07T12:41:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/half-cheek-snaffle-driving-bit-stainless-steel-derby-originals"/>
+    <title>Half Cheek Snaffle Driving Bit Stainless Steel Derby Originals</title>
+    <s:type>English Bits</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Bit_Driving_Snafflelgo.v2.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Bits<br>
+        <strong>Price: </strong>
+            9.95 - 12.95
+            <a href="https://www.tackwholesale.com/products/half-cheek-snaffle-driving-bit-stainless-steel-derby-originals">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>This half cheek snaffle bit can be used for driving, training, or everyday riding. Manufactured by Derby Originals.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Stainless Steel</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Half-cheek design</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Available in 5" or hard to find 4" mouth!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&quot;</s:tag>
+    <s:tag>5&quot;</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>driving harnesses</s:tag>
+    <s:tag>English Bits</s:tag>
+    <s:tag>Horse Harnesses</s:tag>
+    <s:tag>Labor Day Bit Sale</s:tag>
+    <s:tag>Mini &amp; Pony Driving Equipment</s:tag>
+    <s:tag>Mini &amp; Pony Western Bits</s:tag>
+    <s:tag>Pleasure Driving</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9655876560</id>
+      <title>4&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-7219-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9655876560</id>
+      <title>5&quot;</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>16-7219-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492730896</id>
+    <published>2017-06-09T11:29:39-04:00</published>
+    <updated>2017-06-09T11:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-2675e"/>
+    <title>Derby Professional Air Tech Breathable Elastic English Girth with Removable Fleece Padding</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-2675E_main_169ebb93-554c-4846-b298-1ea221b49852.jpg?v=1571609187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Derby Professional Air Tech Breathable Elastic English Girth with Removable Fleece Padding</h1>
+<div style="text-align: center;">Keep your horse cool and comfortable with this state of the art English girth by Derby Originals. This girth features Air Technology to provide cooling and ensure ultimate air circulation during a riding session. The padded leather with sponge like characteristics adapt to your horses unique shape to provide ultimate comfort. Nylon webbing reinforcement ensures strength and durability for extended use. One elastic end and one nylon end, both with roller buckle hardware make for easy girth tightening. Available in a variety of sizes, the color black and white fleece.</div>
+<div style="text-align: center;"></div>
+<h3 style="text-align: left;">Key Features and Item Specifications</h3>
+<ul>
+<li>AIR TECH DESIGN-  designed with Derby Originals Air Technology to provide cooling and ensure ultimate air circulation during a riding session. </li>
+<li>COMFORTABLE- features padded leather with sponge like characteristics to adapt to your horse's unique shape. Removable fleece pad for additional comfort.</li>
+<li>DURABLE: Features nylon webbing reinforcement to ensure strength and durability for extended use.</li>
+<li>CONVENIENT- Features one elastic end and one nylon end, and roller buckle hardware on both ends for easy girth adjusting. </li>
+<li>CLASSIC: available in a wide variety of sizes and black color with white fleece.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730896</id>
+      <title>42&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2675E-BK-42</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730896</id>
+      <title>44&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2675E-BK-44</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730896</id>
+      <title>46&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2675E-BK-46</s:sku>
+      <s:grams>9267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730896</id>
+      <title>48&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2675E-BK-48</s:sku>
+      <s:grams>1451</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492730896</id>
+      <title>54&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>16-2675E-BK-54</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492575632</id>
+    <published>2017-06-09T11:09:13-04:00</published>
+    <updated>2017-06-09T11:09:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-7212"/>
+    <title>Derby Jointed Uxeter Kimberwick Bits Stainless Steel</title>
+    <s:type>English Bits</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/HorseBit.jpg?v=1574547478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Bits<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">This item is Uxeter Jointed Kimberwicke with curb chain and hooks.Â  Slots in the D-rings allow the rider to use it either more like a snaffle (use the upper slot for your reins) or as a curb bit (use the lower slot). This is an excellent bit for when you need just a little more control. This bit has a slightly softer action than our straight-mouthed Uxeter Kimberwicke bit w/low port.</p>
+<ul class="product-features-list">
+<li>Jointed for a softer snaffle-like action</li>
+<li>Includes curb chain and hooks</li>
+<li>Available in 5" &amp; 5.25" mouthpiece</li>
+<li>Stainless Steel</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BIT</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>bridle</s:tag>
+    <s:tag>Bridle Accessories</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>English Bits</s:tag>
+    <s:tag>Headstall</s:tag>
+    <s:tag>KIMBERWICK</s:tag>
+    <s:tag>Labor Day Bit Sale</s:tag>
+    <s:tag>Mini &amp; Pony Western Bits</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492575632</id>
+      <title>5&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>16-7212-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492575632</id>
+      <title>5-1/4&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>16-7212-5.25</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486104848</id>
+    <published>2017-06-08T15:15:34-04:00</published>
+    <updated>2017-06-08T15:15:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-1455"/>
+    <title>Derby Originals Stainless Steel Free Foot Safety English Stirrup Irons</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Iron_Foot_Free_Safety_Design.jpg?v=1574530848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Derby Originals Stainless Steel Free Foot Safety English Stirrup Irons </h1>
+<p style="text-align: center;">Prevent any injury and keep yourself safe with Derby Originals Free Foot Safety English Stirrup Irons. The unique curvature design of the stainless steel frame allows for a quick removal of the foot in the case of an emergency, and a quick regain in the event the stirrup is lost or dropped during riding. Can be compared to breakaway stirrups without the hassle of the rubber bands. Features removable, replaceable rubber stirrup pads with a grip pattern.</p>
+<h3 style="text-align: left;"><strong>Key features &amp; Item specifications </strong></h3>
+<ul class="product-features-list">
+<li> Special curvature design on the stainless steel frame of these stirrups allow for quick removal of the foot from the iron in case of an emergency, and quick regain in the case of a loss or drop during riding.</li>
+<li> Feature removable rubber pads with a grip pattern that can be replaced if damaged or worn out. </li>
+<li>Designed with strong, sturdy stainless steel and  to fit most English stirrup leathers. </li>
+<li>Available in three sizes : Adult 4-3/4", Kids 4-1/4", and X-Large 5-1/4".</li>
+<li>Item includes one pair of stirrup irons. </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english irons</s:tag>
+    <s:tag>english stirrups</s:tag>
+    <s:tag>Large Adult</s:tag>
+    <s:tag>stirrups</s:tag>
+    <s:tag>stirrups irons</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486104848</id>
+      <title>Youth</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>16-1455-K</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486104848</id>
+      <title>Adult</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>16-1455-A</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486104848</id>
+      <title>Large Adult</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>16-1455-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485996304</id>
+    <published>2017-06-08T14:56:35-04:00</published>
+    <updated>2017-06-08T14:56:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-op1509"/>
+    <title>Paris Tack English Leather Girth Extender, Available in Multiple Colors</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/English_Girth_Extender_Leather_No_Elastic_Swatch_Image_Havana_16-OP1509.jpg?v=1592412585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been a producer of all types of English tack and goods for 20 years, from everyday classics to the modern and innovative. Our English tack pieces are only made from real leather and feature high-quality hardware, and are designed to be both attractive and functional.</span></p>
+<ul>
+<li><span>DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - Paris Tack has been making English tack for over 20 years, and is dedicated to putting your horse’s comfort and safety, as well as your own, first.</span></li>
+<li><span>UNIVERSAL DESIGN FITS MOST GIRTHS - these 13” long girth extenders feature a 1” wide leather body that is designed to accommodate most English girths and straps, for the ability to use with multiple girths and saddles, and for multiple horses.</span></li>
+<li><span>FEATURES ELASTIC ROLLER BUCKLE ENDS - this girth extender has a set of elastic roller buckle ends on each side that makes cinching up your girth easier with less hassle. Our high-quality metal roller buckles are also rustproof.</span></li>
+<li><span>AVAILABLE IN THREE COLORS - this English girth extenders are available in the colors Black, Havana, and Chestnut to match virtually any girth and tack set.</span></li>
+<li><span>HIGH-QUALITY DESIGN - this girth extender is made from high quality double layered and stitched leather, double-layered sturdy elastic, and rustproof metal roller buckle ends.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485996304</id>
+      <title>Black</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509BK</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485996304</id>
+      <title>Havana</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509HV</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485996304</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509CH</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485965264</id>
+    <published>2017-06-08T14:50:27-04:00</published>
+    <updated>2017-06-08T14:50:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-op1509e"/>
+    <title>Paris Tack English Leather Elastic Girth Extender, Available in Multiple Colors</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/English_Girth_Extender_Leather_With_Elastic_Swatch_Havana_16-OP1509E.jpg?v=1592589504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been a producer of all types of English tack and goods for 20 years, from everyday classics to the modern and innovative. Our English tack pieces are only made from real leather and feature high-quality hardware, and are designed to be both attractive and functional.</span></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - Paris Tack has been making English tack for over 20 years, and is dedicated to putting your horse’s comfort and safety, as well as your own, first.</span></li>
+<li><span style="font-weight: 400;">UNIVERSAL DESIGN FITS MOST GIRTHS - these 13” long girth extenders feature a 1” wide leather body that is designed to accommodate most English girths and straps, for the ability to use with multiple girths and saddles, and for multiple horses.</span></li>
+<li><span style="font-weight: 400;">FEATURES ELASTIC ROLLER BUCKLE ENDS - this girth extender has a set of elastic roller buckle ends on each side that makes cinching up your girth easier with less hassle. Our high-quality metal roller buckles are also rustproof.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN THREE COLORS - this English girth extenders are available in the colors Black, Havana, and Chestnut to match virtually any girth and tack set.</span></li>
+<li><span style="font-weight: 400;">HIGH-QUALITY DESIGN - this girth extender is made from high quality double layered and stitched leather, double-layered sturdy elastic, and rustproof metal roller buckle ends.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485965264</id>
+      <title>Havana</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509E-HV</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485965264</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509E-CH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485965264</id>
+      <title>Black</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-OP1509E-BK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485897872</id>
+    <published>2017-06-08T14:38:28-04:00</published>
+    <updated>2017-06-08T14:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-pt6091"/>
+    <title>Paris Tack Contoured Fancy Stitched Elastic Leather English Girth with Removable Sheepskin Lining</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Paris-Tack_Comfort-English-Sheepskin-Girth_16-PT6091_redo.v2.jpg?v=1571609144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span></span>
+<p><span style="font-weight: 400;">Paris Tack has been a producer of all types of English tack and goods for 20 years, from everyday classics to the modern and innovative. Our English tack pieces are only made from real leather and feature high-quality hardware, and are designed to be both attractive and functional.</span></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - Paris Tack has been making English girths for over 20 years, and is dedicated to putting your horse’s comfort and safety, as well as your own, first.</span></li>
+<li><span style="font-weight: 400;">HIGH-QUALITY DESIGN - this elegant girth features a removable sheepskin lining that is soft, non-chafing, and moisture absorbent, as well as a real leather body, sturdy elastic, and high-quality rustproof roller buckles.</span></li>
+<li><span style="font-weight: 400;">FEATURES ELASTIC ROLLER BUCKLE ENDS - this girth has a set of roller buckle ends on each side that makes cinching up your girth easier with less hassle. Our high-quality metal roller buckles are also rustproof.</span></li>
+<li><span style="font-weight: 400;">HAS ADDED FANCY STITCHING - this girth features white fancy stitching across the leather of the girth.</span></li>
+<li><span style="font-weight: 400;">HAS A REMOVABLE SHEEPSKIN LINING - this girth features a removable plush sheepskin lining that can be taken off your girth for easier cleaning. This sheepskin lining attaches with velcro to the leather of your girth.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>44&quot;</s:tag>
+    <s:tag>46&quot;</s:tag>
+    <s:tag>48&quot;</s:tag>
+    <s:tag>50&quot;</s:tag>
+    <s:tag>52&quot;</s:tag>
+    <s:tag>54&quot;</s:tag>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485897872</id>
+      <title>44&quot; / Chestnut</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-PT6091CH-44</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485897872</id>
+      <title>46&quot; / Chestnut</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-PT6091CH-46</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485897872</id>
+      <title>50&quot; / Chestnut</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-PT6091CH-50</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485897872</id>
+      <title>52&quot; / Chestnut</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-PT6091CH-52</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485897872</id>
+      <title>54&quot; / Chestnut</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>16-PT6091CH-54</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485445840</id>
+    <published>2017-06-08T12:59:03-04:00</published>
+    <updated>2017-06-08T12:59:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-1454"/>
+    <title>Derby Originals Stainless Steel Weighted Stirrup Fillis Irons with Rubber Pads</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Iron_with_White_Rubber_Pad.jpg?v=1596486687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals line of premium stainless steel stirrup irons features a broad array of sizes and styles of stirrup so that every rider, regardless of size or sport, can find their perfect pair of irons.</span></p>
+<p><span style="font-weight: 400;">DESIGNED WITH YOUR COMFORT IN MIND - Derby Originals brand stirrups are only made from high-grade stainless steel and are designed to offer a comfortable option for every rider.</span></p>
+<p><span style="font-weight: 400;">TRADITIONAL DESIGN - these stirrup irons feature a traditional fillis iron design that is both comfortable to ride in and suitable for almost any riding application. This is our best selling and most widely used design!</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL CONSTRUCTION - our stirrups are only made from stainless steel, and unlike other inferior stirrups will never rust. When you invest in Derby brand stirrups, you’re investing in quality.</span></p>
+<p><span style="font-weight: 400;">WEIGHTED DESIGN - our fillis irons are weighted so that if you lose your stirrup, they will hang down and it will be much easier for you to regain your footing than with a non-weighted stirrup.</span></p>
+<p><span style="font-weight: 400;">AN ALL PURPOSE STIRRUP - fillis irons are the world’s most popular stirrup irons and are ideal for use in any discipline due to their comfortable and universal design. Our fillis irons are designed to be comfortable for any sport.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english irons</s:tag>
+    <s:tag>english stirrups</s:tag>
+    <s:tag>irons</s:tag>
+    <s:tag>Large Youth</s:tag>
+    <s:tag>Small Youth</s:tag>
+    <s:tag>stirrups</s:tag>
+    <s:tag>stirrups irons</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485445840</id>
+      <title>Adult</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1454-475</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485443728</id>
+    <published>2017-06-08T12:58:43-04:00</published>
+    <updated>2017-06-08T12:58:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-6095bk"/>
+    <title>Derby Originals Soft Nylon Web English Girth with Roller Buckles</title>
+    <s:type>English Girths</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-6095BK.jpg?v=1571609139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Girths<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been a producer of all types of English tack and goods for 20 years, from everyday classics to the modern and innovative. Our English tack pieces are only made from real leather and feature high-quality hardware, and are designed to be both attractive and functional.</span></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - this English girth is made entirely of smooth, soft webbed nylon that provides airflow to prevent excess sweating, is chafe and rub resistant, and is non-bulky.</span></li>
+<li><span style="font-weight: 400;">DESIGNED FOR DAILY USE - this nylon girth was designed to be ideal for everyday use and is perfect for those who are looking for an easy to clean, inexpensive girth that is comfortable to use and easy to take on and off.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES - this girth is available in the color Black and in sizes ranging from 28” to 52” to accommodate most saddles and sized horses.</span></li>
+<li><span style="font-weight: 400;">FEATURES RUSTPROOF ROLLER BUCKLES - this nylon girth has a pair of rustproof roller buckles at each end to make tightening up your girth easy and hassle-free.</span></li>
+<li><span style="font-weight: 400;">EASY TO CLEAN DESIGN - our nylon English girth can easily be washed clean with mild soap and water and air-dried, or wiped off to remove excess sweat and hair between rides.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28&quot;</s:tag>
+    <s:tag>30&quot;</s:tag>
+    <s:tag>34&quot;</s:tag>
+    <s:tag>36&quot;</s:tag>
+    <s:tag>40&quot;</s:tag>
+    <s:tag>44&quot;</s:tag>
+    <s:tag>46&quot;</s:tag>
+    <s:tag>48&quot;</s:tag>
+    <s:tag>52&quot;</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english girth</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>28&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-28</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>30&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-30</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>32&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-32</s:sku>
+      <s:grams>10932</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>34&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-34</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>36&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-36</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>40&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-40</s:sku>
+      <s:grams>304</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>44&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-44</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485443728</id>
+      <title>52&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-6095BK-52</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485352976</id>
+    <published>2017-06-08T12:39:45-04:00</published>
+    <updated>2017-06-08T12:39:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-7150"/>
+    <title>Stainless Steel Eggbutt Snaffle Bit by Derby Originals</title>
+    <s:type>English Bits</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/STAINLESS_STEEL_EGGBUTT_SNAFFLE_BIT_BY_DERBY_ORIGINALS_Main_16-7150.jpg?v=1595263108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Bits<br>
+        <strong>Price: </strong>
+            6.00 - 14.95
+            <a href="https://www.tackwholesale.com/products/16-7150">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Stainless Steel Eggbutt Snaffle Bit by Derby Originals. Snaffle Bits are great for new riders and green horses when used properly. See customers ratings on this item!</p>
+<ul class="product-features-list">
+<li>Stainless Steel</li>
+<li>Traditional Jointed Snaffle</li>
+<li>Variety of sizes, including the hard to find 3"!</li>
+<li><span>15mm thickness</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BIT</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>Bridle Accessories</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>EGGBUTT</s:tag>
+    <s:tag>English Bits</s:tag>
+    <s:tag>Headstall</s:tag>
+    <s:tag>headstall accessories</s:tag>
+    <s:tag>Labor Day Bit Sale</s:tag>
+    <s:tag>Mini &amp; Pony Western Bits</s:tag>
+    <s:tag>SNAFFLE</s:tag>
+    <s:tag>SNAFFLE BIT</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485352976</id>
+      <title>3&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>16-7150-3</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485352976</id>
+      <title>3.5&quot;</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>16-7150-3.5</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485352976</id>
+      <title>4&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>16-7150-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485352976</id>
+      <title>5&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-7150-5</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485352976</id>
+      <title>5.25&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>16-7150-5.25</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

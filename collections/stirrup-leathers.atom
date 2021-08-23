@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/stirrup-leathers.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-11-21T08:49:22-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4683599937596</id>
+    <published>2020-11-21T08:49:22-05:00</published>
+    <updated>2020-11-21T08:49:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-flex-webb-bio-english-stirrup-leathers"/>
+    <title>Paris Tack Flex-Webb Bio English Stirrup Leathers</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Bio_Synthetic_English_Stirrup_Leathers_Brown_Main_16-1613.jpg?v=1605963258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. These stirrup leathers are made with modern and innovative Flex-Webb, which doesn't need special care and will not deteriorate over time.</span></p>
+<p>Size: 1" X 54"<br>Color: Havana</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bio thane</s:tag>
+    <s:tag>biothane</s:tag>
+    <s:tag>flexx web biothane</s:tag>
+    <s:tag>flexx-web</s:tag>
+    <s:tag>stirrup leathers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4683599937596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>16-1613-HVA-54</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4610078638140</id>
+    <published>2020-07-31T12:01:14-04:00</published>
+    <updated>2020-07-31T12:01:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-closeout-super-soft-triple-layer-schooling-1-wide-english-stirrup-leathers-for-daily-use"/>
+    <title>Paris Tack Super Soft Triple Layer Schooling 1&quot; Wide English Stirrup Leathers for Daily Use</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Triple_Layer_Stirrup_Leathers_Paris_Tack_Chestnut_Main_16-1611.jpg?v=1596211827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"></span><span style="font-weight: 400;">DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Havana and Chestnut and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<span style="font-weight: bold;"><span style="color: #ff0000;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-45</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-CHT-60</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-45</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-54</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610078638140</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1611-HVA-60</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4610076803132</id>
+    <published>2020-07-31T11:57:54-04:00</published>
+    <updated>2020-07-31T11:57:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-schooling-7-8-wide-english-stirrup-leathers-for-daily-use"/>
+    <title>Paris Tack Super Soft Triple Layer Schooling 7/8&quot; Wide English Stirrup Leathers for Daily Use</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Leathers_Opulent_3layer_16-OP1606.v3_12cf7f4c-424d-4030-ac72-7ef6bdf1b6a9.jpg?v=1596211063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.<br></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black and Havana and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-BLK-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4610076803132</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>16-1610-HVA-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485440848</id>
+    <published>2020-05-04T11:02:05-04:00</published>
+    <updated>2020-05-04T11:02:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-pt1606s"/>
+    <title>Paris Tack Super Soft 3 Layers English Stirrup Leathers</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Stirrup_Leathers_Soft_Havana_S.jpg?v=1571609139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Manufactured of very soft European double layer leather these leathers are great for all kinds of riding. Reinforced with synthetic material in center for durability <br>
+<br>
+Size: Adult - 54" or Child's - 45"<br><ul class="product-features-list">
+<li>7/8" width</li>
+<li>European leather</li>
+<li>Stainless Steel Buckle</li>
+<li>Reinforced with synthetic material for durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Black</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606S-BK-A</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Childs - Chestnut</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SCH-K</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Havana</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SHV-A</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Childs - Havana</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SHV-K</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485440848</id>
+      <title>Adult - Chestnut</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-PT1606SCH-A</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4459876941884</id>
+    <published>2020-02-12T16:06:46-05:00</published>
+    <updated>2020-02-12T16:06:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-riveted-1-wide-english-stirrup-leathers-with-one-year-warranty"/>
+    <title>Paris Tack Super Soft Triple Layer Riveted 1&quot; Wide English Stirrup Leathers with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1609_Havana_Main_with_Swatches.png?v=1593449216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">REINFORCED STAINLESS STEEL PLATES - these stirrup leathers have stainless steel plates under the buckles to provide added strength without creating a bulge under the saddle, to increase your comfort.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-BLK-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-HVA-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-45</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-54</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4459876941884</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1609-CHT-60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4458154131516</id>
+    <published>2020-02-10T16:15:09-05:00</published>
+    <updated>2020-02-10T16:15:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-super-soft-triple-layer-1-wide-english-stirrup-leathers-with-one-year-warranty"/>
+    <title>Paris Tack Super Soft Triple Layer 1&quot; Wide English Stirrup Leathers with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Paris_Tack_English_Stirrup_Leather_Set-3_16-1608.png?v=1598043265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">TRIPLE LAYER DESIGN - these stirrup leathers feature a synthetic material sandwiched between fine leather to produce a stirrup that is incredibly strong. These stirrups will also not stretch over time like how solid leather ones will.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">REINFORCED STITCHING - these stirrup leathers feature reinforced stitching around the stainless steel buckles that provide extra strength without added bulk.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-BLK-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-HVA-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-45</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-54</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458154131516</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>16-1608-CHT-60</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4458142629948</id>
+    <published>2020-02-10T15:54:19-05:00</published>
+    <updated>2020-02-10T15:54:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-schooling-1-wide-english-stirrup-leathers-for-daily-use-with-one-year-warranty"/>
+    <title>Paris Tack Schooling 1&quot; Wide English Stirrup Leathers for Daily Use with One Year Warranty</title>
+    <s:type>Stirrup Leathers &amp; Irons</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/16-1607_Black_Main_with_Swatches.png?v=1594224125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Stirrup Leathers &amp; Irons<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack has been producing a wide variety of high-quality English stirrup leathers for over 20 years. Our stirrup leathers are all backed by a six-month to one-year limited manufacturer’s warranty and are guaranteed to be free of quality or manufacturing defects. We offer stirrup leathers in a variety of leather types, thicknesses, with or without synthetic reinforcement, and in the colors Black, Havana, and Chestnut, and all standard sizes: 45” (ideal for children or shorter riders), 54” (universal adult sizing), and 60” (extra long for tall and long-legged riders). If you are looking for the perfect stirrup leathers to use with your English saddle, Paris Tack is sure to offer the right style, size, and color to suit you!</span></p>
+<p><span style="font-weight: 400;">DESIGNED FOR EVERYDAY USE - these stirrup leathers were designed to be used for schooling and everyday use, and are available in a wide range of colors and sizes to suit almost any rider.</span></p>
+<p><span style="font-weight: 400;">SOLID LEATHER CONSTRUCTION - these stirrup leathers are made from a solid leather body that is thin enough to not cause bulging under the saddle, and is flexible for more comfortable riding.</span></p>
+<p><span style="font-weight: 400;">STAINLESS STEEL BUCKLES - these stirrup leathers have rustproof stainless-steel buckles that are designed to last. These buckles are reinforced with sturdy nylon where they connect to the leather straps for extra strength.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND SIZES - these stirrup leathers are available in the colors Black, Havana, and Chestnut, and in the sizes 45” (Kids), 54” (Adult), and 60” (Extra Long).</span></p>
+<p><span style="font-weight: 400;">ONE YEAR WARRANTY - these stirrup leathers are backed by a one-year limited manufacturer’s warranty against quality or manufacturing defects. Check out derbyoriginals.com for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>45&quot;</s:tag>
+    <s:tag>54&quot;</s:tag>
+    <s:tag>60&quot;</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Black / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-BLK-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Havana / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-HVA-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 45&quot; (Kids)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-45</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 54&quot; (Adult)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-54</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4458142629948</id>
+      <title>Chestnut / 60&quot; (Extra Long)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>16-1607-CHT-60</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

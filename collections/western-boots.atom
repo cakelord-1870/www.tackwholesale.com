@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/western-boots.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2018-09-20T11:21:12-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018498768</id>
+    <published>2018-09-20T11:21:12-04:00</published>
+    <updated>2018-09-20T11:21:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/15-1026"/>
+    <title>Stampede Roper Unisex Western Kids Boots</title>
+    <s:type>Youth Boots</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/15-1026-rt-sized.jpg?v=1571609213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Youth Boots<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Calf leather uppers, classic roper toe and a PVC sole.
+<ul class="product-features-list">
+<li>Color: Black</li>
+<li>3/4" Flat Roper Heel</li>
+<li>Unisex Youth sizes</li>
+<li><b data-mce-fragment="1">Please select size carefully - No returns on these boots</b></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>Boots</s:tag>
+    <s:tag>childrens</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Cowboy</s:tag>
+    <s:tag>Cowboy Boot</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>round toe</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 3</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y3</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 3-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y3.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 4</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y4</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 5</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 5-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y5.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018498768</id>
+      <title>Youth 4-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1026BK-Y4.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018481104</id>
+    <published>2018-09-20T10:50:25-04:00</published>
+    <updated>2018-09-20T10:50:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/15-1025"/>
+    <title>Stampede Super Roper Unisex Western Kids Boots</title>
+    <s:type>Youth Boots</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/15-1025-rt-sized.jpg?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Youth Boots<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Calf leather uppers, pull holes, classic roper toe and a crepe sole.
+<ul class="product-features-list">
+<li>Color: Black Shaft / Copper Distressed Foot</li>
+<li>3/4" Flat Roper Heel</li>
+<li>Calf leather uppers and roper toe</li>
+<li>Unisex Youth sizes</li>
+<li><b data-mce-fragment="1">Please select size carefully - No returns on these boots</b></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>Boots</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>childrens</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Cowboy</s:tag>
+    <s:tag>Cowboy Boot</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>round toe</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 1</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y1</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 1-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y1.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y2</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 2-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y2.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 3-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y3.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 4</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y4</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 5</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 5-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y5.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 6</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y6</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481104</id>
+      <title>Youth 4-1/2</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1025BR-Y4.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10018481232</id>
+    <published>2017-10-11T17:20:22-04:00</published>
+    <updated>2017-10-11T17:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/15-1024"/>
+    <title>Stampede Distressed Unisex Western Boots</title>
+    <s:type>Youth Boots</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/15-1024-rt-sized.jpg?v=1571609212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Youth Boots<br>
+        <strong>Price: </strong>
+            12.95 - 19.95
+            <a href="https://www.tackwholesale.com/products/15-1024">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Premium quality calf leather uppers, round toe and a PVC sole.<br>
+<ul class="product-features-list">
+<li>Color: Walnut<br>
+</li>
+<li>1 1/2" Heel at back and a 3/4" Arch</li>
+<li>A great Stampede boot at a great price!</li>
+<li><b data-mce-fragment="1">Please select size carefully - No returns on these boots</b></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>Boots</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Cowboy</s:tag>
+    <s:tag>Cowboy Boot</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481232</id>
+      <title>5</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1024BR-Y5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10018481232</id>
+      <title>3.5</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15-1024BR-Y3.5</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/hay-bag-accessories.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-06-15T06:22:22-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492925648</id>
+    <published>2020-06-15T06:22:22-04:00</published>
+    <updated>2020-06-15T06:22:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7131"/>
+    <title>Replacement Adjustable Nylon Strap with Replaceable Snap for Slow Feed Hay Bags - Pair</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Replacement-Strap-Hay-Bag-Black-Pair_49e4f84a-334e-41b7-8789-12e5081c3d4b.jpg?v=1571609193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>It's frustrating whenever you lose one of the straps to your slow feed hay bag. These replacement straps can make your hay bag complete again!</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Size: Adjustable 21" - 36" end to end</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Fits many hay bag styles</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Available as a pair</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Includes heavy duty replaceable snap</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492925648</id>
+      <title>Black</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131-BK</s:sku>
+      <s:grams>259</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492925648</id>
+      <title>Purple</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131-PR</s:sku>
+      <s:grams>440</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492925648</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131-RBL</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9493054800</id>
+    <published>2018-08-01T16:36:10-04:00</published>
+    <updated>2018-08-01T16:36:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7139"/>
+    <title>Replacement Rope for Natural Grazer Slow Feed Hay Bag</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Natural-Grazer-Rope_b6db915e-4c32-4433-a7d5-df9274792ab7.jpg?v=1571609197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This replacement rope for the Natural Grazer 4 Sided Slow Feed Hay Bag is handy to have on hand.<br>
+<ul class="product-features-list">
+<li>Replacement rope makes maintenance simple and cost effective</li>
+<li>This rope is used for lacing closed the Natural Grazer</li>
+<li>Design and color may vary</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493054800</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>71-7139</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9589752528</id>
+    <published>2018-01-29T10:18:11-05:00</published>
+    <updated>2018-01-29T10:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-patent-pending-slow-feed-hay-box-covers"/>
+    <title>Derby Originals Slow Feed Hay Box Covers Available in Three Opening Sizes</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Hay-Box_Cover-Slow_Feed-Black.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This slow feed cover is for hay boxes. The cover has smaller openings to limit the rate that the horse consumes the hay. It has a metal frame to help the cover keep its shape. Most hay boxes come with a metal grid that can get hot in the summer and horses can accidentally hurt their teeth and gums on it. The cover made by Derby Originals is made from a durable nylon material that will not hurt your horse while eating.</p>
+<ul>
+<li>THREE OPENING SIZES – these hay box covers are available in 1.75×1.75”, 2×2”, and 1.75×3.5” hole styles to suit your needs and your horse’s feeding preferences.</li>
+<li>HEAVY-DUTY CONSTRUCTION – with a strong metal frame and heavy-duty stitching on the double-ply nylon, this design is built to last and stand up to years of wear and tear from your horses.</li>
+<li>STEEL FRAME SIZING – the cold-rolled steel frames measure 32" × 22.5”, which is large enough for most hay boxes and will allow for your horse to have plenty of hay.</li>
+<li>A SAFER ALTERNATIVE – these hay box covers are made with a heavy-duty 1” wide double-ply nylon mesh. Regular metal hay box grates can cause severe tooth and gum damage over time, but with nylon, your horse’s mouth won’t get irritated or cut as they eat.</li>
+<li>PERFECT FOR DIY PROJECTS – if you’re making your horse a DIY hay box, these grates are perfect to use because of their safe nylon design, the ability to use multiple grates for larger feeders, and the ability to mix and match or swap out opening sizes.</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1898/9069/files/71-7145_Dimensions_large.jpg?v=1533567589" alt=""></p>
+<ul class="list-unstyled product-feautres-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.5&quot; x 1.5&quot;</s:tag>
+    <s:tag>1.75&quot; x 3.5&quot;</s:tag>
+    <s:tag>2&quot; x 2&quot;</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Hay</s:tag>
+    <s:tag>Hay Box</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9589752528</id>
+      <title>1.5&quot; x 1.5&quot;</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7145-BK</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9589752528</id>
+      <title>2&quot; x 2&quot;</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7150-BK</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9589752528</id>
+      <title>1.75&quot; x 3.5&quot;</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7155-BK</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492987984</id>
+    <published>2017-11-24T14:46:41-05:00</published>
+    <updated>2017-11-24T14:46:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7138"/>
+    <title>Replacement Hanging Rope for Slow Feed Hay Net</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Replacement-Rope-Hay-Net.v2_f05352c0-be9d-4626-abac-230ced8a30ce.jpg?v=1571609195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It's frustrating whenever you lose the rope to your slow feed hay net. These replacement ropes can make your hay net complete again. Great for repairing broken nets, barn repairs, and various crafts.<br>
+<ul class="product-features-list">
+<li>Approximately 80" Length</li>
+<li>Replace hanging rope or repair broken net</li>
+<li>Durable Nylon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492987984</id>
+      <title>Lime</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>71-7138-LM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492987984</id>
+      <title>Purple</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>71-7138-PR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492987984</id>
+      <title>Dark Tan</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>71-7138-T</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492987984</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>71-7138-TQ</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492987984</id>
+      <title>Salmon</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>71-7138-TN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/39399260176</id>
+    <published>2017-10-16T11:21:11-04:00</published>
+    <updated>2017-10-16T11:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/replacement-adjustable-nylon-strap-for-slow-feed-hay-bag-without-snap-pair"/>
+    <title>Replacement Adjustable Nylon Strap for Slow Feed Hay Bag with Replaceable Snap  - Pair</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/HayBagStraps_9a3cc850-b62c-47a0-b108-72f4afc78cfa.jpg?v=1622561960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>It's frustrating whenever you lose one of the straps to your slow feed hay bag. These replacement straps can make your hay bag complete again!</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Size: Adjustable 21" - 36" end to end</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Fits many hay bag styles</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Available as a pair</li>
+<li> Snaps Included</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Design allows snap to be added &amp; replaced</li>
+</ul>
+<ul class="list-unstyled product-feautres-list"></ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Hunter Green</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Black</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-BK</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-RBL</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Purple</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-PR</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-PK</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Red</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-RD</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/39399260176</id>
+      <title>Hunter Green</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>71-7131N-HG</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492741584</id>
+    <published>2017-07-03T13:52:05-04:00</published>
+    <updated>2017-07-03T13:52:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7128"/>
+    <title>Derby Originals Nickel Plated Double Ended Bolt Snap Lot of 6</title>
+    <s:type>Hay Bag Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Snaps-Double-End-Lot6.jpg?v=1574547341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bag Accessories<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ high-quality, double-ended bolt snaps are perfect for using to hang water buckets, feeders, using for cross ties, or any other barn uses! They also have many households, automotive, pet related, storage and organization, or other uses! They’re an incredibly versatile piece of hardware with a million+ applications. These snaps are made with a high-quality, nickel plated metal that is built to last and designed to hold strong in the barn or pasture.</span></p>
+<ul>
+<li>HIGH-QUALITY METAL - these double-ended bolt snaps are made with a high-quality, nickel plated metal that is built to last and designed to hold strong in the barn or pasture.</li>
+<li>HAS MANY USES - these bolt snaps are perfect for using to hang water buckets, feeders, using for cross ties, or any other barn uses!</li>
+<li>GREAT FOR OUR HAY NETS - these bolt snaps are designed to be compatible with all of our Derby Originals hay nets and bags and are our recommended choice for hanging hardware.</li>
+<li>NOT JUST FOR THE BARN - these double-ended snaps have many household, automotive, pet related, storage and organization, or other uses! They’re an incredibly versatile piece of hardware with a million+ applications.</li>
+<li>SIZING - these snaps measure 4” long and the opening is ½” wide.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bdsm</s:tag>
+    <s:tag>bdsm hardware</s:tag>
+    <s:tag>bolt snap</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>role play toys</s:tag>
+    <s:tag>Snaps</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492741584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>71-7128-L6</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

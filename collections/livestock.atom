@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/livestock.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2021-03-03T13:32:31-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/688566861884</id>
+    <published>2021-03-03T13:32:31-05:00</published>
+    <updated>2021-03-03T13:32:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-goat-halter-3-4-small-black-nylon"/>
+    <title>Weaver Leather Goat Halter, 3/4&quot; Small Black Nylon</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/27116-003-0022316_m.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 3/4" nylon criss-cross halter features nickel plated hardware that's in-line with today's trends. In classic colors, this halter offers a secure fit. Durable nickel plated hardware. Made by Weaver. Small size.</span></p>
+<ul>
+<li>Size: Small</li>
+<li>3/4" Nylon</li>
+<li>Nickel Plated Hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Goat</s:tag>
+    <s:tag>Goat Halter</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688566861884</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">12.49</s:price>
+      <s:sku>35-7100-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643100524604</id>
+    <published>2020-11-28T17:11:22-05:00</published>
+    <updated>2020-11-28T17:11:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-canvas-small-animal-hay-bag-for-guinea-pigs-and-rabbits-with-mesh-ventilation-windows-1"/>
+    <title>cuteNfuzzy Canvas Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Small_Pet_Hay_Bag_Canvas_Mesh_Vent_Windows_Green_Swatch_96-9300_fa45efbb-37c0-43f7-9664-3f43fd075188.png?v=1604936950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Th</span><span data-mce-fragment="1">is hay bag features a mesh ventilation window on both side gussets to promote airflow, prevent moisture buildup, and allow dust to exit the hay while also preventing pests from getting into your hay.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643100524604</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>96-9300-BLK-LRG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643100524604</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>96-9300-HBL-LRG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643100524604</id>
+      <title>Purple</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>96-9300-PUR-LRG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643100524604</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>96-9300-PNK-LRG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643100524604</id>
+      <title>Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>96-9300-GRN-LRG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643098230844</id>
+    <published>2020-11-28T17:10:49-05:00</published>
+    <updated>2020-11-28T17:10:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-canvas-small-animal-hay-bag-for-guinea-pigs-and-rabbits-with-mesh-ventilation-windows"/>
+    <title>cuteNfuzzy Canvas Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Small_Pet_Hay_Bag_Canvas_Mesh_Vent_Windows_Hurricane_Blue_Swatch_96-9300.png?v=1604936970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This hay bag features a mesh ventilation window on both side gussets to promote airflow, prevent moisture buildup, and allow dust to exit the hay while also preventing pests from getting into your hay.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643098230844</id>
+      <title>Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>96-9300-BLK-SML</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643098230844</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>96-9300-HBL-SML</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643098230844</id>
+      <title>Purple</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>96-9300-PUR-SML</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643098230844</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>96-9300-PNK-SML</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643098230844</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>96-9300-GRN-SML</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4506197557308</id>
+    <published>2020-04-23T13:44:33-04:00</published>
+    <updated>2020-04-23T13:44:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-small-pet-1-25-x-2-nylon-web-hanging-hay-bag-pouch-feeder-for-guinea-pigs-rabbits-and-chinchillas-with-super-tough-bottom-size-large"/>
+    <title>cuteNfuzzy Easy Feed Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Small_Pet_Hay_Bag_Super_Tough_Bottom_Rectangle_Web_Hurricane_Blue_Swatch_Large_96-9201.png?v=1604936303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<ul>
+<li><span>DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable nylon web design with 1.25" x 2" openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span>PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span>NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span>EXCLUSIVE SUPER TOUGH BOTTOM DESIGN - originally designed for horses, this bottom is more durable and keeps hay fresher by providing better air flow and allowing dust to exit your pet's hay. This also makes accessing the hay easier for your pet.</span></li>
+<li><span>AVAILABLE IN MULTIPLE SIZES AND COLORS - this hay pouch is available in two sizes: Small (10" long x 11" tall x 3” wide) and Large (15" long x 11" tall x 3” wide), and the colors Black, Hurricane Blue, Pink, and Dark Purple to best suit you and your pet's needs!</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla  small</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dark purple</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>hurricane blue</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:tag>web</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197557308</id>
+      <title>Black</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>96-9201-BLK-LRG</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197557308</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>96-9201-HBL-LRG</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197557308</id>
+      <title>Pink</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>96-9201-PNK-LRG</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197557308</id>
+      <title>Dark Purple</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>96-9201-PUR-LRG</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197557308</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>96-9201-RBL-LRG</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4506197065788</id>
+    <published>2020-04-23T13:44:31-04:00</published>
+    <updated>2020-04-23T13:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-small-pet-1-25-x-2-nylon-web-hanging-hay-bag-pouch-feeder-for-guinea-pigs-rabbits-and-chinchillas-with-super-tough-bottom-size-small"/>
+    <title>cuteNfuzzy Easy Feed Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Small_Pet_Hay_Bag_Super_Tough_Bottom_Rectangle_Web_Hurricane_Blue_Swatch_Small_96-9201.png?v=1604936572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable nylon web design with  1.25" x 2" openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">EXCLUSIVE SUPER TOUGH BOTTOM DESIGN - originally designed for horses, this bottom is more durable and keeps hay fresher by providing better air flow and allowing dust to exit your pet's hay. This also makes accessing the hay easier for your pet.</span></li>
+<li><span style="font-weight: 400;">MEASURES 10" LONG x 11" TALL x 3" WIDE - this hay bag is sized to perfectly fit inside most cages and comfortably accommodate 1-2 small pets. This feeder features a half nylon web front with 1.25" x 2" openings to allow up to two animals to eat at once.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla  small</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>dark purple</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>hurricane blue</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:tag>web</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197065788</id>
+      <title>Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9201-BLK-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197065788</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9201-HBL-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197065788</id>
+      <title>Pink</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9201-PNK-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197065788</id>
+      <title>Dark Purple</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9201-PUR-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506197065788</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9201-RBL-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4506176127036</id>
+    <published>2020-04-23T13:35:35-04:00</published>
+    <updated>2020-04-23T13:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-small-pet-1-square-nylon-web-hanging-hay-bag-pouch-feeder-for-guinea-pigs-rabbits-and-chinchillas-with-super-tough-bottom-size-medium"/>
+    <title>cuteNfuzzy Super Tough Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Medium_Hay_Bag_Small_Pet_Black_Main_96-9200.jpg?v=1593193508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<p> </p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable nylon web design with  1" square openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">EXCLUSIVE SUPER TOUGH BOTTOM DESIGN - originally designed for horses, this bottom is more durable and keeps hay fresher by providing better air flow and allowing dust to exit your pet's hay. This also makes accessing the hay easier for your pet.</span></li>
+<li><span style="font-weight: 400;">MEASURES 15" LONG x 9" TALL x 5" WIDE - this hay bag is sized to perfectly fit inside most cages and comfortably accommodate 1-4 small pets. This feeder features an open nylon web front with 1" square openings to allow up to four animals to eat at once.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla  small</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>petroleum blue</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:tag>web</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176127036</id>
+      <title>Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>96-9200-BLK-MED</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176127036</id>
+      <title>Petroleum Blue</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>96-9200-PBL-MED</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176127036</id>
+      <title>Pink</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>96-9200-PNK-MED</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176127036</id>
+      <title>Purple</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>96-9200-PUR-MED</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4506176487484</id>
+    <published>2020-04-23T12:21:37-04:00</published>
+    <updated>2020-04-23T12:21:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-small-pet-1-square-nylon-web-hanging-hay-bag-pouch-feeder-for-guinea-pigs-rabbits-and-chinchillas-with-super-tough-bottom-size-small"/>
+    <title>cuteNfuzzy Super Tough Small Pet Hanging Hay Bag for Guinea Pigs and Rabbits</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Small_Hay_Bag_Small_Pet_Black_Main_96-9200.jpg?v=1593193600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<p> </p>
+<ul>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">EXCLUSIVE SUPER TOUGH BOTTOM DESIGN - originally designed for horses, this bottom is more durable and keeps hay fresher by providing better air flow and allowing dust to exit your pet's hay. This also makes accessing the hay easier for your pet.</span></li>
+<li><span style="font-weight: 400;">MEASURES 10" LONG x 9" TALL x 5" WIDE - this hay bag is sized to perfectly fit inside most cages and comfortably accommodate 1-2 small pets. This feeder features an open nylon web front with 1" square openings to allow up to two animals to eat at once.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla  small</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>petroleum blue</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:tag>web</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176487484</id>
+      <title>Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9200-BLK-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176487484</id>
+      <title>Petroleum Blue</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9200-PBL-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176487484</id>
+      <title>Pink</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9200-PNK-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506176487484</id>
+      <title>Purple</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>96-9200-PUR-SML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4506019004476</id>
+    <published>2020-04-23T11:55:09-04:00</published>
+    <updated>2020-04-23T11:55:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/copy-of-cutenfuzzy-small-animal-1000d-nylon-hay-pouch-feeder-for-guinea-pigs-and-rabbits-available-in-multiple-colors"/>
+    <title>CuteNfuzzy Small Pet Small Hay Bag for Guinea Pigs and Rabbits with 6 Month Warranty 9x11x1.5&quot;</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Small_Hay_Bag_Small_Pet_1000D_Nylon_Black_Swatch_96-9000.jpg?v=1596554916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<p> </p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable 1000D nylon design with large openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">MEASURES 9" LONG x 11" TALL x 1.5" WIDE - this hay bag is sized to perfectly fit inside most cages and comfortably accommodate 1-2 small pets. This feeder features two front 1.75" wide by 3.75" tall openings to allow up to two animals to eat at once.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND PATTERNS - our fun and colorful small pet hay feeders are available in the colors Black, Hurricane Blue, Pink, Purple, Green, and Rainbow Geometry so that you can find the perfect bag to match your pet's cage.</span></li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yk2ouHjrl1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>hurricane blue</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>print</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>rainbow geometry</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-BLK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Pink</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-PNK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-HBL-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Green</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-GRN-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Purple</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-PUR-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4506019004476</id>
+      <title>Rainbow Geometry</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>96-9000-A01-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9493051408</id>
+    <published>2019-08-02T13:19:50-04:00</published>
+    <updated>2019-08-02T13:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/3040"/>
+    <title>Mustang Mfg. Waxed Nylon Piggin &amp; Goat Strings</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Goat-String-All_f0fce354-c64e-41a0-bcab-d94a336482fd.jpg?v=1571609197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Don't let that goat get away! Tie him up and check your time.<br>
+<ul class="product-features-list">
+<li>Waxed rope</li>
+<li>Best suited for goats</li>
+<li>Made from 3 ply ¼" x 58" nylon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&amp; Lariats</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>blue goat string</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Goat</s:tag>
+    <s:tag>goat string</s:tag>
+    <s:tag>goat strings</s:tag>
+    <s:tag>goat tie</s:tag>
+    <s:tag>green goat string</s:tag>
+    <s:tag>hog tie</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lassos</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>piggin</s:tag>
+    <s:tag>piggin string</s:tag>
+    <s:tag>pink goat string</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>purple goat string</s:tag>
+    <s:tag>Ropes</s:tag>
+    <s:tag>roping</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Purple</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040K</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Lime Green</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040N</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051408</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3040W</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3762314772540</id>
+    <published>2019-06-26T10:20:35-04:00</published>
+    <updated>2019-06-26T10:20:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-livestock-poly-rope-sheep-halter-with-snap"/>
+    <title>Weaver Livestock Poly Rope Sheep Halter with Snap</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/shopping_dd418375-ee88-462b-8968-42a298155966.png?v=1574531476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This fully-adjustable 3/8" poly rope sheep halter is made from traditional "parachute" rope, the same rope traditionally used to construct equine rope halters. This style adjusts easily on the animal and features a snap with a shorter lead that allows you to quickly secure your animal in a pen or wash rack. A great value, this halter comes in a cool selection of color combinations. Measures 52" long with the headpiece condensed.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>fair project</s:tag>
+    <s:tag>fair supplies</s:tag>
+    <s:tag>lamb</s:tag>
+    <s:tag>lambs</s:tag>
+    <s:tag>Lime/Hurricane Blue/Royal Blue</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>livestock supplies</s:tag>
+    <s:tag>rope halter</s:tag>
+    <s:tag>Sheep</s:tag>
+    <s:tag>Sheep and Lamb</s:tag>
+    <s:tag>Sheep Halter</s:tag>
+    <s:tag>sheep lead</s:tag>
+    <s:tag>sheep rope halter</s:tag>
+    <s:tag>sheep supplies</s:tag>
+    <s:tag>show sheep</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>weaver leather livestock</s:tag>
+    <s:tag>Weaver Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3762314772540</id>
+      <title>Lime/Hurricane Blue/Royal Blue</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>35-7845-K32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3747654828092</id>
+    <published>2019-06-19T12:09:36-04:00</published>
+    <updated>2019-06-19T12:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/1000d-small-animal-hay-bag"/>
+    <title>CuteNfuzzy Small Pet Large Hay Bag for Rabbits and Guinea Pigs with 6 Month Warranty 15x15x5&quot;</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Large_Hay_Bag_Small_Pet_1000D_Nylon_Black_Swatch_96-9100.jpg?v=1596555538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<p> </p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable 1000D nylon design with large openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">MEASURES 15" LONG x 15" TALL x 5" WIDE - this hay bag is sized to fit inside most large cages and comfortably accommodate 1-3 small pets. This feeder features three front 2.5" diameter circular openings to allow up to three animals to eat at once.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND PATTERNS - our fun and colorful small pet hay feeders are available in the colors Black, Hurricane Blue, Pink, Purple, Green, and Rainbow Geometry so that you can find the perfect bag to match your pet's cage.</span></li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yk2ouHjrl1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>hurricane blue</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>print</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>rainbow geometry</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-BLK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-PNK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-HBL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Green</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-GRN</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Purple</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-PUR</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747654828092</id>
+      <title>Rainbow Geometric</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96-9100-A01</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3747781083196</id>
+    <published>2019-06-19T11:29:56-04:00</published>
+    <updated>2019-06-19T11:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-1000d-nylon-small-animal-hay-pouch"/>
+    <title>CuteNfuzzy Small Pet Medium Hay Bag for Guinea Pigs and Rabbits with 6 Month Warranty 18x11x1.5&quot;</title>
+    <s:type>Small Animal Supplies</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Medium_Hay_Bag_Small_Pet_1000D_Nylon_Black_Swatch_96-9000.jpg?v=1596555053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Small Animal Supplies<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">CuteNfuzzy's line of small pet hay feeders first premiered in 2019 and were meticulously designed and tested here in the USA. We're proud to have created a line of attractive, high-quality, innovative, long-lasting, and best-selling hay feeders designed for use with any small animal such as guinea pigs, rabbits, chinchillas, degus, and even reptiles such as tortoises! These bags are designed for easy, hassle-free, waste-free, and mess-free hay feeding. Unlike traditional wooden, plastic, or metal hay feeders that are intrusive, heavy, hard to fill, and can become dangerous for your pet, our feeders are completely safe and easy to use.</span></p>
+<p><span style="font-weight: 400;">Each of our small pet hay bags features a pair of high-quality stainless steel trigger snaps that make hanging this bag a breeze, as well as a d-ring on the back so you can anchor the bag to your cage wall to prevent your pet from moving or flipping it. Our bags also have a full velcro closing top to prevent hay spillage. You'll love how much less hay is wasted and how much cleaner your pet's cage stays with our hay bags! Our feeders were designed to be as hygienic as possible by keeping your hay dry and unsoiled. These bags are also easy to clean and feature a waterproof inner lining. All of the seams on these bags are sturdily reinforced for maximum longevity.</span></p>
+<p><span style="font-weight: 400;">Small animals have teeth that never stop growing, so they need to constantly chew in order to keep their teeth from becoming overgrown. Some pets are heavier chewers than others, and while most will not chew fabric, some pets may shred, rip, or eat fabric. For the pets who do this, we do not recommend the use of a fabric hay bag for them as they could try to ingest the fabric. Please take your pet’s individual personality, needs, and safety into consideration when choosing a hay feeder for them. We recommend keeping your hay bag full and not letting it become empty for lengths of time in order to lessen the risk of them eating the fabric. If your hay bag becomes damaged, immediately discontinue using it.</span></p>
+<p> </p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED WITH YOUR PETS SAFETY IN MIND - this hay bag features an all-fabric durable 1000D nylon design with large openings for increased safety, comfort for your pet, and durability. Our hay bags were proudly designed in the USA and tested extensively.</span></li>
+<li><span style="font-weight: 400;">PERFECT FOR GUINEA PIGS, RABBITS, CHINCHILLAS, AND MORE - these hay bags were designed for use with a wide variety of hay eating small animals. Our hay bags are sized to hold a generous amount of hay, and are safe for every day and long-term use.</span></li>
+<li><span style="font-weight: 400;">NOT DESIGNED FOR HEAVY CHEWERS - some small pets will chew/eat fabric. For these pets, we recommend that you do not use a fabric hay feeder as they may try to ingest the fabric. Always monitor your pet and remove the hay bag if it becomes damaged.</span></li>
+<li><span style="font-weight: 400;">MEASURES 18" LONG x 11" TALL x 1.5" WIDE - this hay bag is sized to perfectly fit inside most cages and comfortably accommodate 1-4 small pets. This feeder features four front 1.75" wide by 3.75" tall openings to allow up to four animals to eat at once.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN MULTIPLE COLORS AND PATTERNS - our fun and colorful small pet hay feeders are available in the colors Black, Hurricane Blue, Pink, Purple, Green, and Rainbow Geometry so that you can find the perfect bag to match your pet's cage.</span></li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yk2ouHjrl1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chinchilla</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>guinea pig</s:tag>
+    <s:tag>hay</s:tag>
+    <s:tag>hay bag</s:tag>
+    <s:tag>hay feeder</s:tag>
+    <s:tag>hurricane blue</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>nylon</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>print</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:tag>rainbow geometry</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>small animal</s:tag>
+    <s:tag>small pet</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Black</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-BLK-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Pink</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-PNK-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-HBL-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Green</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-GRN-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Purple</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-PUR-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3747781083196</id>
+      <title>Rainbow Geometry</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>96-9000-A01-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404274634812</id>
+    <published>2019-05-10T14:59:34-04:00</published>
+    <updated>2019-05-10T14:59:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-black-midnight-all-black-premium-flat-fancy-stitch-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby Midnight All Black Premium Flat Fancy Stitch Leather Cattle Show Halter with Matching Chain Lead  - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-3055BK_Main.jpg?v=1574542213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">NEW ALL BLACK DESIGN - this elegant Black Midnight cattle halter is our first show halter featuring an all black construction with black leather and hardware for a rich, elegant look that is sure to complement any cow.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN THREE SIZES - this leather halter is available in three sizes, Small, Medium, and Large.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br>Small (350 lbs - 700 lbs)<br>Crown: 12" - 16"<br>Cheekpiece: 6"<br>Noseband: 9"<br><br>Medium (650 lbs - 1050 lbs)<br>Crown: 14" - 20"<br>Cheekpiece: 7"<br>Noseband: 10"<br><br>Large (950 lbs - 1500 lbs)<br>Crown: 16" - 22"<br>Cheekpiece: 8"<br>Noseband: 11"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404274634812</id>
+      <title>Small</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3055-BK-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404274634812</id>
+      <title>Medium</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3055-BK-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404274634812</id>
+      <title>Large</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3055-BK-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404273324092</id>
+    <published>2019-05-10T14:59:29-04:00</published>
+    <updated>2019-05-10T14:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-black-midnight-all-black-premium-round-rolled-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby Black Midnight All Black Premium Round Rolled Leather Cattle Show Halter with Matching Chain Lead  - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-3054BK.jpg?v=1574537257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">NEW ALL BLACK DESIGN - this elegant Black Midnight cattle halter is our first show halter featuring an all black construction with black leather and hardware for a rich, elegant look that is sure to complement any cow.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN THREE SIZES - this leather halter is available in three sizes, Small, Medium, and Large.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all black</s:tag>
+    <s:tag>black hardware</s:tag>
+    <s:tag>blackout</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>cattle show halter</s:tag>
+    <s:tag>cattle supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>livestock show halter</s:tag>
+    <s:tag>livestock supplies</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404273324092</id>
+      <title>Small</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3054-BK-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404273324092</id>
+      <title>Medium</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3054-BK-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404273324092</id>
+      <title>Large</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3054-BK-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2549931245628</id>
+    <published>2019-05-07T14:02:31-04:00</published>
+    <updated>2019-05-07T14:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-livestock-pro-calf-blanket-black"/>
+    <title>Weaver Livestock Pro Calf Blanket, Black</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/48328-003-0081088_l.jpeg?v=1574547461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Keep your calf warm with these water-resistant blankets constructed of 900-denier material with a single layer 200-gram polyester fiber fill. Blanket doesn't hold moisture in against calf and features adjustable belly straps with quick-release buckles for easy on and off. Machine washable</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Black with Purple Trim</s:tag>
+    <s:tag>blanket</s:tag>
+    <s:tag>Calf</s:tag>
+    <s:tag>calf blanket</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>cattle supplies</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold weather</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Newborn Calf</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regular</s:tag>
+    <s:tag>regular calf</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>weaver leather livestock</s:tag>
+    <s:tag>Weaver Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2549931245628</id>
+      <title>Small / Black with Purple Trim</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>35-3596-B1</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2549931245628</id>
+      <title>Regular / Black with Purple Trim</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>35-3597-B1</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2511834677308</id>
+    <published>2019-04-12T11:13:39-04:00</published>
+    <updated>2019-04-12T11:13:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-procool-mesh-sheep-blanket"/>
+    <title>Weaver Leather ProCool™ Mesh Sheep Blanket</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/34083-003-0022815_l.jpeg?v=1574535689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-5 col-md-4">
+<div class="">
+<div id="html-content-ctl00-scContent-C016" class="form-group-x2 clearfix html-content ">An industry first, this unique blanket with breathable white mesh material provides excellent ventilation and blocks 98% of UVA/UVB rays, making it great for slick shorn lambs. The durable, rip-resistant material offers effective protection from fly bites and provides a barrier against fungus while keeping the animal clean and cool. Edged with black binding for added strength, these blankets also feature snap and ring ends on the adjustable belly strap that rest inside pockets to help protect the lamb from rubbing or chafing. A mesh butt provides added air circulation while leg gussets allow for extended leg movement. Machine wash separately in cold water, gentle cycle; line dry only; do not bleach. Small fits lambs 80-120 lbs.</div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<div class="form-group-x3 hidden-xs"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>blanket</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>lamb</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>mesh</s:tag>
+    <s:tag>ProCool</s:tag>
+    <s:tag>Sheep</s:tag>
+    <s:tag>Sheep and Lamb</s:tag>
+    <s:tag>Sheep Blanket</s:tag>
+    <s:tag>Sheep ProCool</s:tag>
+    <s:tag>SHOW</s:tag>
+    <s:tag>show lamb</s:tag>
+    <s:tag>show sheep</s:tag>
+    <s:tag>show sheet</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>weaver</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Weaver Livestock</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2511834677308</id>
+      <title>Small</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>35-3510-WH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2511834677308</id>
+      <title>Large</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>35-3512-WH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2509426655292</id>
+    <published>2019-04-11T12:01:26-04:00</published>
+    <updated>2019-04-11T12:01:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-pig-whip-dressage-whip"/>
+    <title>Weaver Leather Pig Whip/Dressage Whip</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/5121BL.jpeg?v=1574536635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div id="html-content-ctl00-scContent-C016" class="form-group-x2 clearfix html-content col-sm-12">
+<p>In exciting colors kids will love, this pig whip is quality constructed for maximum durability. A comfortable rubber handle provides extra grip. Measures 36" overall including popper.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36&quot;</s:tag>
+    <s:tag>Blaze Orange</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Colored Pig Whips</s:tag>
+    <s:tag>Colored Whips</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Dressage</s:tag>
+    <s:tag>Dressage Whip</s:tag>
+    <s:tag>Extra Grip</s:tag>
+    <s:tag>fusion</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hurricane Blue</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Lime Zest</s:tag>
+    <s:tag>Lime Zest Whip</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Orange Crush</s:tag>
+    <s:tag>Orange Whip</s:tag>
+    <s:tag>Pig</s:tag>
+    <s:tag>Pig Stick</s:tag>
+    <s:tag>Pig Whip</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Fusion</s:tag>
+    <s:tag>Popper</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Purple Jazz</s:tag>
+    <s:tag>Rubber</s:tag>
+    <s:tag>Rubber Grip</s:tag>
+    <s:tag>Rubber Handle</s:tag>
+    <s:tag>SHOW</s:tag>
+    <s:tag>Show Whip</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Whips</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2509426655292</id>
+      <title>Hurricane Blue</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>65-5121-BL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2509426655292</id>
+      <title>Lime Zest</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>65-5121-LI</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2509426655292</id>
+      <title>Orange Crush</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>65-5121-OR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2509426655292</id>
+      <title>Pink Fusion</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>65-5121-PK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2509426655292</id>
+      <title>Purple Jazz</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>65-5121-PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404263264316</id>
+    <published>2019-03-29T13:21:27-04:00</published>
+    <updated>2019-03-29T13:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-raised-padded-fancy-stitch-leather-cattle-show-halter-with-matching-chain-lead"/>
+    <title>Derby Originals Premium Raised Padded Fancy Stitch Leather Cattle Show Halter with Matching Chain Lead  - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-3052BK-Main.jpg?v=1574548427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one-year limited manufacturer’s warranties.</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER CONSTRUCTION - this elegant show halter features a solid premium-leather construction, with flexible, supple padded raised leather on the nose and cheeks, an adjustable flat leather crown, and sturdy leather stays to keep the halter’s shape in the ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in the sizes Small, Medium, and Large and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel-plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one-year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052BK-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052HV-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052BK-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052HV-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052BK-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404263264316</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>30-3052HV-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404290003004</id>
+    <published>2019-03-29T13:21:16-04:00</published>
+    <updated>2019-03-29T13:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-show-spotted-flat-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby New and Improved Premium Show Spotted Flat Leather Cattle Show Halter with Matching Chain Lead - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_Cow_Spots_Black.v2_3d4918f9-e625-4760-bf76-a8c0d52532fb.jpg?v=1574528213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">ADORNED WITH SHOW SPOTS - these show halters feature shiny stainless show spots that provide contrast against the dark leather and add an elegant and royal feel.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404290003004</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3058-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404246683708</id>
+    <published>2019-03-29T13:21:10-04:00</published>
+    <updated>2019-03-29T13:21:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-leather-round-rolled-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby Originals New and Improved Premium Round Rolled Leather Cattle Show Halter with Matching Chain Lead  - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cattle-Halters-Rolled-Colors.v2_d41452a7-ceb6-43c0-96c5-4f19c76b506a.jpg?v=1574533974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin-bottom: 0in; line-height: 100%;" align="justify"><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER CONSTRUCTION - this elegant show halter features a solid premium-leather construction, with flexible, supple rolled leather on the nose and cheeks, an adjustable flat leather crown, and sturdy leather stays to keep the halter’s shape in the ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in the sizes Small, Medium, and Large and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404246683708</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3050-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404267491388</id>
+    <published>2019-03-29T13:20:59-04:00</published>
+    <updated>2019-03-29T13:20:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-new-and-improved-premium-flat-fancy-stitch-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby New and Improved Premium Flat Fancy Stitch Leather Cattle Show Halter with Matching Chain Lead - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Cattle-Halter-FS-Colors_grande_ebf92800-1e84-45ae-a28e-c8daad0ac68c.jpg?v=1574548910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER CONSTRUCTION - this elegant show halter features a solid premium-leather construction, with flexible, supple flat leather on the nose and cheeks, an adjustable flat leather crown, and sturdy leather stays to keep the halter’s shape in the ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404267491388</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>30-3053-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404279156796</id>
+    <published>2019-03-29T13:20:44-04:00</published>
+    <updated>2019-03-29T13:20:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-crystal-bling-rhinestone-inlay-flat-leather-cattle-show-halter-chain-lead-arranty"/>
+    <title>Derby New &amp; Improved Premium Crystal Bling Rhinestone Inlay Flat Leather Cattle Show Halter with Chain Lead   - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/f4e88f00-d815-4691-9aca-8c4232131645_c232d286-9787-439b-a04f-d939512259da.jpg?v=1574531548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><strong>Features</strong></p>
+<p style="margin-bottom: 0in; line-height: 100%;" align="justify"> </p>
+<p><span style="font-weight: 400;">ADORNED WITH RHINESTONE INLAY - this elegant show halter features two rows of bright white rhinestones that are sure to dazzle in the show ring and make your cow look like royalty.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in two leather colors to best suit your taste and the color of your animal: deep Black and rich Havana.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Livestock</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404279156796</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>30-3056-HV-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2404301897788</id>
+    <published>2019-03-29T13:20:37-04:00</published>
+    <updated>2019-03-29T13:20:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-bronze-beauty-premium-round-rolled-leather-cattle-show-halter-with-matching-chain-lead-one-year-limited-manufacturer-s-warranty"/>
+    <title>Derby Originals Bronze Beauty Premium Round Rolled Leather Cattle Show Halter with Matching Chain Lead - One Year Limited Manufacturer’s Warranty</title>
+    <s:type>Cattle</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-3059BK_Main.jpg?v=1574532925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Cattle<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of leather cattle show halters was designed to look elegant, remain beautiful for many years to come, and help to show off and complement the beauty of your cow or steer without detracting from the animal itself. These cattle show halters are available in many styles and a variety of colors and sizes designed to suit every breed of cow and every life stage. If you’re looking for an attractive, high-quality, elegant show halter at an amazing price, look no further! These new and improved cattle show halters were released in 2019 and feature new and improved sizing, and one year limited manufacturer’s warranties.</span></p>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">BRUSHED BRONZE HARDWARE - this elegant halter features a burnished bronze colored hardware that has a rich look to it and is sure to set you apart from your competitors in the show ring.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN MULTIPLE SIZES AND COLORS - this leather halter is available in three sizes, Small, Medium, and Large, and in three leather colors to best suit your taste and the color of your animal: deep Black, rich Havana, and new warm Chestnut.</span></p>
+<p><span style="font-weight: 400;">INCLUDES MATCHING CHAIN LEAD - each of our Derby Originals leather show halters includes a matching 1” wide 48” leather lead with a 14” heavy-duty nickel plated control chain.</span></p>
+<p><span style="font-weight: 400;">PERFECT FOR FAIR AND SHOWS – our Derby Originals leather show halters were designed for events from local fairs to the professional show ring. These halters have a high-class design and are built to last. These halters are great for 4H-ers!</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER'S WARRANTY - we’re proud to be the first company to offer one year warranties on our new cattle show halters. Visit </span><a href="https://www.derbyoriginals.com/pages/warranty-registration-1"><span style="font-weight: 400;">https://www.derbyoriginals.com/pages/warranty-registration-1</span></a><span style="font-weight: 400;"> for more information.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Size Chart</strong><br><br><span>Small (350 lbs - 700 lbs)</span><br><span>Crown: 12" - 16"</span><br><span>Cheekpiece: 6"</span><br><span>Noseband: 9"</span><br><br><span>Medium (650 lbs - 1050 lbs)</span><br><span>Crown: 14" - 20"</span><br><span>Cheekpiece: 7"</span><br><span>Noseband: 10"</span><br><br><span>Large (950 lbs - 1500 lbs)</span><br><span>Crown: 16" - 22"</span><br><span>Cheekpiece: 8"</span><br><span>Noseband: 11"</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>bronze hardware</s:tag>
+    <s:tag>bronze hardware halter</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>cattle supplies</s:tag>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>livestock show halter</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-BK-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Small / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-HV-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Small / Chestnut</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-CH-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-BK-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Medium / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-HV-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Medium / Chestnut</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-CH-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-BK-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Large / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-HV-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2404301897788</id>
+      <title>Large / Chestnut</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-3059-CH-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/730347143228</id>
+    <published>2018-06-26T13:21:52-04:00</published>
+    <updated>2018-06-26T13:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/livestock-adjustable-poly-neck-rope"/>
+    <title>Livestock Adjustable Poly Neck Rope</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/53059-003-0088977_m_1.jpg?v=1571609223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Made from twisted, tight weave polypropylene, this neck rope features a slide adjustment to easily fit any neck size</li>
+<li>A braided snap end offers added strength</li>
+<li>Brass plated hardware</li>
+<li>Measures 1/2" x 10"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Balck</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Purple/Black/Teal</s:tag>
+    <s:tag>Rope &amp; Poly Rope Halters</s:tag>
+    <s:tag>rope halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730347143228</id>
+      <title>Purple/Black/Teal</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-4040-H36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730347143228</id>
+      <title>Mint</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-4040-H40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730347143228</id>
+      <title>Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-4040-BK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/730339115068</id>
+    <published>2018-06-26T13:04:19-04:00</published>
+    <updated>2018-06-26T13:04:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/stierwalt-breaking-halter"/>
+    <title>Stierwalt Breaking Halter</title>
+    <s:type>Livestock</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/54439-003-0089025_m_1.jpg?v=1571609222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Livestock<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Great for halter breaking young cattle. The quick pull-and-release action helps to prevent swollen jaws during training. The pressure points and easy slide action work together to acclimate calves to the feel of a show halter with a chain.</div>
+<ul>
+<li>Special figure eight hardware designed by Kirk Stierwalt makes this halter one of a kind</li>
+<li>Quick pull-and-release action helps prevent swollen jaws, unlike the slower release of conventional breaking halters</li>
+<li>Pressure points and easy slide action help acclimate calf to the feel of a show halter</li>
+<li>Leads measure approximately 8-1/2' long</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Breaking</s:tag>
+    <s:tag>Breaking Halter</s:tag>
+    <s:tag>Cattle</s:tag>
+    <s:tag>Cattle Halter</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>Coral/Gray/Teal</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>Livestock</s:tag>
+    <s:tag>Livestock Halter</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Purple/Black/Teal</s:tag>
+    <s:tag>Rope &amp; Poly Rope Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730339115068</id>
+      <title>Coral/Gray/Teal</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-7910-H38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730339115068</id>
+      <title>Purple/Black/Teal</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-7910-H36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/730339115068</id>
+      <title>Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>35-7910-H10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

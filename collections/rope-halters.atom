@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/rope-halters.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2018-01-22T10:13:01-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485464272</id>
+    <published>2018-01-22T10:13:01-05:00</published>
+    <updated>2018-01-22T10:13:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/90-9500"/>
+    <title>Tahoe Tack Nylon Rope Halter with Rawhide Braided Noseband</title>
+    <s:type>Rope Halters</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_Rope_Rawhide_90-9500-2_Colors.v2.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Rope Halters<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="display: inline !important;"><span>Tahoe Tack’s Nylon Rope Halter with Rawhide Braided Noseband features an attractive braided rawhide noseband, rawhide beading, and real horse hair tassels that add a classic western flair that plain rope halters lack. These are perfect for training as the nylon rope construction allows you to give more clear cues based off pressure. These rope halters are ideal for lunging and other training activities.</span></p>
+Made from a super soft durable nylon<br>
+<ul class="product-features-list">
+<li>
+<p style="display: inline !important;"><span>CLASSIC WESTERN DESIGN - this rope halter features an attractive braided rawhide noseband, rawhide beading, and real horse hair tassels that add a classic western flair that plain rope halters lack.</span></p>
+</li>
+<li><span>STURDY NYLON ROPE CONSTRUCTION - our rope halter is made of a durable nylon rope that is designed to hold up strong for years to come.</span></li>
+<li><span>GREAT FOR TRAINING - our rope halters are perfect for training as the nylon rope construction allows you to give more clear cues based off pressure. These rope halters are ideal for lunging and other training activities.</span></li>
+<li><span>CAN BE USED AS A HALTER OR BRIDLE - our rope halters include a matching 9’ lead and are designed to function as both a halter, or as a bridle that you can ride in.</span></li>
+<li><span>AVAILABLE IN TWO COLORS - our braided rawhide noseband rope halters are available in two classic colors: Black and Pink</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>poly</s:tag>
+    <s:tag>rope</s:tag>
+    <s:tag>Rope &amp; Poly Rope Halters</s:tag>
+    <s:tag>rope halter</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>training halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464272</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>90-9500BK</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464272</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>90-9500PK</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+</feed>

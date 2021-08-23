@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/show-halters-1.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-07-20T10:46:03-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4603117535292</id>
+    <published>2020-07-20T10:46:03-04:00</published>
+    <updated>2020-07-20T10:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-silverado-round-concho-show-halters-with-lead-closeout"/>
+    <title>Tahoe Silverado Round Concho Show Halters with Lead</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/SHOWHalter.v2.jpg?v=1595256371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Finely crafted show halter is hand made from full weight 1" wide leather. Halter is quality stitched with hand finished edges and adorned with fine silver conchos, 3 on noseband, 3 on each cheek piece. Silver conchos are accented by the solid brass nickel plated hardware. Adjustable throat and noseband for comfort and fit.</span><br><br><span>Full - Crown: 23",  Noseband: 28" - 29", Cheek: 8"</span><br><br><span>Cob - Crown: 13"-19". Noseband: 25"- 29". Cheeks: 7.5"</span><br><br><span>Mini: Crown 9"-13", Nose 20"-24", Cheek 5.5"</span><br>
+<ul class="product-features-list">
+<li>Made from full weight 1" wide quality stitched leather with hand finished edges</li>
+<li>Hand engraved silver conchos: 3 on nosebandand 3 on each cheek piece</li>
+<li>Solid brass nickel plated hardware</li>
+<li>Double buckle crown, two way adjustable noseband, and adjustable throat strap</li>
+<li>Comes with FREE matching 1" wide 56" leather lead and 24" chain</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4603117535292</id>
+      <title>Draft / Dark Oil</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>18-1456N-DO-D</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4579959603260</id>
+    <published>2020-06-19T11:22:29-04:00</published>
+    <updated>2020-06-19T11:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-star-concho-halter-w-spots-opulent-leather-closeout"/>
+    <title>Tahoe Tack Star Concho Halter w/ Spots - USA Leather</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_Stars_Spots.v2.jpg?v=1592580343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Genuine leather show halter made of quality USA leather featuring the trendy new look of silver studs and gold star conchos accented by stainless steel hardware and spots. Adjustable throat and noseband for added comfort and fit. </p>
+<p>Cob - Crown: 21"-22" Cheek: 6.5" Nose: 25"-27"</p>
+<p>Full - Crown: 24" Cheek: 8" Nose: 27"-28"</p>
+<br>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Mini &amp; Pony Western Riding</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4579959603260</id>
+      <title>Cob / Arab - Dark Oil Brown</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>18-1872-DO-C</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485462608</id>
+    <published>2019-10-25T13:17:22-04:00</published>
+    <updated>2019-10-25T13:17:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-pt1879"/>
+    <title>Paris Tack 5 Way Adjustable English Show Halters - USA Leather</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_5_Way_Adjustable_Horse.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This clever halter is adjustable in 5 different ways... 2 buckles on the crown, 2 buckles on the noseband, and 1 buckle connecting to the nose piece under the chin. Rust-proof solid brass hardware for added style and durability.<br><br>
+<ul class="product-features-list">
+<li>Double layered leather by Wickett &amp; Craig of America</li>
+<li>1" wide leather (weanling and yearling sizes are 3/4" wide)</li>
+<li>Adjustable in 5 different ways</li>
+<li>2 buckles on the crown; 2 buckles on the noseband; 1 buckle connecting to the nose piece under the chin</li>
+<li>Rust-proof solid brass hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Mini &amp; Pony Horse Wear</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Pony</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weanling</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Yearling</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Yearling / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-Y</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Weanling / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Pony / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-P</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Cob / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Full Horse / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-F</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485964112</id>
+    <published>2018-08-01T16:25:38-04:00</published>
+    <updated>2018-08-01T16:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-1871-s"/>
+    <title>Tahoe Gold Cross Concho Show Halter Made From USA Leather</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe_Gold-Cross-Show-Halter_18-1871-S.v3.v3.jpg?v=1571609147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Superbly designed gold cross conchos set this halter apart from the others. The stunning design also features stainless steel hardware and an adjustable noseband and throat strap.<br> <br> Full/Average: Crown 24" Cheek 8" Nose band 28-29"<br>
+<ul class="product-features-list">
+<li>Made from quality USA leather</li>
+<li>Superbly designed gold cross conchos</li>
+<li>Double buckle crown</li>
+<li>Two way adjustable noseband with adjustable throat strap</li>
+<li>Stainless steel hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Mini &amp; Pony Western Riding</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485964112</id>
+      <title>Draft - Dark Oil Brown</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>18-1871-DO-D</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/753528078396</id>
+    <published>2017-06-27T16:00:58-04:00</published>
+    <updated>2017-06-27T16:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-american-elite-series-usa-leather-rhinestone-inlay-padded-halter-mini-pony-size"/>
+    <title>Paris Tack American Elite Series USA Leather Rhinestone Inlay Padded Halter for Mini Horses</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-PT3091BK-P.jpg?v=1571609237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Paris Tack’s American Elite collection is composed of only the finest USA Leather halters, with soft, supple, vegetable-tanned leather made by Wickett and Craig of Pennsylvania. These halters are designed to provide the utmost comfort to your horse in the stable or at pasture, while retaining a high-class look and feel that will remain for many years. These halters are ideal for the discerning rider who wants more for their horse than the basic leather halter, and instead desires something elite.</strong></p>
+<p> </p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - Paris Tack has been making high-quality leather halters of all types and sizes for 20 years. Our halters come in a variety of styles and leather colors, types, sizes, and with differing features so that you can best find what suits you and your horse!</span></p>
+<p><span style="font-weight: 400;">CRYSTAL INLAY - this halter features stunning crystal inlay on the cheekpieces and noseband which is sure to dazzle in the show ring.</span></p>
+<p><span style="font-weight: 400;">USA LEATHER - </span><span style="font-weight: 400;">these halters are made from only the best-quality leather sourced from Wickett and Craig of Pennsylvania. These halters were hand-crafted with care and have a beauty and suppleness that cannot be matched.</span></p>
+<p><span style="font-weight: 400;">SOLID LEATHER BUILD - this leather halter features a solid double-layered leather build, which was designed to provide maximum comfort and fit while maintaining a sleek and classic appearance.</span></p>
+<p><span style="font-weight: 400;">BRASS HARDWARE - this leather halter features high-quality rust-proof solid brass hardware, which will look attractive and hold up strong for many years to come.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Elite</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini &amp; Pony Horse Wear</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/753528078396</id>
+      <title>Mini Horse (X-Small) / Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-PT3091-BK-M</s:sku>
+      <s:grams>1488</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9590538576</id>
+    <published>2017-06-27T16:00:58-04:00</published>
+    <updated>2017-06-27T16:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/paris-tack-rhinestone-padded-adjustable-halter-usa-leather"/>
+    <title>Paris Tack American Elite Series USA Leather Rhinestone Inlay Padded Halter</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-PT3091_HV.jpg?v=1596830685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Paris Tack’s American Elite collection is composed of only the finest USA Leather halters, with soft, supple, vegetable-tanned leather made by Wickett and Craig of Pennsylvania. These halters are designed to provide the utmost comfort to your horse in the stable or at pasture, while retaining a high-class look and feel that will remain for many years. These halters are ideal for the discerning rider who wants more for their horse than the basic leather halter, and instead desires something elite.</strong></p>
+<p> </p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - Paris Tack has been making high-quality leather halters of all types and sizes for 20 years. Our halters come in a variety of styles and leather colors, types, sizes, and with differing features so that you can best find what suits you and your horse!</span></p>
+<p><span style="font-weight: 400;">CRYSTAL INLAY - this halter features stunning crystal inlay on the cheekpieces and noseband which is sure to dazzle in the show ring.</span></p>
+<p><span style="font-weight: 400;">USA LEATHER - </span><span style="font-weight: 400;">these halters are made from only the best-quality leather sourced from Wickett and Craig of Pennsylvania. These halters were hand-crafted with care and have a beauty and suppleness that cannot be matched.</span></p>
+<p><span style="font-weight: 400;">SOLID LEATHER BUILD - this leather halter features a solid double-layered leather build, which was designed to provide maximum comfort and fit while maintaining a sleek and classic appearance.</span></p>
+<p><span style="font-weight: 400;">BRASS HARDWARE - this leather halter features high-quality rust-proof solid brass hardware, which will look attractive and hold up strong for many years to come.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Elite</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>Cob/Arab</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>LHS</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini &amp; Pony Horse Wear</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Pony</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Warmblood</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9590538576</id>
+      <title>Cob/Arab (Medium) / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-PT3091-HV-C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9590538576</id>
+      <title>Full Horse (Large) / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-PT3091-HV-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9590538576</id>
+      <title>Warmblood (X-Large) / Havana</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30-PT3091-HV-OS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486053136</id>
+    <published>2017-06-08T15:06:25-04:00</published>
+    <updated>2017-06-08T15:06:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-3082"/>
+    <title>Matching Leather Lead for Paris Tack Halter w/ Rhinestones USA Leather</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Lead_Leather_Crystals_Havana.jpg?v=1571609150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect accompaniment to our Paris Tack Padded Halters with Rhinestone Crystals, this beautiful matching leather lead is perfect for your next show or event. Stunning sparkling rhinestone crystals - each row is 9-1/2" long.  Style at a great value.<br><ul class="product-features-list">
+<li>Double layered leather by Wickett &amp; Craig of America</li>
+<li>Premium quality 1" wide leather lead</li>
+<li>Features 2 rows of sparkling rhinestone crystals - each row is 9-1/2" long</li>
+<li>29" long chain</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486053136</id>
+      <title>Havana</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>30-3082HV</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486053136</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>30-3082BK</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485923024</id>
+    <published>2017-06-08T14:42:58-04:00</published>
+    <updated>2017-06-08T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-pt6022"/>
+    <title>Fancy Stitch Raised Leather Lead for Horse Halters Matches Paris Tack Halters</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leather-Lead-PT-FS-Raised-CH.jpg?v=1571609144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An excellent lead for a show features wide Australian leather with fancy stitching and raised padding. The solid brass hardware adds even more style and durability.<br>
+<ul class="product-features-list">
+<li>1" wide Australian Leather made by Paris Tack</li>
+<li>Quality leads to match Paris Tack Fancy Stitch Padded Halters -- loop on end for easy handling</li>
+<li>These supple leather leads feature fancy stitching and raised padding</li>
+<li>20" long chain made from solid brass hardware</li>
+<li>69" long leather section</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485923024</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-PT6022</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/96730644496</id>
+    <published>2017-06-08T14:39:59-04:00</published>
+    <updated>2017-06-08T14:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-fancy-stitched-leather-stable-lead-dark-brown"/>
+    <title>Derby Originals Fancy Stitched Leather Stable Lead - Dark Brown</title>
+    <s:type>Lead Shanks</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Lead_Fancy_Stitch_Matches_Halter.jpg?v=1571609218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Shanks<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This premium quality leather lead matches our fancy stitch padded leather halters. Double Layered Leather by Wickett &amp; Craig of America. 1" wide leather. 23" long chain</p>
+<ul class="product-features-list">
+<li>1 inch wide leather</li>
+<li><span class="a-list-item"> 23 inch long chain </span></li>
+<li><span class="a-list-item"> Matches fancy stitch leather halters </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Leather &amp; Show Leads</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/96730644496</id>
+      <title>Brown</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-6022PFS-BR-F</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+</feed>

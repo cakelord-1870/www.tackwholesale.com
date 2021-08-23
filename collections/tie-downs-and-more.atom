@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/tie-downs-and-more.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-06-08T15:12:22-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486088144</id>
+    <published>2017-06-08T15:12:22-04:00</published>
+    <updated>2017-06-08T15:12:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-0587"/>
+    <title>Weaver Leather Back In Black Noseband</title>
+    <s:type>Tie Downs and More</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/BackinBlack0587jpg.jpg?v=1571609165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Tie Downs and More<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 1" noseband features nickel brass spots, faceted black acrylic stones with bleeding heart knots.<br>
+<ul class="product-features-list">
+<li>1/2" alum tanned crown strap</li>
+<li>Stainless steel buckles</li>
+<li>Details include nickel brass spots, faceted black acrylic stones and bleeding heart knots</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>band</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>black leather</s:tag>
+    <s:tag>black leather noseband</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>NOSE</s:tag>
+    <s:tag>noseband</s:tag>
+    <s:tag>SHOW</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>silver spots</s:tag>
+    <s:tag>Tie Downs</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>work</s:tag>
+    <s:tag>working</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486088144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>30-0587-BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

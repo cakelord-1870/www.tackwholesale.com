@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/english-saddles.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-07-17T14:03:09-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4601678823484</id>
+    <published>2020-07-17T14:03:09-04:00</published>
+    <updated>2020-07-17T14:03:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/billet-guards-with-nylon-edging-for-english-saddles-pair"/>
+    <title>Billet Guards with Nylon Edging for English Saddles - Pair</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Billet_Guards_Synth_BLK.jpg?v=1595008990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These billet guards, also known as buckle guards, are used to prevent wearing on your saddle flaps from girth buckles. Billets may vary from those pictured. These billet guards have stamps of various companies such as Derby Originals, Paris Tack or Weaver and sizes. These stamps are visible in the advertised photos. Sold as a pair.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4601678823484</id>
+      <title>Black</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-1650SN-BK</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4550487801916</id>
+    <published>2020-05-22T13:19:02-04:00</published>
+    <updated>2020-05-22T13:19:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/leather-billet-guards-pair-closeout"/>
+    <title>Leather Billet Guards - Pair</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Billets_CH_16-1650.jpg?v=1590168062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These leather billet guards, also known as buckle guards, are used to prevent wearing on your saddle flaps. Billets may vary from those pictured. These billet guards have stamps of various companies like Derby Originals, Paris Tack or Weaver and sizes. These stamps are visible in the advertised photos. Sold as a pair.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4550487801916</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>16-1650-CH</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4550487801916</id>
+      <title>Black</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>16-1650-BK</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4550454247484</id>
+    <published>2020-05-22T13:04:30-04:00</published>
+    <updated>2020-05-22T13:04:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/leather-billet-guards-for-english-saddles-pair"/>
+    <title>Leather Billet Guards for English Saddles Pair</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Billet_Guards_Holes_HV.jpg?v=1590167250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These leather billet guards, also known as buckle guards, are used to prevent wearing on your saddle flaps.  Billets have six slots instead of three. These billet guards have stamps of various companies like Derby Originals, Paris Tack or Weaver and sizes.  These stamps are visible in the advertised photos. Available as a pair.</p>
+<p>Color: Havana</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4550454247484</id>
+      <title>Havana</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>16-1655-HV</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485347344</id>
+    <published>2020-03-13T15:12:04-04:00</published>
+    <updated>2020-03-13T15:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/3651298"/>
+    <title>Supreme Dressage Saddle - Santa Cruz - BARGAIN BIN</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Saddle_Supreme_Dressage.jpg?v=1571609122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            279.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><strong><span style="color: #ff0000;">This is a closeout item featured in our bargain bin collection at a reduced cost. These products are sold as is and are not eligible for returns. Please contact us to inquire any additional information regarding a bargain bin product.</span></strong></p>
+<div style="text-align: center;"><span style="color: #0000ff;"><strong>Condition: New, may have some wrinkles in the leather, has minor scuff marks on the back of the seat (see photo)</strong></span></div>
+<p>This top of the line Dressage Saddle is specially designed for balance and security, made of 100% French Leather. This is one of our top selling saddles. 100% satisfaction guaranteed. Rare and hard to find.</p>
+<p>*This saddle is on closeout due to minute scratches or dents due to storage. It has not been used.</p>
+<ul class="product-features-list">
+<li>100% French leather</li>
+<li>Made in Argentina</li>
+<li>Adjustable long billet system</li>
+<li>Soft, padded knee rolls</li>
+<li>Sizes: Medium Tree - 17"</li>
+<li>Color: Black</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17&quot;</s:tag>
+    <s:tag>AP &amp; Dressage Saddles</s:tag>
+    <s:tag>Bargain Bin</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Dressage</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>English Saddle</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:tag>saddle</s:tag>
+    <s:tag>supreme</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485347344</id>
+      <title>Black - 17&quot; Medium</title>
+      <s:price currency="USD">279.95</s:price>
+      <s:sku>3651298-17</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485893648</id>
+    <published>2020-01-06T10:16:29-05:00</published>
+    <updated>2020-01-06T10:16:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/12-1213"/>
+    <title>Platinum Series General Purpose English Saddles - Scratch and Dent</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_GeneralPurposeEnglishSaddle_12-1213_Havana_L.v3.jpg?v=1571609143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superbly hand crafted General Purpose saddle is designed with wool flocked panels to conform to the fit of your horse. Seat and knee rolls are made from exquisite Italian leather. The panels are shaped to accommodate varying stirrup lengths for pleasure riding, flat work and small obstacles. Includes a 2 Year Limited Tree Warranty*</p>
+<p>This is warehouse find that may have minor imperfections due to storage. The Black 16" Wide saddle has minor damage on the back of the seat. See the photo of the back of the saddle. <strong>This item is not eligible for returns.</strong></p>
+<p><br> Size: 16, 17, or 18<br> Tree Size: Narrow (5"), Medium (6") or Wide (7")<br> Color: Black or Havana<br> D-rings: Front<br> Knee Rolls : Front<br> Weight: 15 lbs</p>
+<ul class="product-features-list">
+<li>Seat and knee pads are made from exquisite Italian leather</li>
+<li>Wool flocked panels</li>
+<li>Reinforced, spring steel, fiber flex tree</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>English Saddle</s:tag>
+    <s:tag>Labor Day English Saddle Sale</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Black - 16&quot; Narrow</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213BK-16N</s:sku>
+      <s:grams>13449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Havana - 16&quot; Medium</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213HV-16M</s:sku>
+      <s:grams>13222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Havana - 16&quot; Wide</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213HV16W</s:sku>
+      <s:grams>13449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Black - 16&quot; Wide</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213BK-16W</s:sku>
+      <s:grams>13449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Black - 17&quot; Narrow</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213BK-17N</s:sku>
+      <s:grams>13449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485893648</id>
+      <title>Black - 17&quot; Wide</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1213BK-17W</s:sku>
+      <s:grams>13449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2341982666812</id>
+    <published>2019-08-05T15:57:23-04:00</published>
+    <updated>2019-08-05T15:57:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/bargain-bin-derby-originals-ultimate-show-all-purpose-english-saddle-17"/>
+    <title>Derby Originals Ultimate Show All Purpose English Saddle Closeout</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/IMG_1684.JPG?v=1602258684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Derby Original's "Ultimate Show" all purpose English saddle. Flaps are slightly forward but overall is a great every day/all purpose saddle.</p>
+<p> </p>
+<p>This is a warehouse find. The saddle may have minor imperfections due to warehouse storage.  It has not been used. This is a closeout item and not eligible to be returned.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15&quot;</s:tag>
+    <s:tag>16.5&quot;</s:tag>
+    <s:tag>17&quot;</s:tag>
+    <s:tag>17.5&quot;</s:tag>
+    <s:tag>all purpose</s:tag>
+    <s:tag>AP &amp; Dressage Saddles</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Dark Brown</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>English Saddle</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>HUNT</s:tag>
+    <s:tag>Hunt seat</s:tag>
+    <s:tag>jumping</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2341982666812</id>
+      <title>16.5&quot; / Regular</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1212CH-16.5</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2341982666812</id>
+      <title>17.5&quot; / Regular</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1212CH-17.5</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2341982666812</id>
+      <title>15&quot; / Regular</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>12-1212CH-15</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485464720</id>
+    <published>2017-06-08T13:02:17-04:00</published>
+    <updated>2017-06-08T13:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/12-1203"/>
+    <title>Derby Originals Top Trainer All Purpose English Saddle Scratch &amp; Dent</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_TopTrainer_EnglishSaddle_12-1203.v5.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Derby Originals Top Trainer All Purpose English Saddle</h2>
+<p style="text-align: center;">The perfect saddle for an all around equestrian. The features on this saddle make it ideal for lower-level jumpers, eventers, endurance riders and those who enjoy long trail rides and pleasure riding. Saddle includes a 2 year limited tree warranty.</p>
+<p> Constructed of Premium brown leather with suede padded flaps. This saddle has knee rolls and special rear thigh blocks for secure leg positioning. Wool flocked. Includes a 2 Year Limited Tree Warranty*</p>
+<p>15" saddle has a 13" flap. 16" saddle has a 14" flap.</p>
+<h3>Key Features &amp; Item Specifications</h3>
+<ul>
+<li>Designed with premium brown leather and suede padded flaps.</li>
+<li>Features a deep seat to aid riders during flat work.</li>
+<li>Knee rolls and rear thigh supports for assisting a secure leg position.</li>
+<li>Wool flocked panel for added comfort.</li>
+<li>D-rings located on front and back of saddle for training tools.</li>
+<li>Available in sizes 14", 15", 16", 18" regular tree.</li>
+<li>Color: Brown.</li>
+</ul>
+<p><span style="color: #ff0000;">*<span><i>These saddles are on closeout as t</i></span><span><i>here may be some cosmetic scratches/dents. </i></span><span><i>For this reason, these are heavily discounted. All sales are final &amp; there will be no returns accepted on these saddle</i>s.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AP &amp; Dressage Saddles</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>English Saddle</s:tag>
+    <s:tag>Fathers Day</s:tag>
+    <s:tag>Labor Day English Saddle Sale</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>14&quot; / Regular</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-14R</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>14&quot; / Wide</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-14W</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>15&quot; / Regular</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-15R</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>16&quot; / Regular</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-16R</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>16&quot; / Wide</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-16W</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485464720</id>
+      <title>17&quot; / Regular</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>12-1203-17R</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485415120</id>
+    <published>2017-06-08T12:52:19-04:00</published>
+    <updated>2017-06-08T12:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/12-pt1207"/>
+    <title>Paris Tack  English Dressage Saddle</title>
+    <s:type>English Saddles</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Paris-Tack_Dressage_English-Saddle_12-PT1207.v3.jpg?v=1571609126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Saddles<br>
+        <strong>Price: </strong>
+            224.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This excellent quality Dressage saddle is made from premium quality Australian leather. Perfect for new riders, schooling or shows. Includes a 2 Year Limited Tree Warranty*</p>
+<p>*This saddle is on closeout because it may have minute scratches and dents due to storage.</p>
+<ul class="product-features-list">
+<li>Straight panels with padded knee rolls</li>
+<li>Deep seat</li>
+<li>Long billets</li>
+</ul>
+<p><strong>This item is not eligible for returns.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AP &amp; Dressage Saddles</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>English Saddle</s:tag>
+    <s:tag>Labor Day English Saddle Sale</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 16&quot; Medium</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-16R</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 17&quot; Wide</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-17W</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 17.5&quot; Wide</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-17.5W</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 18&quot; Wide</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-18W</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 16&quot; Wide</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-16W</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485415120</id>
+      <title>Black - 16.5&quot; Medium</title>
+      <s:price currency="USD">224.95</s:price>
+      <s:sku>12-PT1207-16.5R</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

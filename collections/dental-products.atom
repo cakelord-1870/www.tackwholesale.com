@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/dental-products.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-06-08T14:47:16-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485947856</id>
+    <published>2017-06-08T14:47:16-04:00</published>
+    <updated>2017-06-08T14:47:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1014-99-1015"/>
+    <title>Double Head Pet Toothbrush for Dogs or Cats</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pet_Toothbrush_Double_Head_Close_99-1014.jpg?v=1595339221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Keep your pet's teeth sparkly clean with this toothbrush. Double angled head makes brushing easier and cleans more surface for greater plaque removal. Just like humans, pets benefit from good oral hygiene.</p>
+<ul class="product-features-list">
+<li>Double heads angled toward teeth and gum line for optimal plaque removal</li>
+<li>Cleans multiple surfaces at the same time</li>
+<li>Soft bristles will clean hard to reach areas</li>
+<li>Fits comfortably in all dog mouths</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Dental Products</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>GROOMING</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>PET CARE</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>TOOTHBRUSH</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485947856</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.79</s:price>
+      <s:sku>99-1014-BL</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

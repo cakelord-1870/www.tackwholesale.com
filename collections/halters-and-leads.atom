@@ -1,0 +1,2404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/halters-and-leads.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2021-03-03T13:32:24-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485403728</id>
+    <published>2021-03-03T13:32:24-05:00</published>
+    <updated>2021-03-03T13:32:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-1900-lt"/>
+    <title>Tahoe Sunspot Basket Tooled Longhorn Inlay Bronc Halters</title>
+    <s:type>Bronc Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_longhornSunspotLT_18-1900.v2.jpg?v=1571609125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Bronc Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautifully crafted of USA leather with hand tooled basket weave design. Noseband accented with silver studded sun spots. Center of basket weave tooling adorned with longhorn cutout and cowhair inlay. Stylish yet durable.<br>
+<ul class="product-features-list">
+<li>Beautifully crafted USA Leather</li>
+<li>Hand tooled basket weave design</li>
+<li>Longhorn cutout with cowhair inlay</li>
+<li>Noseband accented with sun spots</li>
+<li>Adjustable noseband</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bronc Halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>USA Leather Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485403728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1900-LT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4733533061180</id>
+    <published>2021-02-18T12:14:40-05:00</published>
+    <updated>2021-02-18T12:14:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-basic-adjustable-chin-and-throat-snap-halter"/>
+    <title>Weaver Leather Basic Adjustable Chin and Throat Snap Halter</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Basic-Adjustable-Halter-BL.jpg?v=1613490979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">When you're looking for the perfect combination of dependability and value, Weaver Leather's Basic halters are the right choice. With features like brass plated hardware, box-stitching at stress points, oblong buckle holes and a sewn-in throat snap, this 1" nylon halter is a great buy.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nylon halter</s:tag>
+    <s:tag>Nylon Halters</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Turquoise</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-TU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Blue</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-BL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Hunter Green</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-HG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Purple</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Raspberry</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-RA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Average / Red</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7435-RD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Large / Turquoise</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7436-TU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Large / Hunter Green</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7436-HG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Large / Purple</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7436-PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Large / Raspberry</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7436-RA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733533061180</id>
+      <title>Large / Red</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>35-7436-RD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643013328956</id>
+    <published>2020-11-04T16:25:02-05:00</published>
+    <updated>2020-11-04T16:25:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-lead-rope"/>
+    <title>Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes with Replaceable Snap</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Lead_Rope_Cotton_Black_Swatch_11-5151_2.jpg?v=1604525011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            12.99 - 14.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-premium-softgrip-cotton-lead-rope">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes with Replaceable Snap are designed to make any activity requiring a lead rope easier and hassle-free. These premium lead ropes are made of a soft and cushioned cotton material that is comfortable to hold while remaining extremely durable. This non-bulky material is also easier to handle and store than other braided or rounded lead ropes, which are often overly heavy and hard to handle. These lead ropes measure 1” wide and are available in either 7’ or 10’ lengths. Derby Originals 7’ and 10’ Premium Softgrip Cotton Lead Ropes are designed with removable snaps, so if anything happens to your snap over time, you can easily replace it without having to replace your entire lead rope! Our premium soft lead ropes come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lead ropes.</span></p>
+<p data-mce-fragment="1"><br></p>
+<ul>
+<li><span style="font-weight: 400;">PREMIUM DESIGN MAKES LEADING EASIER - our lead rope is made of plush cushioned cotton, which is not slippery and makes it easier to hold onto without losing your grip, as well as a removable nickel bolt snap to extend the life of your lead rope.</span></li>
+<li><span style="font-weight: 400;">REMOVABLE SNAP - our lead ropes include a heavy-duty nickel-plated bolt snap that is designed to be less intrusive and bulky than traditional snaps. This snap is easily removable so you can replace it if needed.</span></li>
+<li><span style="font-weight: 400;">CUSHIONED COTTON DESIGN - this lead rope is made of a soft cotton web that is easy and comfortable to hold, and will not chafe or irritate. This material is also extremely durable and not prone to fraying or breaking.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN TWO LENGTHS - our premium cotton lead ropes are available in 7’ and 10’ lengths to best suit your needs. These multipurpose lead ropes are perfect for tying, trailering, leading, using as a leash, and more!</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN FIVE COLORS - our premium soft lead ropes come in the colors Black, Charcoal, Hot Pink, Red, and Hurricane Blue to best suit your taste. These fun and modern colors are sure to stand out compared to your average plain lead ropes.</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&apos; lead rope</s:tag>
+    <s:tag>7&apos; lead rope</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Black / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-BLK-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Black / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-BLK-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Charcoal / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-CHR-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Charcoal / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-CHR-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hot Pink / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-HPK-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hot Pink / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-HPK-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hurricane Blue / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-HBL-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Hurricane Blue / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-HBL-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Red / 7ft</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-5151-RED-07</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643013328956</id>
+      <title>Red / 10ft</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-5151-RED-10</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4649619128380</id>
+    <published>2020-09-28T10:13:48-04:00</published>
+    <updated>2020-09-28T10:13:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-basket-tooled-bronc-halter-usa-leather"/>
+    <title>Tahoe Tack Basket Tooled Bronc Halter - USA Leather</title>
+    <s:type>Bronc Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_BroncBasketWeave_18-1895.v2.jpg?v=1601302429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Bronc Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Adorn your horse and step out in style with this hand-tooled basket weave halter. Features double layered leather at bend points and solid brass hardware.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bronc Halter</s:tag>
+    <s:tag>bronc halters</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4649619128380</id>
+      <title>Full Horse / London Tan</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1895-LT</s:sku>
+      <s:grams>885</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4603117535292</id>
+    <published>2020-07-20T10:46:03-04:00</published>
+    <updated>2020-07-20T10:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-silverado-round-concho-show-halters-with-lead-closeout"/>
+    <title>Tahoe Silverado Round Concho Show Halters with Lead</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/SHOWHalter.v2.jpg?v=1595256371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Finely crafted show halter is hand made from full weight 1" wide leather. Halter is quality stitched with hand finished edges and adorned with fine silver conchos, 3 on noseband, 3 on each cheek piece. Silver conchos are accented by the solid brass nickel plated hardware. Adjustable throat and noseband for comfort and fit.</span><br><br><span>Full - Crown: 23",  Noseband: 28" - 29", Cheek: 8"</span><br><br><span>Cob - Crown: 13"-19". Noseband: 25"- 29". Cheeks: 7.5"</span><br><br><span>Mini: Crown 9"-13", Nose 20"-24", Cheek 5.5"</span><br>
+<ul class="product-features-list">
+<li>Made from full weight 1" wide quality stitched leather with hand finished edges</li>
+<li>Hand engraved silver conchos: 3 on nosebandand 3 on each cheek piece</li>
+<li>Solid brass nickel plated hardware</li>
+<li>Double buckle crown, two way adjustable noseband, and adjustable throat strap</li>
+<li>Comes with FREE matching 1" wide 56" leather lead and 24" chain</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4603117535292</id>
+      <title>Draft / Dark Oil</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>18-1456N-DO-D</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4599503192124</id>
+    <published>2020-07-14T15:55:23-04:00</published>
+    <updated>2020-07-14T15:55:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-silverado-series-cross-hair-on-nylon-bronc-halters"/>
+    <title>Tahoe Silverado Series Cross Hair On Nylon Bronc Halters</title>
+    <s:type>Bronc Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_BroncCrossHairLT_18-1899-LT.v2.v3.jpg?v=1594756524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Bronc Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Stunning Western nylon bronc halter made from quality double stitched nylon with a hand tooled floral design on leather noseband. Leather tooling accented with a cross hair inlay in the center, edged with sunspots, and antique parachute conchos on each end.</span><br>
+<ul class="product-features-list">
+<li>Made from quality double stitched nylon</li>
+<li>Hand tooled floral design on leather noseband</li>
+<li>Noseband accented with cross hair inlay in the center and edged with sunspots</li>
+<li>Antique parachute conchos on noseband ends</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bronc Halter</s:tag>
+    <s:tag>bronc halters</s:tag>
+    <s:tag>nylon bronc halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4599503192124</id>
+      <title>Cob / London Tan</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1899-LT-C</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4579959603260</id>
+    <published>2020-06-19T11:22:29-04:00</published>
+    <updated>2020-06-19T11:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-star-concho-halter-w-spots-opulent-leather-closeout"/>
+    <title>Tahoe Tack Star Concho Halter w/ Spots - USA Leather</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_Stars_Spots.v2.jpg?v=1592580343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Genuine leather show halter made of quality USA leather featuring the trendy new look of silver studs and gold star conchos accented by stainless steel hardware and spots. Adjustable throat and noseband for added comfort and fit. </p>
+<p>Cob - Crown: 21"-22" Cheek: 6.5" Nose: 25"-27"</p>
+<p>Full - Crown: 24" Cheek: 8" Nose: 27"-28"</p>
+<br>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Mini &amp; Pony Western Riding</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4579959603260</id>
+      <title>Cob / Arab - Dark Oil Brown</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>18-1872-DO-C</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3902792106044</id>
+    <published>2020-01-20T11:45:08-05:00</published>
+    <updated>2020-01-20T11:45:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/copy-of-derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes-1"/>
+    <title>Derby Originals Desert Rose Collection Rose Gold Reflective Safety Flex-Webb Horse Halters with Matching Lead Ropes</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Safety_Reflective_Horse_Halter_Rose_Gold_Turquoise_Swatch_30-3010.png?v=1601144104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            32.99 - 39.99
+            <a href="https://www.tackwholesale.com/products/copy-of-derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes-1">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZCqvE6ChuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Derby Originals brand new Desert Rose Collection of halters and lead ropes are the newest line of premium quality horse halters and lead ropes on the market. These unique and modern tack pieces feature innovative and elegant Rose Gold and Blackout nickel-plated hardware that is unlike anything else offered before. Our hardware is not only breathtaking in its beauty and quality but was designed to hold up strong for long-term use. Derby Originals Desert Rose Collection was designed to emulate the colors, feel, and beauty of the American Southwest in every stunning detail. We meticulously designed these Desert Rose halters and leads right here in the U.S.A. and are proud to be able to stand behind our products and offer a one year warranty on these products. Derby Originals’ Desert Rose Collection halters are available in two styles, stable halters that feature an adjustable nylon crown, and breakaway halters which feature modern and innovative Flex-Webb crowns. These crowns are designed to provide the safety breakaway benefits of a traditional leather crown, without needing special care, regular cleaning, or eventually deteriorating over time like leather will. These gorgeous halters are available in five colors inspired by the natural landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise. Derby Originals line of Desert Rose halters are also available in four sizes: Miniature Horse, Cob/Arab, Full Horse, and Oversize/Warmblood, which means our halters will fit almost any equine. Please be aware when reading past reviews (before October 2020) that we experienced a small quality issue with our lead ropes where they wore quickly. This was quickly corrected and fixed and this issue has been totally eradicated. We are providing full warranty coverage for any issues previous buyers experienced. We stand behind our products and want our customers to have full confidence in purchasing from us.</span></p>
+<ul>
+<li><span style="font-weight: 400;">EXCLUSIVE ROSE GOLD HARDWARE - Derby Originals’ premium halter series features stunning engraved rose gold plated nickel hardware that is attractive, modern, and designed to last. These unique halters are sure to stand out at barns, shows, and events.</span></li>
+<li><span style="font-weight: 400;">INNOVATIVE FLEX-WEBB CROWN DESIGN - these unique crowns provide the same safety benefits of a leather crown but don't need special care and will not deteriorate over time. This halter is perfect for owners looking for a better breakaway alternative!</span></li>
+<li><span style="font-weight: 400;">NEW REFLECTIVE DESIGN INCREASES SAFETY - our halters are the first on the market to feature 360° rolled reflective trim to increase visibility from all angles and help protect your horse when around cars, during hunting season, or at crowded events.</span></li>
+<li><span style="font-weight: 400;">MATCHING SET INCLUDES A HALTER AND LEAD ROPE - each one of our unique halters includes a matching lead rope made of thick, plush, ultra-soft braided poly rope. Sizes Cob, Full Horse, and Oversize include a 10' lead and Mini Horse includes a 7' lead.</span></li>
+<li><span style="font-weight: 400;">INCLUDES A ONE YEAR WARRANTY - Derby Originals' premium halter and lead sets come with a one year warranty that protects against quality or manufacturing defects. Visit derbyoriginals.com to learn more and register your product warranty now.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable halter</s:tag>
+    <s:tag>adjustable nose halter</s:tag>
+    <s:tag>all black halter</s:tag>
+    <s:tag>all pink halter</s:tag>
+    <s:tag>bio thane</s:tag>
+    <s:tag>biothane</s:tag>
+    <s:tag>biothane crown</s:tag>
+    <s:tag>biothane halter</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>breakaway</s:tag>
+    <s:tag>Breakaway Halters</s:tag>
+    <s:tag>burnt red</s:tag>
+    <s:tag>burnt red halter</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>coral pink halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>derby rose gold halter</s:tag>
+    <s:tag>derby rose gold halters</s:tag>
+    <s:tag>derby rose gold hardware</s:tag>
+    <s:tag>desert rose</s:tag>
+    <s:tag>desert rose halter</s:tag>
+    <s:tag>flexx web biothane</s:tag>
+    <s:tag>flexx-web</s:tag>
+    <s:tag>Full/Average</s:tag>
+    <s:tag>green halter</s:tag>
+    <s:tag>green horse halter</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>halter with throat clip</s:tag>
+    <s:tag>halters for horses</s:tag>
+    <s:tag>horse halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>Miniature Horse</s:tag>
+    <s:tag>nylon halter</s:tag>
+    <s:tag>Oversized/Warmblood</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>pink hardware</s:tag>
+    <s:tag>pink horse halter</s:tag>
+    <s:tag>pink metal</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>red sand halter</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>rose gold halter</s:tag>
+    <s:tag>rose gold metal</s:tag>
+    <s:tag>rose gold stable halter</s:tag>
+    <s:tag>STABLE</s:tag>
+    <s:tag>stable halter</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Thkssneak</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>turquoise halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Cactus Green / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CGR-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Cactus Green / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CGR-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Cactus Green / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CGR-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Coral / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3010-CRL-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Coral / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CRL-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Coral / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CRL-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Coral / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-CRL-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Midnight Black / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3010-BLK-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Midnight Black / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-BLK-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Midnight Black / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-BLK-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Midnight Black / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-BLK-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Red Sand / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-RSD-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Red Sand / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-RSD-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Red Sand / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-RSD-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Turquoise / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3010-TRQ-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Turquoise / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-TRQ-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Turquoise / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-TRQ-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902792106044</id>
+      <title>Turquoise / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3010-TRQ-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3902775033916</id>
+    <published>2020-01-20T11:45:08-05:00</published>
+    <updated>2020-01-20T11:45:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes"/>
+    <title>Derby Originals Desert Rose Collection Rose Gold Reflective Safety Stable Horse Halters with Matching Lead Ropes</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Safety_Reflective_Horse_Halter_Rose_Gold_Turquoise_Swatch_30-3011.png?v=1601144666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            32.99 - 39.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZCqvE6ChuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p><span style="font-weight: 400;">Derby Originals brand new Desert Rose Collection of halters and lead ropes are the newest line of premium quality horse halters and lead ropes on the market. These unique and modern tack pieces feature innovative and elegant Rose Gold and Blackout nickel-plated hardware that is unlike anything else offered before. Our hardware is not only breathtaking in its beauty and quality but was designed to hold up strong for long-term use. Derby Originals Desert Rose Collection was designed to emulate the colors, feel, and beauty of the American Southwest in every stunning detail. We meticulously designed these Desert Rose halters and leads right here in the U.S.A. and are proud to be able to stand behind our products and offer a one year warranty on these products. Derby Originals’ Desert Rose Collection halters are available in two styles, stable halters that feature an adjustable nylon crown, and breakaway halters which feature modern and innovative Flex-Webb crowns. These crowns are designed to provide the safety breakaway benefits of a traditional leather crown, without needing special care, regular cleaning, or eventually deteriorating over time like leather will. These gorgeous halters are available in five colors inspired by the natural landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise. Derby Originals line of Desert Rose halters are also available in four sizes: Miniature Horse, Cob/Arab, Full Horse, and Oversize/Warmblood, which means our halters will fit almost any equine. Please be aware when reading past reviews (before October 2020) that we experienced a small quality issue with our lead ropes where they wore quickly. This was quickly corrected and fixed and this issue has been totally eradicated. We are providing full warranty coverage for any issues previous buyers experienced. We stand behind our products and want our customers to have full confidence in purchasing from us.</span></p>
+<ul>
+<li><span style="font-weight: 400;">EXCLUSIVE ROSE GOLD HARDWARE - Derby Originals’ premium halter series features stunning engraved rose gold plated nickel hardware that is attractive, modern, and designed to last. These unique halters are sure to stand out at barns, shows, and events.</span></li>
+<li><span style="font-weight: 400;">FULLY ADJUSTABLE DESIGN - these premium halters feature an adjustable noseband and crown so that you can tailor the fit of the halter to work best for your horse. This feature allows for our halters to fit multiple horses and increases safety.</span></li>
+<li><span style="font-weight: 400;">NEW REFLECTIVE DESIGN INCREASES SAFETY - our halters are the first on the market to feature 360° rolled reflective trim to increase visibility from all angles and help protect your horse when around cars, during hunting season, or at crowded events.</span></li>
+<li><span style="font-weight: 400;">MATCHING SET INCLUDES A HALTER AND LEAD ROPE - each one of our unique halters includes a matching lead rope made of thick, plush, ultra-soft braided poly rope. Sizes Cob, Full Horse, and Oversize include a 10' lead and Mini Horse includes a 7' lead.</span></li>
+<li><span style="font-weight: 400;">INCLUDES A ONE YEAR WARRANTY - Derby Originals' premium halter and lead sets come with a one year warranty that protects against quality or manufacturing defects. Visit derbyoriginals.com to learn more and register your product warranty now.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable halter</s:tag>
+    <s:tag>adjustable nose halter</s:tag>
+    <s:tag>all black halter</s:tag>
+    <s:tag>all pink halter</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>burnt red</s:tag>
+    <s:tag>burnt red halter</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>coral pink halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>derby rose gold halter</s:tag>
+    <s:tag>derby rose gold halters</s:tag>
+    <s:tag>derby rose gold hardware</s:tag>
+    <s:tag>desert rose</s:tag>
+    <s:tag>desert rose halter</s:tag>
+    <s:tag>Full/Average</s:tag>
+    <s:tag>green halter</s:tag>
+    <s:tag>green horse halter</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>halter with throat clip</s:tag>
+    <s:tag>halters for horses</s:tag>
+    <s:tag>horse halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>Miniature Horse</s:tag>
+    <s:tag>nylon halter</s:tag>
+    <s:tag>Oversized/Warmblood</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>pink hardware</s:tag>
+    <s:tag>pink horse halter</s:tag>
+    <s:tag>pink metal</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>red sand halter</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>rose gold halter</s:tag>
+    <s:tag>rose gold metal</s:tag>
+    <s:tag>rose gold stable halter</s:tag>
+    <s:tag>STABLE</s:tag>
+    <s:tag>stable halter</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Thkssneak</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>turquoise halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Cactus Green / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CGR-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Cactus Green / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CGR-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Cactus Green / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CGR-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Coral / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3011-CRL-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Coral / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CRL-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Coral / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CRL-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Coral / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-CRL-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Midnight Black / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3011-BLK-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Midnight Black / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-BLK-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Midnight Black / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-BLK-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Midnight Black / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-BLK-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Red Sand / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-RSD-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Red Sand / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-RSD-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Red Sand / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-RSD-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Turquoise / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3011-TRQ-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Turquoise / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-TRQ-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Turquoise / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-TRQ-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902775033916</id>
+      <title>Turquoise / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3011-TRQ-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4113210507324</id>
+    <published>2020-01-13T11:30:26-05:00</published>
+    <updated>2020-01-13T11:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-soft-braided-poly-lead-rope-available-in-multiple-colors-and-sizes"/>
+    <title>Derby Originals Premium Soft Braided Poly Lead Rope - Available in Multiple Colors and Sizes</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/10.png?v=1574550364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            12.99 - 14.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-premium-soft-braided-poly-lead-rope-available-in-multiple-colors-and-sizes">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-weight: 400;">PREMIUM STRENGTH NICKEL HARDWARE - this lead rope features a sturdy nickel snap that is designed to be easy to open and close with a smooth trigger action, and hold up to wear and tear for many years to come.</span></li>
+<li><span style="font-weight: 400;">PLUSH BRAIDED POLY CONSTRUCTION - our premium lead rope is made from an ultra soft and plush braided poly rope that is designed to be comfortable to hold and prevent irritation or rope burns.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN FIVE COLORS - our lead ropes are available in five colors inspired by the landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN TWO LENGTHS - our lead ropes are available in two lengths: 7’ (recommended for miniature horses, smaller livestock, or applications where a shorter lead is needed)  or 10’ (the standard lead rope sizing suitable for most applications). Approx. 1" wide.<br></span></li>
+</ul>
+<p><span style="font-weight: 400;">Derby Originals Premium Braided Poly Lead Ropes are a high quality and attractive alternative to standard, boring leads. Our lead ropes are made with a unique ultra-plush braided poly construction that is much more comfortable to hold than typical stiff and scratchy stiff poly leads. Our lead ropes are designed to not fray or pull apart like other brand’s inferior leads. These attractive leads are available in five colors inspired by the landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise, and in two lengths: 7’ and 10’.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&apos;</s:tag>
+    <s:tag>10&apos; lead rope</s:tag>
+    <s:tag>10ft</s:tag>
+    <s:tag>7&apos;</s:tag>
+    <s:tag>7&apos; lead rope</s:tag>
+    <s:tag>7ft</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black lead rope</s:tag>
+    <s:tag>blue lead rope</s:tag>
+    <s:tag>brass</s:tag>
+    <s:tag>brass hardware</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>cotton lead</s:tag>
+    <s:tag>cotton lead rope</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>derby lead</s:tag>
+    <s:tag>derby lead rope</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>derby originals lead rope</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green lead rope</s:tag>
+    <s:tag>horse lead rope</s:tag>
+    <s:tag>horse stable supplies</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>lead ropes</s:tag>
+    <s:tag>lead ropes for horses</s:tag>
+    <s:tag>matching lead</s:tag>
+    <s:tag>matching lead rope</s:tag>
+    <s:tag>matching lead rope for derby halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>minature horse</s:tag>
+    <s:tag>mini horse</s:tag>
+    <s:tag>mini horse lead rope</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink lead rope</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>red lead rope</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>soft lead</s:tag>
+    <s:tag>soft lead rope</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Midnight Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-BLK-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Coral</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-CRL-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>7&apos; / Turquoise</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11-1130-TRQ-07FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Midnight Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-BLK-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Coral</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-CRL-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Turquoise</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-TRQ-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Cactus Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-CGR-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4113210507324</id>
+      <title>10&apos; / Red Sand</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11-1130-RSD-10FT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3902794334268</id>
+    <published>2020-01-13T11:30:22-05:00</published>
+    <updated>2020-01-13T11:30:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-desert-rose-horse-breakaway-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes"/>
+    <title>Derby Originals Desert Rose Collection Blackout Reflective Safety Flex-Webb Horse Halters with Matching Lead Ropes</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Safety_Reflective_Horse_Halter_Blackout_Turquoise_Swatch_30-3012.png?v=1601144831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            32.99 - 39.99
+            <a href="https://www.tackwholesale.com/products/derby-originals-desert-rose-horse-breakaway-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/5ZCqvE6ChuQ" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p>
+<p><span style="font-weight: 400;">Derby Originals brand new Desert Rose Collection of halters and lead ropes are the newest line of premium quality horse halters and lead ropes on the market. These unique and modern tack pieces feature innovative and elegant Rose Gold and Blackout nickel-plated hardware that is unlike anything else offered before. Our hardware is not only breathtaking in its beauty and quality but was designed to hold up strong for long-term use. Derby Originals Desert Rose Collection was designed to emulate the colors, feel, and beauty of the American Southwest in every stunning detail. We meticulously designed these Desert Rose halters and leads right here in the U.S.A. and are proud to be able to stand behind our products and offer a one year warranty on these products. Derby Originals’ Desert Rose Collection halters are available in two styles, stable halters that feature an adjustable nylon crown, and breakaway halters which feature modern and innovative Flex-Webb crowns. These crowns are designed to provide the safety breakaway benefits of a traditional leather crown, without needing special care, regular cleaning, or eventually deteriorating over time like leather will. These gorgeous halters are available in five colors inspired by the natural landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise. Derby Originals line of Desert Rose halters are also available in four sizes: Miniature Horse, Cob/Arab, Full Horse, and Oversize/Warmblood, which means our halters will fit almost any equine. Please be aware when reading past reviews (before October 2020) that we experienced a small quality issue with our lead ropes where they wore quickly. This was quickly corrected and fixed and this issue has been totally eradicated. We are providing full warranty coverage for any issues previous buyers experienced. We stand behind our products and want our customers to have full confidence in purchasing from us.</span></p>
+<ul>
+<li><span style="font-weight: 400;">EXCLUSIVE BLACKOUT HARDWARE - Derby Originals’ premium halter series features stunning engraved black plated nickel hardware that is attractive, modern, and designed to last. These unique halters are sure to stand out at barns, shows, and events.</span></li>
+<li><span style="font-weight: 400;">INNOVATIVE FLEX-WEBB CROWN DESIGN - these unique crowns provide the same safety benefits of a leather crown but don't need special care and will not deteriorate over time. This halter is perfect for owners looking for a better breakaway alternative!</span></li>
+<li><span style="font-weight: 400;">NEW REFLECTIVE DESIGN INCREASES SAFETY - our halters are the first on the market to feature 360° rolled reflective trim to increase visibility from all angles and help protect your horse when around cars, during hunting season, or at crowded events.</span></li>
+<li><span style="font-weight: 400;">MATCHING SET INCLUDES A HALTER AND LEAD ROPE - each one of our unique halters includes a matching lead rope made of thick, plush, ultra-soft braided poly rope. Sizes Cob, Full Horse, and Oversize include a 10' lead and Mini Horse includes a 7' lead.</span></li>
+<li><span style="font-weight: 400;">INCLUDES A ONE YEAR WARRANTY - Derby Originals' premium halter and lead sets come with a one year warranty that protects against quality or manufacturing defects. Visit derbyoriginals.com to learn more and register your product warranty now.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable halter</s:tag>
+    <s:tag>adjustable nose halter</s:tag>
+    <s:tag>all black halter</s:tag>
+    <s:tag>all pink halter</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>bio thane</s:tag>
+    <s:tag>biothane</s:tag>
+    <s:tag>biothane crown</s:tag>
+    <s:tag>biothane halter</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>black breakaway</s:tag>
+    <s:tag>black breakaway halter</s:tag>
+    <s:tag>black hardware</s:tag>
+    <s:tag>black metal</s:tag>
+    <s:tag>blackout</s:tag>
+    <s:tag>blackout collection</s:tag>
+    <s:tag>blackout halter</s:tag>
+    <s:tag>breakaway</s:tag>
+    <s:tag>Breakaway Halters</s:tag>
+    <s:tag>burnt red</s:tag>
+    <s:tag>burnt red halter</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>coral pink halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>flexx web biothane</s:tag>
+    <s:tag>flexx-web</s:tag>
+    <s:tag>Full/Average</s:tag>
+    <s:tag>green halter</s:tag>
+    <s:tag>green horse halter</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>halter with throat clip</s:tag>
+    <s:tag>halters for horses</s:tag>
+    <s:tag>horse halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>Miniature Horse</s:tag>
+    <s:tag>nylon halter</s:tag>
+    <s:tag>Oversized/Warmblood</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>pink horse halter</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>red sand halter</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>STABLE</s:tag>
+    <s:tag>stable halter</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>turquoise halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Cactus Green / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CGR-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Cactus Green / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CGR-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Cactus Green / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CGR-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Coral / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3012-CRL-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Coral / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CRL-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Coral / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CRL-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Coral / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-CRL-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Midnight Black / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3012-BLK-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Midnight Black / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-BLK-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Midnight Black / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-BLK-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Midnight Black / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-BLK-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Red Sand / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-RSD-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Red Sand / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-RSD-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Red Sand / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-RSD-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Turquoise / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3012-TRQ-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Turquoise / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-TRQ-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Turquoise / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-TRQ-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902794334268</id>
+      <title>Turquoise / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3012-TRQ-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3902783291452</id>
+    <published>2020-01-13T11:30:20-05:00</published>
+    <updated>2020-01-13T11:30:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/copy-of-derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes"/>
+    <title>Derby Originals Desert Rose Collection Blackout Reflective Safety Stable Horse Halters with Matching Lead Ropes</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Safety_Reflective_Horse_Halter_Blackout_Turquoise_Swatch_30-3013.png?v=1601145029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            32.99 - 39.99
+            <a href="https://www.tackwholesale.com/products/copy-of-derby-originals-desert-rose-horse-stable-halter-and-lead-with-one-year-warranty-available-in-multiple-colors-and-sizes">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZCqvE6ChuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p><span style="font-weight: 400;">Derby Originals brand new Desert Rose Collection of halters and lead ropes are the newest line of premium quality horse halters and lead ropes on the market. These unique and modern tack pieces feature innovative and elegant Rose Gold and Blackout nickel-plated hardware that is unlike anything else offered before. Our hardware is not only breathtaking in its beauty and quality but was designed to hold up strong for long-term use. Derby Originals Desert Rose Collection was designed to emulate the colors, feel, and beauty of the American Southwest in every stunning detail. We meticulously designed these Desert Rose halters and leads right here in the U.S.A. and are proud to be able to stand behind our products and offer a one year warranty on these products. Derby Originals’ Desert Rose Collection halters are available in two styles, stable halters that feature an adjustable nylon crown, and breakaway halters which feature modern and innovative Flex-Webb crowns. These crowns are designed to provide the safety breakaway benefits of a traditional leather crown, without needing special care, regular cleaning, or eventually deteriorating over time like leather will. These gorgeous halters are available in five colors inspired by the natural landscape of the American desert: Midnight Black, Cactus Green, Coral, Red Sand, and Turquoise. Derby Originals line of Desert Rose halters are also available in four sizes: Miniature Horse, Cob/Arab, Full Horse, and Oversize/Warmblood, which means our halters will fit almost any equine. Please be aware when reading past reviews (before October 2020) that we experienced a small quality issue with our lead ropes where they wore quickly. This was quickly corrected and fixed and this issue has been totally eradicated. We are providing full warranty coverage for any issues previous buyers experienced. We stand behind our products and want our customers to have full confidence in purchasing from us.</span></p>
+<ul>
+<li><span style="font-weight: 400;">EXCLUSIVE BLACKOUT HARDWARE - Derby Originals’ premium halter series features stunning engraved black plated nickel hardware that is attractive, modern, and designed to last. These unique halters are sure to stand out at barns, shows, and events.</span></li>
+<li><span style="font-weight: 400;">FULLY ADJUSTABLE DESIGN - these premium halters feature an adjustable noseband and crown so that you can tailor the fit of the halter to work best for your horse. This feature allows for our halters to fit multiple horses and increases safety.</span></li>
+<li><span style="font-weight: 400;">NEW REFLECTIVE DESIGN INCREASES SAFETY - our halters are the first on the market to feature 360° rolled reflective trim to increase visibility from all angles and help protect your horse when around cars, during hunting season, or at crowded events.</span></li>
+<li><span style="font-weight: 400;">MATCHING SET INCLUDES A HALTER AND LEAD ROPE - each one of our unique halters includes a matching lead rope made of thick, plush, ultra-soft braided poly rope. Sizes Cob, Full Horse, and Oversize include a 10' lead and Mini Horse includes a 7' lead.</span></li>
+<li><span style="font-weight: 400;">INCLUDES A ONE YEAR WARRANTY - Derby Originals' premium halter and lead sets come with a one year warranty that protects against quality or manufacturing defects. Visit derbyoriginals.com to learn more and register your product warranty now.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable halter</s:tag>
+    <s:tag>adjustable nose halter</s:tag>
+    <s:tag>all black</s:tag>
+    <s:tag>all black adjustable halter</s:tag>
+    <s:tag>all black halter</s:tag>
+    <s:tag>all pink halter</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>black hardware</s:tag>
+    <s:tag>black metal</s:tag>
+    <s:tag>black metal halter</s:tag>
+    <s:tag>blackout halter</s:tag>
+    <s:tag>blackout stable halter</s:tag>
+    <s:tag>burnt red</s:tag>
+    <s:tag>burnt red halter</s:tag>
+    <s:tag>Cactus Green</s:tag>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coral pink</s:tag>
+    <s:tag>coral pink halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>derby black halter</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>derby originals blackout</s:tag>
+    <s:tag>derby originals blackout halter</s:tag>
+    <s:tag>FallSeason</s:tag>
+    <s:tag>Full/Average</s:tag>
+    <s:tag>green halter</s:tag>
+    <s:tag>green horse halter</s:tag>
+    <s:tag>halter</s:tag>
+    <s:tag>halter with throat clip</s:tag>
+    <s:tag>halters for horses</s:tag>
+    <s:tag>horse halter</s:tag>
+    <s:tag>Midnight Black</s:tag>
+    <s:tag>Miniature Horse</s:tag>
+    <s:tag>nylon halter</s:tag>
+    <s:tag>Oversized/Warmblood</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>pink horse halter</s:tag>
+    <s:tag>Red Sand</s:tag>
+    <s:tag>red sand halter</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>STABLE</s:tag>
+    <s:tag>stable halter</s:tag>
+    <s:tag>stable supplies</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>turquoise halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Cactus Green / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CGR-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Cactus Green / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CGR-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Cactus Green / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CGR-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Coral / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3013-CRL-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Coral / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CRL-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Coral / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CRL-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Coral / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-CRL-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Midnight Black / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3013-BLK-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Midnight Black / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-BLK-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Midnight Black / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-BLK-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Midnight Black / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-BLK-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Red Sand / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-RSD-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Red Sand / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-RSD-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Red Sand / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-RSD-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Turquoise / Miniature Horse</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>30-3013-TRQ-MIN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Turquoise / Cob/Arabian</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-TRQ-COB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Turquoise / Full/Average</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-TRQ-FUL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3902783291452</id>
+      <title>Turquoise / Oversized/Warmblood</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-3013-TRQ-OSW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486291024</id>
+    <published>2019-12-05T14:59:02-05:00</published>
+    <updated>2019-12-05T14:59:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/11-1135-rd-wh-bl"/>
+    <title>Derby Originals Patriotic American Flag 10’ Cotton Lead Ropes with Rust Proof Brass Snaps</title>
+    <s:type>Lead Ropes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Patriotic-Lead-Rope_11-1135.v2.jpg?v=1571609170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Lead Ropes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patriotic lead rope in red, white, and blue will make you stand out in the ring for sure. Made of 5/8" quality cotton, 10 ft long, with a durable swivel hook.<br>
+<p style="display: inline !important;"> </p>
+<ul>
+<li>STURDY CONSTRUCTION – these lead ropes are made with high-quality braided cotton and brass plated, rust proof, sturdy metal snaps to guarantee your lead rope lasts for years to come.</li>
+<li>PATRIOTIC DESIGN – you can show your American pride in style with these flashy and attractive red, white, and blue braided cotton leads.</li>
+<li>RUST PROOF BRASS SNAPS – our lead ropes feature brass plated, rust proof snaps that are designed to hold up to heavy use for years to come without rusting or breaking.</li>
+<li>SOLID COTTON CONSTRUCTION – these lead ropes are made from soft and sturdy braided cotton, which provides a long lasting, sustainable, renewable, and eco-friendly choice!</li>
+<li>PERFECT FOR TRAINING – whether you’re leading your horse or other animal (dog, goat, sheep, cow, etc.) around, or doing groundwork or training, these ropes are great due to their sturdy and safe construction.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton &amp; Nylon Leads</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>lead</s:tag>
+    <s:tag>lead rope</s:tag>
+    <s:tag>Lead Rope Sale</s:tag>
+    <s:tag>Lead Ropes</s:tag>
+    <s:tag>Patriotic</s:tag>
+    <s:tag>Patriotic Horse Wear</s:tag>
+    <s:tag>Patriotic Tack</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486291024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>11-1135-RD/WH/BL</s:sku>
+      <s:grams>553</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486061328</id>
+    <published>2019-11-25T16:11:04-05:00</published>
+    <updated>2019-11-25T16:11:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/35-7034"/>
+    <title>Weaver Adjustable Nylon Halter with Throat Snap</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Weaver_Nylon_Halter.jpg?v=1571609151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">The same original quality-made nylon halter you know and love. Crafted for the ultimate in comfort, performance, and beauty, this 1" halter features heat-sealed oblong buckle holes, box-stitching at stress points and a rolled throat. Brass plated hardware (except looped-on throat snap is solid brass). Be sure to check out the matching lead rope or change it up and mix and match the halter and lead rope colors. (Lead rope sold separately)</p>
+<ul class="product-features-list">
+<li>Made of quality nylon</li>
+<li>Box-stitching at stress points</li>
+<li>Comfort rolled throat</li>
+<li>Heat-sealed oblong buckle holes</li>
+<li>Brass plated hardware (except looped-on throat snap is solid brass)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Average</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blaze Orange</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Diva Pink</s:tag>
+    <s:tag>Hurricane Blue</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Lavendar</s:tag>
+    <s:tag>Lime Zest</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Hurricane Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-HB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Blaze Orange</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-BO</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Hurricane Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-HB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Blaze Orange</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-BO</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Diva Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-DP</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7036-BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Diva Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-DP</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Large / Diva Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7036-DP</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Large / Blaze Orange</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7036-BO</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Large / Hurricane Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7036-HB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Lime Zest</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-LI</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Large / Lime Zest</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7036-LI</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Coral</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-CL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Mint</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-MT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Lime Zest</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-LI</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Average / Raspberry</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7035-RA</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486061328</id>
+      <title>Small / Lavendar</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35-7034-LV</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485516944</id>
+    <published>2019-11-25T16:07:50-05:00</published>
+    <updated>2019-11-25T16:07:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-pt3071"/>
+    <title>Paris Tack American Elite Series Fancy Stitch Padded Adjustable Halter - USA Leather</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-PT3071.jpg?v=1596830658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Paris Tack’s American Elite collection is composed of only the finest USA Leather halters, with soft, supple, vegetable-tanned leather made by Wickett and Craig of Pennsylvania. These halters are designed to provide the utmost comfort to your horse in the stable or at pasture, while retaining a high-class look and feel that will remain for many years. These halters are ideal for the discerning rider who wants more for their horse than the basic leather halter, and instead desires something elite.</span></p>
+<meta charset="utf-8">
+<p style="display: inline !important;"> </p>
+<p style="display: inline !important;"><span>QUALITY CONSTRUCTION - Paris Tack has been making high-quality leather halters of all types and sizes for 20 years. Our halters come in a variety of styles and leather colors, types, sizes, and with differing features so that you can best find what suits you and your horse!</span></p>
+<p style="display: inline !important;"> </p>
+<p style="display: inline !important;"> </p>
+<p style="display: inline !important;"> </p>
+<p style="display: inline !important;"> </p>
+<p><span>FANCY STITCHING - this halter features eloquent fancy stitching designs on the leather body of the halter, which gives a high-class feel and attractive look to the halter without detracting from your horse’s natural beauty.</span></p>
+<p><span>USA LEATHER - </span><span>these halters are made from only the best-quality leather sourced from Wickett and Craig of Pennsylvania. These halters were hand-crafted with care and have a beauty and suppleness that cannot be matched.</span></p>
+<p><span>SOLID LEATHER BUILD - this leather halter features a solid double-layered leather build, which was designed to provide maximum comfort and fit while maintaining a sleek and classic appearance.</span></p>
+<p><span>BRASS HARDWARE - this leather halter features high-quality rust-proof solid brass hardware, which will look attractive and hold up strong for many years to come.</span></p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Elite</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>LHS</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Warmblood</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485516944</id>
+      <title>Cob / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-PT3071-BK-C</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485516944</id>
+      <title>Cob / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-PT3071-HV-C</s:sku>
+      <s:grams>826</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485516944</id>
+      <title>Full / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-PT3071-BK-F</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485516944</id>
+      <title>Warmblood / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30-PT3071-HV-OS</s:sku>
+      <s:grams>1111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485462608</id>
+    <published>2019-10-25T13:17:22-04:00</published>
+    <updated>2019-10-25T13:17:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-pt1879"/>
+    <title>Paris Tack 5 Way Adjustable English Show Halters - USA Leather</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_5_Way_Adjustable_Horse.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This clever halter is adjustable in 5 different ways... 2 buckles on the crown, 2 buckles on the noseband, and 1 buckle connecting to the nose piece under the chin. Rust-proof solid brass hardware for added style and durability.<br><br>
+<ul class="product-features-list">
+<li>Double layered leather by Wickett &amp; Craig of America</li>
+<li>1" wide leather (weanling and yearling sizes are 3/4" wide)</li>
+<li>Adjustable in 5 different ways</li>
+<li>2 buckles on the crown; 2 buckles on the noseband; 1 buckle connecting to the nose piece under the chin</li>
+<li>Rust-proof solid brass hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Mini &amp; Pony Horse Wear</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Pony</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>Show Halters</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weanling</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Yearling</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Yearling / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-Y</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Weanling / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Pony / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-P</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Cob / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485462608</id>
+      <title>Full Horse / Havana</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-PT1879-HV-F</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492820560</id>
+    <published>2019-07-31T11:05:26-04:00</published>
+    <updated>2019-07-31T11:05:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-1899-mo"/>
+    <title>Tahoe Cross Hair On Nylon Bronc Halters</title>
+    <s:type>Bronc Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter1.png?v=1574529731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Bronc Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful bronc halter made from quality double stitched nylon with a hand tooled floral design on the leather noseband. Leather tooling accented with a crosshair inlay in the center, edged with sunspots, and unique cross conchos on each end.<br>
+<ul class="product-features-list">
+<li>Made from quality double stitched nylon</li>
+<li>Hand tooled floral design on leather noseband</li>
+<li>Noseband accented with crosshair inlay in the center and edged with sunspots</li>
+<li>Unique cross conchos at each end of noseband</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bronc Halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cowhide</s:tag>
+    <s:tag>cross</s:tag>
+    <s:tag>cross hair</s:tag>
+    <s:tag>cross halter</s:tag>
+    <s:tag>hair on leather</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492820560</id>
+      <title>Full</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1899-MO-F</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3839220187196</id>
+    <published>2019-07-30T15:36:19-04:00</published>
+    <updated>2019-07-30T15:36:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/copy-of-derby-originals-premium-slimline-flex-webb-miniature-horse-halters"/>
+    <title>Derby Originals Premium Slimline Leather Miniature Horse Halters</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/India_MiniLeatherHalter.jpg?v=1574537851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Derby Originals Premium Slimline Leather Miniature Horse Halters are designed to provide the perfect fit for both A and B sized miniature horses. These elegant, classic leather halters feature stunning brass hardware and have a slimline construction that is designed to not be bulky or uncomfortable on your horse's face, unlike many other mini halters.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Mini A</s:tag>
+    <s:tag>Mini B</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3839220187196</id>
+      <title>Mini A</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-3016-BRN-MIN-A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3839220187196</id>
+      <title>Mini B</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30-3016-BRN-MIN-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3839219269692</id>
+    <published>2019-07-30T15:32:44-04:00</published>
+    <updated>2019-07-30T15:32:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-premium-slimline-flex-webb-miniature-horse-halters"/>
+    <title>Derby Originals Premium Slimline Flex-Webb Miniature Horse Halters</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/FlexWebbMiniHalter.jpg?v=1574548401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Derby Originals Premium Slimline Flex-Webb Miniature Horse Halters are designed to provide the perfect fit for both A and B sized miniature horses. These elegant, easy-clean Flex-Webb halters feature stunning brass hardware and have a slimline construction that is designed to not be bulky or uncomfortable on your horse's face, unlike many other mini halters.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Mini A</s:tag>
+    <s:tag>Mini B</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3839219269692</id>
+      <title>Mini A</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3015-BLK-MIN-A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3839219269692</id>
+      <title>Mini B</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3015-BLK-MIN-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/3738349764668</id>
+    <published>2019-06-10T15:41:53-04:00</published>
+    <updated>2019-06-10T15:41:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-english-cambridge-triple-stitch-leather-halter"/>
+    <title>Derby Originals Cambridge Triple Stitch Leather Turnout Halter - Multiple Sizes Available</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leather_Track_Horse_Halter_Triple_Stitch_Main_30-3033.png?v=1602607359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">
+<span style="color: #ff0000;"><strong></strong></span><span style="font-weight: 400;">Derby Originals’ English Opulence collection is composed of classic, traditional English leather halter styles of many types: featuring premium additions such as extra padding on pressure points, double, triple, or fancy stitching, supple and adjustable leather bodies, and more. These halters were designed to be functional and attractive in the barn or at pasture, all while retaining a high-class look and providing a comfortable fit for your horse. If opulence is what you desire then look no further than these high-class, traditionally-designed halters.</span>
+</div>
+<p> </p>
+<p><strong>Features</strong></p>
+<p><span style="font-weight: 400;">QUALITY CONSTRUCTION - Derby Originals has been making high-quality leather halters of all kinds for 20 years. Our halters come in a variety of styles and leather colors, types, sizes, and with different features so that you can best find what suits you and your horse!</span></p>
+<p><span style="font-weight: 400;">SOLID LEATHER BUILD - this leather halter features a solid double-layered leather build, which was designed to provide maximum comfort and fit while maintaining a sleek and classic appearance.</span></p>
+<p><span style="font-weight: 400;">TRIPLE STITCHING - this halter features durable triple stitching designs on the leather body of the halter, which gives a high-class feel and attractive look to the halter while providing strength.</span></p>
+<p><span style="font-weight: 400;">TRADITIONAL DESIGN - this halter features traditional English design with a rolled leather throatlatch, breakaway style crown, and solid leather body.</span></p>
+<p><span style="font-weight: 400;">BRASS HARDWARE - this leather halter features high-quality rust-proof solid brass hardware, which will look attractive and hold up strong for many years to come.</span></p>
+<p> </p>
+<p><strong>Sizing</strong></p>
+<p><span style="font-weight: 400;">Cob/Arab (750-1000 lbs)</span></p>
+<ul>
+<li><span style="font-weight: 400;">Crown: 19.5” - 22.5”</span></li>
+<li><span style="font-weight: 400;">Cheekpieces: 7”</span></li>
+<li><span style="font-weight: 400;">Noseband: 13”</span></li>
+</ul>
+<p><span style="font-weight: 400;">Full Horse (900-1250 lbs)</span></p>
+<ul>
+<li><span style="font-weight: 400;">Crown: 24” - 27”</span></li>
+<li><span style="font-weight: 400;">Cheekpieces: 8”</span></li>
+<li><span style="font-weight: 400;">Noseband: 13.5”</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>English Opulence</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>leather halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>triple stitch</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3738349764668</id>
+      <title>Full Horse</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3033-HV-F</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/3738349764668</id>
+      <title>Cob/Arabian</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3033-HV-C</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492820048</id>
+    <published>2019-04-01T10:04:56-04:00</published>
+    <updated>2019-04-01T10:04:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-1885"/>
+    <title>Tahoe Silverado Series Peace Sign Nylon Bronc Halter</title>
+    <s:type>Bronc Halters</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Halter_BroncPeaceLT_18-1885.v2.v2_01e45eaf-bbcd-4c4a-aa9d-c0e670b52081.jpg?v=1596830396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Bronc Halters<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Peace be with you! This handsome Silverado bronc halter is made from quality double stitched nylon with a hand tooled floral design on leather noseband. The noseband is accented with a hand tool peace sign inlay with sunspots in the center, edged with white stitching. Antique parachute conchos on each end add a very nice touch.<br>
+<ul class="product-features-list">
+<li>Hand tooled design on leather noseband</li>
+<li>Noseband accented with tooled and sunspot peace sign inlay in the center and edged with sunspots</li>
+<li>Antique parachute conchos on noseband ends</li>
+<li>Made with quality double stitched nylon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>Bronc Halter</s:tag>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>LHS</s:tag>
+    <s:tag>London Tan</s:tag>
+    <s:tag>Mahogany</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492820048</id>
+      <title>Cob / London Tan</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1885-LT-C</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492820048</id>
+      <title>Cob / Mahogany</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1885-MH-C</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492820048</id>
+      <title>Full / Mahogany</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18-1885-MH-F</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485964112</id>
+    <published>2018-08-01T16:25:38-04:00</published>
+    <updated>2018-08-01T16:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/18-1871-s"/>
+    <title>Tahoe Gold Cross Concho Show Halter Made From USA Leather</title>
+    <s:type>Show Halters</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe_Gold-Cross-Show-Halter_18-1871-S.v3.v3.jpg?v=1571609147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Show Halters<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Superbly designed gold cross conchos set this halter apart from the others. The stunning design also features stainless steel hardware and an adjustable noseband and throat strap.<br> <br> Full/Average: Crown 24" Cheek 8" Nose band 28-29"<br>
+<ul class="product-features-list">
+<li>Made from quality USA leather</li>
+<li>Superbly designed gold cross conchos</li>
+<li>Double buckle crown</li>
+<li>Two way adjustable noseband with adjustable throat strap</li>
+<li>Stainless steel hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mini &amp; Pony Leather Halters</s:tag>
+    <s:tag>Mini &amp; Pony Western Riding</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>Show Halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Show Halters</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485964112</id>
+      <title>Draft - Dark Oil Brown</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>18-1871-DO-D</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486290704</id>
+    <published>2018-07-25T09:58:04-04:00</published>
+    <updated>2018-07-25T09:58:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-pt3200"/>
+    <title>Paris Tack Double Layered Leather Grow With Me Adjustable Horse Foal Halter</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/PT_Grow-with-me_Halter_both.v2.jpg?v=1596830712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="display: inline !important;"><span>Paris Tack’s Double Layered Leather Grow With Me Adjustable Horse Foal Halter features a figure-8 design and two sizes of crown pieces that allow for you to adjust the opening sizes for the nose and neck, making sure your halter fits perfectly as your foal grows. Our halters are safe and designed to be comfortable for foals to wear thanks to their soft leather construction that won’t rub or irritate.</span></p>
+<br>
+<ul class="product-features-list">
+<li>DESIGNED WITH YOUR FOAL’S COMFORT IN MIND - this halter features a soft leather construction that is comfortable and safe for long term wear. Paris Tack's grow with me halter is designed to never rub, pinch, or irritate your foal.</li>
+<li><span>SAFETY EASY-CATCH AND BREAKAWAY DESIGN - these halters have a leather crown that is designed to break and free your foal in the event their halter becomes caught or tangled. This safety design allows this halter to be used in the pasture or stall.<br></span></li>
+<li>DESIGNED TO FIT GROWING FOALS - these halters have an adjustable figure-8 design that allows you to adjust the fit of this halter. This halter includes two crownpieces that can be changed out as your foal grows for a long-lasting fit.</li>
+<li>INCLUDES TWO CROWN PIECES - Paris Tack's grow with me halter comes with two sizes of crownpiece so that you can adjust the halter to fit most foals from newborn to weanling size.</li>
+<li><span>AVAILABLE IN TWO LEATHER COLORS - our foal halters are available in two attractive leather colors: Black and Havana</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby horse</s:tag>
+    <s:tag>baby horse halter</s:tag>
+    <s:tag>colt</s:tag>
+    <s:tag>colt halter</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>filly halter</s:tag>
+    <s:tag>foal halter</s:tag>
+    <s:tag>foal halter with extra crown</s:tag>
+    <s:tag>foal halter with lead</s:tag>
+    <s:tag>foal turnout halter</s:tag>
+    <s:tag>grow with me</s:tag>
+    <s:tag>grow with me halter</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>leather foal halter</s:tag>
+    <s:tag>newborn halter</s:tag>
+    <s:tag>newborn horse halter</s:tag>
+    <s:tag>newborn turnout halter</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>stable halter</s:tag>
+    <s:tag>Suckling</s:tag>
+    <s:tag>suckling halter</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>turnout halter</s:tag>
+    <s:tag>weanling halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486290704</id>
+      <title>Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30-PT3200-BK</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486290704</id>
+      <title>Havana</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30-PT3200-HV</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485952848</id>
+    <published>2018-07-23T14:03:55-04:00</published>
+    <updated>2018-07-23T14:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-3063"/>
+    <title>Paris Tack American Elite Series Triple Stitch USA Leather Horse Halter</title>
+    <s:type>Leather Halters</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/30-3063BK_Main.jpg?v=1571609146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leather Halters<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Paris Tack’s American Elite collection is composed of only the finest USA Leather halters, with soft, supple, vegetable-tanned leather made by Wickett and Craig of Pennsylvania. These halters are designed to provide the utmost comfort to your horse in the stable or at pasture, while retaining a high-class look and feel that will remain for many years. These halters are ideal for the discerning rider who wants more for their horse than the basic leather halter, and instead desires something elite.</strong></p>
+<p style="display: inline !important;"><span>QUALITY CONSTRUCTION - Paris Tack has been making high-quality leather halters of all types and sizes for 20 years. Our halters come in a variety of styles and leather colors, types, sizes, and with differing features so that you can best find what suits you and your horse!</span></p>
+<p><span>SOLID LEATHER BUILD - this leather halter features a solid double-layered leather build, which was designed to provide maximum comfort and fit while maintaining a sleek and classic appearance.</span></p>
+<p><span>TRIPLE STITCHING - this halter features durable triple stitching designs on the leather body of the halter, which gives a high-class feel and attractive look to the halter while providing strength.</span></p>
+<p><span>USA LEATHER - </span><span>these halters are made from only the best-quality leather sourced from Wickett and Craig of Pennsylvania. These halters were hand-crafted with care and have a beauty and suppleness that cannot be matched.</span></p>
+<p><span>BRASS HARDWARE - this leather halter features high-quality rust-proof solid brass hardware, which will look attractive and hold up strong for many years to come.</span></p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Elite</s:tag>
+    <s:tag>Arab / Cob</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>cob halter</s:tag>
+    <s:tag>Cob/Arabian</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Havana</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>leather halter</s:tag>
+    <s:tag>Leather Halters</s:tag>
+    <s:tag>LHS</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>small horse</s:tag>
+    <s:tag>small horse halter</s:tag>
+    <s:tag>small horse size</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>triple stitch</s:tag>
+    <s:tag>triple stitch halter</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Halter</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485952848</id>
+      <title>Cob/Arabian / Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3063-BK-Cob</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485952848</id>
+      <title>Cob/Arabian / Havana</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30-3063-HV-C</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/688440442940</id>
+    <published>2018-05-24T14:08:01-04:00</published>
+    <updated>2018-05-24T14:08:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/nylon-llama-halter-full"/>
+    <title>Weaver Leather Nylon Llama Halter Full</title>
+    <s:type>Nylon Halters</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/51728-003-0083452_l.jpg?v=1571609220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Nylon Halters<br>
+        <strong>Price: </strong>
+            15.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 3/4" nylon criss-cross halter features nickel plated hardware that's in-line with today's trends. This halter offers a secure fit. Durable nickel plated hardware. Medium/Large size.</span></p>
+<ul>
+<li>Size: Small (Up to 8 months)</li>
+<li>3/4" Nylon</li>
+<li>Nickel Plated Hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Black - L</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>Llama</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/688440442940</id>
+      <title>Full / Black</title>
+      <s:price currency="USD">15.09</s:price>
+      <s:sku>35-7086-BK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

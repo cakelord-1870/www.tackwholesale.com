@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/english-reins-2.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-08-11T15:13:01-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4615802191932</id>
+    <published>2020-08-11T15:13:01-04:00</published>
+    <updated>2020-08-11T15:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/premium-english-raised-web-reins"/>
+    <title>Premium English Raised Web Reins</title>
+    <s:type>English Reins</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Reins_Web_Raised_HV.jpg?v=1597173182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>English Reins<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These premium reins are soft and supple and excellent when grip is needed. Use for training, schooling, and showing purposes.</p>
+<p data-empty="true"><br></p>
+<p>Size: Full (108" from end to end)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>English Reins</s:tag>
+    <s:tag>leather reins</s:tag>
+    <s:tag>Webbed English Reins</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4615802191932</id>
+      <title>Dark Brown</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>50-1815-BR</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486074000</id>
+    <published>2020-01-06T10:16:34-05:00</published>
+    <updated>2020-01-06T10:16:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/50-1805"/>
+    <title>Premium Plain Raised Laced Reins</title>
+    <s:type>English Reins</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/50-1805.jpg?v=1571609165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Reins<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This pair of laced reins features raised leather fronts. Hook ends. 3/4" wide. Manufactured of soft Australian Leather. From the Premium Series by Paris Tack.<br>
+<ul class="product-features-list">
+<li>Size: Full (54")</li>
+<li>Hook stud ends</li>
+<li>5/8" wide supple Australian leather</li>
+<li>Plain raised leather fronts</li>
+</ul>
+<p><span style="color: #e06666;">(These reins do not have fancy stitching)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>English Reins</s:tag>
+    <s:tag>Laced English Reins</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486074000</id>
+      <title>Full - Havana</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>50-1805-BR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486102352</id>
+    <published>2019-03-05T11:59:33-05:00</published>
+    <updated>2019-03-05T11:59:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-op1609"/>
+    <title>Paris Tack Opulent Series English Flat Web Reins</title>
+    <s:type>English Reins</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Reins_Web_Buckle_16-OP1609_Black.v2.jpg?v=1571609166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Reins<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Paris Tack Opulent Series English Flat Web Reins</h1>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Enhance your grip with Paris Tack's Opulent Series English flat web reins. These reins are designed with nylon webbing and high quality, flat USA leather with hand stops along the rein for ultimate gripping power. Perfect for multiple disciplines that require excellent hand to mouth contact such as dressage, eventing, jumpers and trail riding. Features stainless steel buckles and are 3/4" wide. </div>
+<h3>
+<br>Key Features &amp; Item Specifications</h3>
+<ul>
+<li>Classic nylon English flat web reins.</li>
+<li>Perfect for enhancing your grip strength for disciplines such as dressage, eventing, jumpers and trail riding.</li>
+<li>Features stainless steel buckles, high quality USA leather and hand stops along the reins.</li>
+<li>Reins are 3/4" wide</li>
+<li>Sizing: Full (54"), Oversize (60").</li>
+<li>Come in black.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>English Reins</s:tag>
+    <s:tag>Full (54&quot;)</s:tag>
+    <s:tag>Oversize (60&quot;)</s:tag>
+    <s:tag>Webbed English Reins</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486102352</id>
+      <title>Full (54&quot;) / Buckle Ends</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-OP1609BK-F</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486102352</id>
+      <title>Oversize (60&quot;) / Buckle Ends</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-OP1609BK-OS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486102352</id>
+      <title>Full (54&quot;) / Notched End</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>16-OP-1609BK-F</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

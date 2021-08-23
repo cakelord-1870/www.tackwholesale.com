@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/chaps.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2021-02-23T10:20:05-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492985424</id>
+    <published>2021-02-23T10:20:05-05:00</published>
+    <updated>2021-02-23T10:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1581"/>
+    <title>Tahoe Amara Suede Show Full Chaps with Fringes</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/BrownandBlackBack.v2_b76b7f3c-2c77-47ef-bd43-2a8d7062d84d.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These full chaps are perfect for any western activity. Made from heavy duty Amara suede. Sure to please your inner cowboy or cowgirl. Wear them to the rodeo or just around the farm they suit any occasion.<br> <br> Small - Inseam - 31.5", Thigh - 20", Waist - 30"-36"<br> Medium - Inseam - 32", Thigh - 22" , Waist - 32" - 38"<br>
+<ul class="product-features-list">
+<li>Constructed of soft Amara suede</li>
+<li>Durable zippers up the back of each leg</li>
+<li>Adjustable buckle on the front and a stylish concho on the back</li>
+<li>Fancy fringes</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BK-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BR-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BR-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BR-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492985424</id>
+      <title>Brown / X-Large</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>75-1581BR-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9671243024</id>
+    <published>2017-07-10T17:18:13-04:00</published>
+    <updated>2017-07-10T17:18:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-suede-leather-western-full-chaps-with-fringes"/>
+    <title>Tahoe Suede Leather Western Full Chaps with Fringes</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Full-Chaps--Both-75-1582.v2.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These full chaps are perfect for any western activity. Made from heavy duty suede leather. Sure to please your inner cowboy or cowgirl. Wear them to the rodeo or just around the farm.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Fancy fringes</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Durable zippers up the back of each leg</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Adjustable buckle on the front and a stylish concho on the back</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Made using heavy duty suede leather</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BK-XS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BK-Sm</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BK-Md</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BK-XLg</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Brown / X-Small</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BR-XS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BR-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BR-Md</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BR-Lg</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9671243024</id>
+      <title>Brown / X-Large</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>75-1582BR-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492783376</id>
+    <published>2017-06-09T11:37:51-04:00</published>
+    <updated>2017-06-09T11:37:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/7005bwrg"/>
+    <title>Ranger Basket Weave USA Leather Western Belt with 3/4&quot; Buckle</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/new.v3_629eed80-0463-41ac-bdd9-01fbf9776039.jpg?v=1571609188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;"><span style="font-weight: bold;">Ranger Basket Weave USA Leather Western Belt with 3/4" Buckle</span></span><br> <br> Keep your pants around your waist with this stylish leather belt.<br> <br>
+<ul>
+<li>Made from 100% USA Wickett and Craig Leather</li>
+<li>Hand tooled with a stylish basket weave design</li>
+<li>Comes with 3/4" Buckle</li>
+<li>Buckle can be removed and replaced with easy snap removal</li>
+<li>Belt is leather padded for comfort</li>
+<li>The width of the belt is 1-1/2".</li>
+</ul>
+<br> Size: 30", 32", 34", 36",38", or 42"<br> Color: Russet<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>30&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>32&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>34&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>36&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>38&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492783376</id>
+      <title>42&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7005BWRG-42</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486224784</id>
+    <published>2017-06-08T15:28:17-04:00</published>
+    <updated>2017-06-08T15:28:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/7002bwtp"/>
+    <title>Tapered USA Leather Basket Tooled Western Belt with 1&quot; Buckle</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Belts_Tapered_Basket22.v2.jpg?v=1571609168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your pants around your waist with this stylish leather belt. Made from 100% USA leather with a stylish hand tooled basket weave design. Features attractive silver buckle that can be removed. Center of belt is 1 1/2" wide and tapers to a 1" width on the ends.<br><ul class="product-features-list">
+<li>Made from 100% USA Wickett and Craig leather</li>
+<li>Hand tooled with a stylish basket weave design</li>
+<li>Comes with 1" Buckle that can be removed/replaced with easy snap</li>
+<li>Leather padded for comfort</li>
+<li>1-1/2" wide with tapered ends of 1" width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>30</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>32</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>34</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>36</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>38</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486224784</id>
+      <title>40</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>7002BWTP-40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486221136</id>
+    <published>2017-06-08T15:28:01-04:00</published>
+    <updated>2017-06-08T15:28:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/7002actp"/>
+    <title>Tapered USA Leather Acorn Tooled Western Belt with 1&quot; Buckle</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Logos.v2.jpg?v=1571609168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your pants around your waist with this stylish leather belt. Made from 100% USA leather with a stylish hand tooled basket weave design. Features attractive silver buckle that can be removed. Center of belt is 1 1/2" wide and tapers to a 1" width on the ends.<br><ul class="product-features-list">
+<li>Made from 100% USA Wickett and Craig leather</li>
+<li>Hand tooled with a stylish basket weave design</li>
+<li>Comes with 2" Buckle that can be removed/replaced with easy snap</li>
+<li>Leather padded for comfort</li>
+<li>1-1/2" wide with tapered ends of 1" wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>30</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>32</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>34</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>36</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>38</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486221136</id>
+      <title>40</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7002ACTP-40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486218448</id>
+    <published>2017-06-08T15:27:40-04:00</published>
+    <updated>2017-06-08T15:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/7001bwst"/>
+    <title>USA Leather Basket Tooled Western Belt with Buckle</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/baskett.v2.jpg?v=1571609168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your pants around your waist with this stylish leather belt. Made from 100% USA Wickett and Craig leather, hand tooled with a stylish basket weave design.<br><ul class="product-features-list">
+<li>Made from 100% USA Wickett and Craig leather</li>
+<li>Hand tooled with a stylish basket weave design</li>
+<li>Buckle can be removed and replaced with easy snap removal</li>
+<li>Belt is leather padded for comfort</li>
+<li>The width of the belt is 1-1/2"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>30</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>32</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>34</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>36</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>38</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486218448</id>
+      <title>40</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>7001BWST-40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486214416</id>
+    <published>2017-06-08T15:27:24-04:00</published>
+    <updated>2017-06-08T15:27:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/7001acst-acorn-tooled-western-belt"/>
+    <title>USA Leather Acorn Tooled Western Belt with Buckle</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/AcornBeltwidepsd651.v2.jpg?v=1571609168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your pants on with this stylish leather belt. Made from 100% USA Wickett and Craig leather, hand tooled with a stylish Acorn design.<br><ul class="product-features-list">
+<li>Made from 100% USA Wickett and Craig leather</li>
+<li>Hand tooled with a stylish Acorn design</li>
+<li>Buckle can be removed and replaced with easy snap removal</li>
+<li>Belt is leather padded for comfort</li>
+<li>Belt is 1-1/2" wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>30&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>32&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>34&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>36&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>38&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486214416</id>
+      <title>40&quot;</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>7001ACST-40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486189072</id>
+    <published>2017-06-08T15:25:00-04:00</published>
+    <updated>2017-06-08T15:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/75-1588"/>
+    <title>Tahoe Smooth USA Leather Western Show Chaps</title>
+    <s:type>Chaps</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Chaps_Smooth_Leather_BLK_Front.jpg?v=1571609167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Chaps<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Show off at your next event with these stunning show chaps. Quality smooth leather - these are the best of the best! Adjustable front buckle with wrap around fringes.<br>
+<ul class="product-features-list">
+<li>Quality Smooth Leather Equitation Show Chaps. These are the best of the best!</li>
+<li>Adjustable front buckle. Wrap around with fringes.</li>
+<li>Show cut with engraved silver buckle</li>
+<li>Conchos shown not included - Add your own for a custom look!</li>
+<li>Heavy duty YKK zipper.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Chaps</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486189072</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>75-1588BK-SM</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486189072</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>75-1588BK-MD</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486189072</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>75-1588BK-LG</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486189072</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>75-1588BK-XL</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

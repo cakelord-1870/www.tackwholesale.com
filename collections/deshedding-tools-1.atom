@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/deshedding-tools-1.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2018-12-17T09:37:05-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485446416</id>
+    <published>2018-12-17T09:37:05-05:00</published>
+    <updated>2018-12-17T09:37:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7025-70-7025"/>
+    <title>Derby Reversible Metal Shedding Curry Comb</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Shedding_Curry_Comb_Reversible_Metal_Main_91-7025.jpg?v=1593456622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Used to help pull out loosened hair while the horse is shedding.<br>
+<ul class="product-features-list">
+<li>Color: Red</li>
+<li>Metal blade with teeth on both edges</li>
+<li>Durable plastic handle</li>
+<li>Also great for scraping mud off your horse's coat!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brushes &amp; Curries</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Curry Combs &amp; Mitts</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Deshedding Tools</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>Shedding Tools</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485446416</id>
+      <title>Red</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>91-7025</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9686897616</id>
+    <published>2017-07-12T12:23:22-04:00</published>
+    <updated>2017-07-12T12:23:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/ultimate-pet-shedding-comb-by-cutenfuzzy"/>
+    <title>Ultimate Pet Shedding Comb by cuteNfuzzy®</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Pet-Shedding-Comb-1009-Main.v2.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This brush is great for removing excess fur from your pet's coat. Excellent for the do-it-yourselfer or the professional!</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>Great for removing loose fur and dander</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Helps remove and prevent matting</li>
+<li>
+<i class="fa fa-check"></i><span> </span>Alternating steel teeth makes loose fur removal easier</li>
+<li>Anti-slip handle for a comfortable grip</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>Deshedding Tools</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>Pet Brushes &amp; Slickers</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686897616</id>
+      <title>Red</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1009-RD</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9686897616</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>99-1009-BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492659472</id>
+    <published>2017-06-09T11:20:25-04:00</published>
+    <updated>2017-06-09T11:20:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7026-70-7026"/>
+    <title>Shedding Blade for Dogs &amp; Horses Steel by Derby Originals</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Shedding_Blade_Steel_Dogs_And_Horses_Main_91-7026.jpg?v=1593457270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This shedding blade by Derby Originals can be used as a loop in one hand or take it apart to use in two hands to cover a wider area.<br>
+<ul class="product-features-list">
+<li>Metal blade with teeth on one edge</li>
+<li>Used to help pull out loosened hair while the horse is shedding</li>
+<li>Steel blade for Dogs or Horses.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Deshedding Tools</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Shedding Tools</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492659472</id>
+      <title>Red</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>91-7026</s:sku>
+      <s:grams>1324</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486207632</id>
+    <published>2017-06-08T15:26:47-04:00</published>
+    <updated>2017-06-08T15:26:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/99-1010"/>
+    <title>Professional Pet Grooming Undercoat 12 Teeth Rake</title>
+    <s:type>Pet Grooming</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Undercoat_Rake_Twelve_Teeth_Pet_Main_99-1010.jpg?v=1593457506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Pet Grooming<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pet grooming undercoat rakes remove dead hair and undercoat quickly and easily while leaving the coat looking smooth and healthy. Great for dogs with medium to thick undercoats.<br>
+<ul class="product-features-list">
+<li>Sharp wave-shaped stainless steel blades of suitable distance apart allow easy removal of tangles and mats, especially applicable for long-haired pets.</li>
+<li>This unique grooming tool is great for thinning, finishing, and de-shedding your pet's coatt</li>
+<li>Will leave the coat silky and smooth</li>
+<li>Easy to clean, easy to use. It does not pull hair!</li>
+<li>De-shed your pets stress free without tearing and cutting</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CM</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Deshedding Tools</s:tag>
+    <s:tag>dog grooming tools</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486207632</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>99-1010</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+</feed>

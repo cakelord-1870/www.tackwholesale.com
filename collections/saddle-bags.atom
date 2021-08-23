@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/saddle-bags.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2021-02-18T12:14:24-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4733527851068</id>
+    <published>2021-02-18T12:14:24-05:00</published>
+    <updated>2021-02-18T12:14:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/weaver-leather-trail-gear-cantle-bag"/>
+    <title>Weaver Leather Trail Gear Cantle Bag</title>
+    <s:type>Saddle Bags</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Trail_Gear_Cantle_Bag.jpg?v=1613490195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Saddle Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Built to withstand the demands of the trail, this premium quality cantle bag is crafted from 600D polyester with a weather-resistant polyurethane coating for dependable performance. Grommets are precisely placed to ensure secure attachment to the saddle. With lots of storage in a compact bag, this design features two front pockets perfect for smaller items, waterproof zippers that keep contents dry and protected and reflective piping for added visibility. The padded main compartment provides added protection to your belongings. Great for keeping lead ropes, rain gear, first aid kit, cameras, cell phones and more close at hand and organized. </span></p>
+<p><span data-mce-fragment="1">Main compartment measures 21" L x 5-3/4" W x 4" H; Front pockets measure 6" L x 2" W x 3-1/2" H.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cantle bag</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4733527851068</id>
+      <title>Brown</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>15-0202-BR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4518223511612</id>
+    <published>2020-05-04T11:02:05-04:00</published>
+    <updated>2020-05-04T11:02:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/synthetic-leather-saddle-bags-set-3-items-for-trail-riding-tahoe"/>
+    <title>Synthetic Leather Saddle Bags Set 3 Items for Trail Riding</title>
+    <s:type>Saddle Bags</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe_SyntheticLeatherSaddleBag_31-1020_Group_derby.jpg?v=1588608140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This heavy duty bag is perfect for storing your gear and snacks on long trail rides and weekend excursions! The unique synthetic leather is not only waterproof but also resists stains and has just enough elasticity to prevent any major tearing.</span><br>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4518223511612</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>11-2110SN-BK</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485466064</id>
+    <published>2017-10-11T17:33:56-04:00</published>
+    <updated>2017-10-11T17:33:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/11-2110"/>
+    <title>Nylon Saddle Bags Set 3 Item for Trail Riding by Tahoe</title>
+    <s:type>Saddle Bags</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/SaddleBagSetNylon_11-2110_All.v2.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Bags<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This quality nylon 3 bag set is perfect for storing your gear and snacks on long trail rides and weekend excursions! Store your beverages, snacks and riding accessories too!<br>
+<ul class="product-features-list">
+<li>Saddle Bag: 24" High (14" Bag height) x 11" Wide x 4 1/2" Deep. Attaches to your saddle with nylon straps.</li>
+<li>Horn Bag: 13" High (8 1/2" Bag height) x 8 1/2" Wide x 3 1/2" Gusset. Has velcro top closure and 2 D-Rings.</li>
+<li>Cantle Bag: 23" Long x 6" Deep x 4 1/2" High. Has zipper closure and 2 D-Rings on side.</li>
+<li>Bags have double buckle closures and spring snaps.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485466064</id>
+      <title>Black</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>11-2110-BK</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485466064</id>
+      <title>Blue</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>11-2110-BL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485466064</id>
+      <title>Brown</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>11-2110-BR</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485466064</id>
+      <title>Green</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>11-2110-HG</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485466064</id>
+      <title>Red</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>11-2110RD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492950032</id>
+    <published>2017-06-09T12:04:22-04:00</published>
+    <updated>2017-06-09T12:04:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-9276"/>
+    <title>Tahoe Multi Pocket Saddle Bag for Trail Riding Waterproof Nylon</title>
+    <s:type>Saddle Bags</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Saddle-Bag-Multipocket-BK-BR-9276_317a1a41-04f4-45a8-9c73-899796950ee7.jpg?v=1571609193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Keep all your supplies handy on those long rides with this Nylon multi-pocket saddle bag.<br> <br>*Plastic water bottles not included. Shown for handy water bottle pocket.</p>
+<ul class="product-features-list">
+<li>Adjustable straps for bedroll and slicker.</li>
+<li>Size: 10-1/2" X 10-1/2" with 2-1/2" gusset</li>
+<li>Constructed of a heavy denier insulated waterproof nylon.</li>
+<li>Multi-pocketed design with a unique flap over pocket to keep your cell phone for easy access.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>SADDLE ACCESSORIES</s:tag>
+    <s:tag>SADDLE BAG</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492950032</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>81-9276BK</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492950032</id>
+      <title>Brown</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>81-9276BR</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492724048</id>
+    <published>2017-06-09T11:28:51-04:00</published>
+    <updated>2017-06-09T11:28:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-9277"/>
+    <title>Tahoe Large Multi Pocket Canvas Saddle Bag w Cell Phone Pocket</title>
+    <s:type>Saddle Bags</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe_Large_Multi_Pocket_Canvas_Saddle_Saddle_Bag-Closed_81-9277.jpg?v=1596555942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<p>Made from heavy-duty canvas with 6 pockets this saddle bag is great for long trail rides. Cell phone pocket feature designed in the USA. No more missed calls!</p>
+<ul class="product-features-list">
+<li>Handy quick-release Velcro pocket on both sides! Great for cell phones, snack bars, and other items you wouldn't want to dig for while riding</li>
+<li>Features 6 extra deep pockets for additional storage.</li>
+<li>2 D-rings for sturdy attachment.</li>
+<li>Made of Heavy Duty Canvas to last longer.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492724048</id>
+      <title>Brown</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>81-9277BR</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492724048</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>81-9277BK</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+</feed>

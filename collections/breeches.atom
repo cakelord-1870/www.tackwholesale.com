@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/breeches.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-07-27T13:04:20-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4607323439164</id>
+    <published>2020-07-27T13:04:20-04:00</published>
+    <updated>2020-07-27T13:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/hair-bun-with-sparkling-crystals-closeout"/>
+    <title>Hair Bun with Sparkling Crystals</title>
+    <s:type>Breeches</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Hair_Bun_Black.jpg?v=1595869507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Breeches<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These sparkling scrunchie bun hair covers are sure to draw attention to you. They are adorned with glittering crystals and also feature two hidden mini-comb clips to hold them securely in place so they won't fall off while you're riding.  Available in ten colors. One size fits all.</span><br><br>
+<ul class="product-features-list">
+<li>Adorned with glittering crystals</li>
+<li>Two hidden mini-comb clips to hold securely in place</li>
+<li>Available in ten colors</li>
+<li>One size fits all</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4607323439164</id>
+      <title>Baby Blue</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-3220BB</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4607323439164</id>
+      <title>Lavender</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-3220LV</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485384848</id>
+    <published>2017-06-08T12:46:09-04:00</published>
+    <updated>2017-06-08T12:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/31-1443"/>
+    <title>Pair of English Leather Garter Straps for Jodphurs Bargain Bin</title>
+    <s:type>Breeches</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Garter_Strap_L.jpg?v=1571609124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Breeches<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These garter straps are handy during show season. Keep a pair on hand just in case.</p>
+<p>These garter straps are on closeout and are not eligible for returns.<br> <br>Size: Small - 22" to 27"<br>Medium - 23" to 27.5" <br>Large - 25" to 29.5"</p>
+<ul class="product-features-list">
+<li>Worn below the knees to prevent Jodhpurs from riding up</li>
+<li>A must for every short stirrup rider!</li>
+<li>Genuine leather</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Not Eligible for Free Shipping</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Black - Large</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BK-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Black - Medium</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BK-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Black - Small</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BK-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Brown - Small</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BR-SM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Brown - Medium</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BR-MD</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485384848</id>
+      <title>Brown - Large</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>31-1443BR-LG</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

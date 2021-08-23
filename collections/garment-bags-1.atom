@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/garment-bags-1.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2017-06-09T12:11:04-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492986640</id>
+    <published>2017-06-09T12:11:04-04:00</published>
+    <updated>2017-06-09T12:11:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-pt3020"/>
+    <title>Front Open Garment Bag With Lining by Paris Tack</title>
+    <s:type>Carry Bags and Covers</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/PT-Garment-Carry-Bag-Black.v2_5c1ddcb7-bf53-4f50-a56f-368a7f82a984.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Carry Bags and Covers<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Garment Carry Bag designed in the USA with a front open design for easy handling.  Durable and attractive bag perfect for shows and travel.<br><ul class="product-features-list">
+<li>Designed in the USA - Front open design for easy handling</li>
+<li>Durable waterproof nylon shell with double zippers and soft lined nylon for additional protection</li>
+<li>Reinforced top for additional support and to prevent sagging</li>
+<li>Handle on top and bottom for easier transportation and storing</li>
+<li>2 Front zipping pockets for storing accessories  such as ties, shoes, hair bows, etc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492986640</id>
+      <title>Black</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>81-PT3020BK</s:sku>
+      <s:grams>2431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492900240</id>
+    <published>2017-06-09T11:56:31-04:00</published>
+    <updated>2017-06-09T11:56:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/durango-garment-bag-81-7113bk"/>
+    <title>Tahoe Durango Premium Western Garment Carry and Storage Bag</title>
+    <s:type>Saddle Carry Bags &amp; Sets</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Garment-Bag-Durango_605a5e67-4bd7-40ca-959f-ba6d4bb9d30d.jpg?v=1596566382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Carry Bags &amp; Sets<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Our Durango series features top of the line carry bags complete with a three-layered waterproof nylon design with foam padding and a soft no-rub interior, and hand-tooled basket weave leather accents with sunrise spots.</span></p>
+<ul>
+<li><span style="font-weight: 400;">PREMIUM DESIGN - our Durango series features a top of the line three-layered waterproof design with foam padding and a soft no-rub interior designed to keep your clothing looking perfect.</span></li>
+<li><span style="font-weight: 400;">GENUINE LEATHER ACCENTS - this carry bag is accented with hand-tooled basket weave leather on the corners of a high-class, classic western look.</span></li>
+<li><span style="font-weight: 400;">PADDED THREE LAYER CONSTRUCTION - our Durango series is made of a 600D waterproof nylon outer shell, filled with foam padding, and then lined with a soft, silky 70T nylon lining.</span></li>
+<li><span style="font-weight: 400;">SUNRISE SPOTS - all the leather accents on this carry bag feature a border of sunrise spots- decorative metal accents that are shaped like little flowers.</span></li>
+<li><span style="font-weight: 400;">EASY TO HANG - this garment bag features a clothes hanger opening at the top so you can easily hang the garment bag, and your clothing, wherever you need to.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492900240</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>81-7113BK</s:sku>
+      <s:grams>1442</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492882256</id>
+    <published>2017-06-09T11:53:28-04:00</published>
+    <updated>2017-06-09T11:53:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-7105"/>
+    <title>Tahoe Tack Waterproof Western Saddle, Boot, Bridle and Garment Carry Bag Set</title>
+    <s:type>Saddle Carry Bags &amp; Sets</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Western-Carry-Bag-Set-4-Piece_81-7105_BLK.v2_55021dbe-de6d-43a3-af89-aa185e6a97ff.jpg?v=1571609192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Saddle Carry Bags &amp; Sets<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Great for protecting and transporting show equipment! This 4 piece set has a bag specially designed for every piece of your equipment and enough extra pockets for all your accessories.<br>
+<ul class="product-features-list">
+<li>600D Waterproof nylon outer shell</li>
+<li>Inner foam padding helps protect against damage</li>
+<li>Smooth 70T nylon inner lining</li>
+<li><span>Waterproof</span></li>
+</ul>
+<br><strong>Included Components:</strong>
+<ul class="list-unstyled product-components-list">
+<li>
+<i class="fa fa-check"></i> Padded Western Saddle case</li>
+<li>
+<i class="fa fa-check"></i> Padded Boot bag</li>
+<li>
+<i class="fa fa-check"></i> Padded Halter/Bridle bag</li>
+<li>
+<i class="fa fa-check"></i> Garment bag with additional pockets for accessories</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Tack Carry Bags</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Boot Bags</s:tag>
+    <s:tag>Western Saddle Carry Bags</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492882256</id>
+      <title>Black</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>81-7105BK</s:sku>
+      <s:grams>5851</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492882256</id>
+      <title>Hunter Green</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>81-7105HG</s:sku>
+      <s:grams>14447</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492882256</id>
+      <title>Purple</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>81-7105PR</s:sku>
+      <s:grams>10310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2351625994300</id>
+    <published>2017-06-09T11:12:10-04:00</published>
+    <updated>2017-06-09T11:12:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/dressage-saddle-carry-bag-set"/>
+    <title>Dressage Saddle, Bridle, Boot and Garment Carry Bag Set of 4</title>
+    <s:type>Saddle Carry Bags &amp; Sets</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/71J7BZLPdvL._SL1500.jpg?v=1571609242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Saddle Carry Bags &amp; Sets<br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Great for protecting and transporting show equipment. This 4 item set has a bag specially designed for every piece of your equipment and enough extra pockets for all your accessories. Rated as our Best Gift Set for Dressage Riders!</div>
+<ul class="product-features-list">
+<li>Durable, premium nylon outer shell</li>
+<li>Inner padding and smooth nylon lining protect your tack while traveling</li>
+<li>Saddle case unzips completely allowing for easy use</li>
+<li>A terrific gift idea or for year end awards!</li>
+</ul>
+<br><strong>Included Components:</strong>
+<ul class="list-unstyled product-components-list">
+<li>
+<i class="fa fa-check"></i> Premium Nylon Garment Bag</li>
+<li>
+<i class="fa fa-check"></i> Premium Nylon, Padded Bridle Bag</li>
+<li>
+<i class="fa fa-check"></i> Premium Nylon, Padded Tall Boot Bag</li>
+<li>
+<i class="fa fa-check"></i> Premium Nylon, Padded Dressage Saddle Carry Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot bag</s:tag>
+    <s:tag>bridle bag</s:tag>
+    <s:tag>CARRY BAGS</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>English Boot Bags</s:tag>
+    <s:tag>english carry bag set</s:tag>
+    <s:tag>English Covers &amp; Bags</s:tag>
+    <s:tag>garment bag</s:tag>
+    <s:tag>SET</s:tag>
+    <s:tag>Tack Carry Bags</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2351625994300</id>
+      <title>Black</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>81-9105BK</s:sku>
+      <s:grams>3275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485397584</id>
+    <published>2017-06-08T12:48:37-04:00</published>
+    <updated>2017-06-08T12:48:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-2512"/>
+    <title>Derby Originals Garment Carry Bags Matches Tack Carry Bags</title>
+    <s:type>English Carry Bags &amp; Covers</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Originals_Garment_Carry_Bags_Matches_Tack_Carry_Bags_Color-Swatches_81-2512.jpg?v=1595533315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Carry Bags &amp; Covers<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">This quality heavy duty, waterproof nylon garment bag is great for protecting and transporting all your favorite show clothing.</p>
+<ul class="product-features-list">
+<li>38" Height x 24.5" Length x 4" Width</li>
+<li>2 Zippered front storage pockets for carrying all your accessories</li>
+<li>Top opening exposes hangers for easy hanging</li>
+<li>Top loop for easy carrying and transporting</li>
+<li>Matches other Derby Originals carry bags</li>
+<li>Popular for Year End Rewards too.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Carry</s:tag>
+    <s:tag>CARRY BAGS</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>TURQOISE</s:tag>
+    <s:tag>Year End Carry Bag</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485397584</id>
+      <title>Black</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>81-2512BK</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485397584</id>
+      <title>Navy</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>81-2512NV</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485397584</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>81-2512TQ</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485397584</id>
+      <title>Forest Green</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>81-2512HG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485397584</id>
+      <title>Purple</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>81-2512PR</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

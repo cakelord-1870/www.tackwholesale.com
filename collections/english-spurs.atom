@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/english-spurs.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-09-29T15:46:16-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4650547183676</id>
+    <published>2020-09-29T15:46:16-04:00</published>
+    <updated>2020-09-29T15:46:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-prince-of-wales-english-spurs-st-steel"/>
+    <title>Derby Originals Prince of Wales English Spurs St. Steel</title>
+    <s:type>English Spurs</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Spur_Straight_German_L_1.jpg?v=1601408777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>English Spurs<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Prince of Wales style spur with a flat end - always a very popular spur!</span><br data-mce-fragment="1"><span data-mce-fragment="1">Also see our English Spur Straps and our Opulent Series Spur Straps with Swarovski Crystals!</span><br data-mce-fragment="1">
+<ul class="product-features-list" data-mce-fragment="1">
+<li data-mce-fragment="1">Stainless Steel</li>
+<li data-mce-fragment="1">3/4" Neck on Adult size</li>
+<li data-mce-fragment="1">5/8" Neck on Kid's size</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPUR</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4650547183676</id>
+      <title>Adult</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>15-1901A</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492785808</id>
+    <published>2019-08-26T14:29:45-04:00</published>
+    <updated>2019-08-26T14:29:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/31-co1443"/>
+    <title>Derby Originals Premium English Leather Spur Straps with One Year Warranty - Available in Three Sizes</title>
+    <s:type>English Spur Straps</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/English_Spur_Strap_Leather_Ladies_Mens.jpg?v=1595436712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Spur Straps<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our premium, soft leather spur straps are made of black bridle leather and feature high-quality shiny stainless steel buckles. These high-class spur straps are ideal for everyone from the trail rider to the serious shower. These spur straps were designed to remain supple and hold up strong for many years to come.</p>
+<p><span style="font-weight: 400;">PREMIUM LEATHER - these spur straps are made from premium black bridle leather that is soft, supple, and flexible and designed to last for many years if properly cared for.</span></p>
+<p><span style="font-weight: 400;">RUSTPROOF STAINLESS STEEL HARDWARE - these spur straps have pure stainless steel buckles that will never rust or corrode.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN THREE SIZES - these spur straps are available in three adjustable sizes: Kids (14.5” long), Ladies (18” long), and Mens (20” long).</span></p>
+<p><span style="font-weight: 400;">NON-BULKY DESIGN - these spur straps are made from a thin, flexible ⅜” wide leather that is designed to comfortably fit any riding boot without adding extra bulk.</span></p>
+<p><span style="font-weight: 400;">A MUST HAVE FOR ANY ENGLISH RIDER - these are perfect for any rider who is looking for a high-quality pair of spur straps that are going to look beautiful for many years to come.</span></p>
+<p>Each of our three sizes of spur strap is 3/8" wide, and is available in the following lengths:</p>
+<ul>
+<li>Kids: 14.5"</li>
+<li>Ladies: 18"</li>
+<li>Mens: 20"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Kids (14.5&quot;)</s:tag>
+    <s:tag>Ladies (18&quot;)</s:tag>
+    <s:tag>Mens (20&quot;)</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492785808</id>
+      <title>Kids (14.5&quot;) / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-P1443BK-K</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492785808</id>
+      <title>Ladies (18&quot;) / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-P1443BK-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492785808</id>
+      <title>Mens (20&quot;) / Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31-P1443BK-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485977680</id>
+    <published>2019-06-11T16:34:44-04:00</published>
+    <updated>2019-06-11T16:34:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/16-op1443"/>
+    <title>Paris Tack English Spur Straps with Genuine Clear Swarovski Crystals</title>
+    <s:type>English Spurs</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/412YuMGpakL._AC.jpg?v=1627658865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Spurs<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our premium, soft leather spur straps are made of black bridle leather and feature high-quality shiny stainless steel buckles. Each spur strap also features a pair of beautiful clear Swarovski crystals. These high-class spur straps are designed to set you apart with their classic and elegant design. Our premium spur straps will remain supple and hold up strong for many years to come.<br data-mce-fragment="1"><br data-mce-fragment="1">MADE WITH REAL SWAROVSKI CRYSTALS - each one of our elegant spur straps has a pair of genuine clear Swarovski crystals on it. These beautiful and shiny crystals add a touch of flair to your spur straps.<br data-mce-fragment="1"><br data-mce-fragment="1">PREMIUM LEATHER - these spur straps are made from premium black bridle leather that is soft, supple, flexible, and designed to last for many years if properly cared for.<br data-mce-fragment="1"><br data-mce-fragment="1">RUSTPROOF STAINLESS STEEL HARDWARE - these spur straps have pure stainless steel buckles that will never rust or corrode.<br data-mce-fragment="1"><br data-mce-fragment="1">ADJUSTABLE DESIGN - our Swarovski crystal-accented spur straps measure 3/8" wide and are adjustable from 13.25-16.5" in size.<br data-mce-fragment="1"><br data-mce-fragment="1">A MUST HAVE FOR ANY ENGLISH RIDER - these are perfect for any rider who is looking for a high-quality pair of spur straps that are going to look beautiful for many years to come.<br>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485977680</id>
+      <title>Clear</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>16-OP1443WH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485977680</id>
+      <title>Purple</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>16-OP1443PU</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485977680</id>
+      <title>Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>16-OP1443PK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485977680</id>
+      <title>Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>16-OP1443BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485441936</id>
+    <published>2017-06-08T12:58:26-04:00</published>
+    <updated>2017-06-08T12:58:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/15-1900"/>
+    <title>Dressage Spurs with Rowel German Design by Derby Originals</title>
+    <s:type>English Spurs</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Spur_Dressage_L.jpg?v=1594738319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>English Spurs<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">German Design by Derby Originals. Made of durable Rust Free Stainless Steel, with solid brass rowels. See also our English Spur Straps and our Opulent Series Spur Straps with Swarovski Crystals!<br><br><ul class="product-features-list">
+<li>10-Point Solid Brass Rowel</li>
+<li>Ideal Dressage Spur</li>
+<li>1.5" Neck Adult Size</li>
+<li>1" Neck Kids Size</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485441936</id>
+      <title>Kid&apos;s</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>15-1900K</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

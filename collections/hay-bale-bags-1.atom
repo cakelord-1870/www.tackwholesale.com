@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/hay-bale-bags-1.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-04-29T15:01:56-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4480101482556</id>
+    <published>2020-04-29T15:01:56-04:00</published>
+    <updated>2020-04-29T15:01:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-nylon-horse-and-livestock-hay-bale-bag-with-mesh-ventilation-windows-and-one-year-warranty"/>
+    <title>Derby Originals 1200D Breathable Hay Bale Bags with Mesh Ventilation Flaps for Storage and Transport</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Resized_Fixed_71-9510V2_Bale_Bag_Image_Main_Image.jpg?v=1618922778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            34.95 - 59.95
+            <a href="https://www.tackwholesale.com/products/derby-originals-nylon-horse-and-livestock-hay-bale-bag-with-mesh-ventilation-windows-and-one-year-warranty">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals 1200D Breathable Hay Bale Bags with Mesh Ventilation Flaps have revolutionized the bale bag market. Traditional bale bags are fully enclosed and can cause the hay to rot and become sour-smelling, which is potentially harmful to your animals. Our revolutionary design features 4 mesh ventilation windows around the bag to combat this problem. These vents are made of a reinforced mesh that is covered in a 1200D nylon flap. This covering still allows fresh air to enter the bag while protecting the hay inside from the rain. This exclusive design also prevents anything from entering your hay bag and spoiling your hay. This, combined with our ultra-tough 1200D nylon shell, reinforced seams, and durable zipper and carry straps results in a bale bag that is built horse tough and designed to last.</span></p>
+<p><br></p>
+<ul>
+<li><span style="font-weight: 400;">IMPROVED VENTILATION FOR OPTIMUM HAY FRESHNESS - our exclusive mesh ventilation window design keeps your hay cleaner, drier, and fresher than traditional bale bags. These bags have 4 total vent flaps: 2 on the front of the bag, and 1 on each side.</span></li>
+<li><span style="font-weight: 400;">ULTRA-DURABLE 1200D DESIGN - unlike other flimsy bale bags, ours is made of premium 1200D nylon fabric with reinforced seams and straps. Our bale bag is 2-3x tougher than your average bag, which is why we back them with a 1-year manufacturer's warranty.</span></li>
+<li><span style="font-weight: 400;">MAKES HAY STORAGE AND TRANSPORT EASY - our mess-free bale bags make hauling hay to events, shows, or around the farm easier than ever! Adding hay into our bags is a breeze with our wraparound zipper, and our attached carry straps make transport easy.</span></li>
+<li><span style="font-weight: 400;">GREAT FOR INDOOR OR OUTDOOR USE - indoors, our self-contained design helps minimize messes. Outdoors, our waterproof fabric keeps your hay dry while our ventilation flaps still allow fresh air to circulate inside the bale bag.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN 2-STRING AND 3-STRING SIZES - these bale bags are available in 2 sizes: Large, measuring 44” L x 16” H x 20” W, and X-Large, measuring 52” L x 20” H x 28” W. Size Large fits 2-string square bales, and X-Large fits 3-string California bales.</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>hay bale bag</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>hay bale cover</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Black / 44&quot; x 20&quot; x 16&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510V2-BLK</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Black / 52&quot; x 28&quot; x 20&quot;</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>71-9511V2-BLK</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Hunter Green / 44&quot; x 20&quot; x 16&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510V2-HGR</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Royal Blue / 44&quot; x 20&quot; x 16&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510V2-RBL</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Royal Blue / 52&quot; x 28&quot; x 20&quot;</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>71-9511V2-RBL</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Red / 44&quot; x 20&quot; x 16&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510V2-RED</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Red / 52&quot; x 28&quot; x 20&quot;</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>71-9511V2-RED</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4480101482556</id>
+      <title>Turquoise / 44&quot; x 20&quot; x 16&quot;</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510V2-TRQ</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/94258102288</id>
+    <published>2019-12-05T13:35:11-05:00</published>
+    <updated>2019-12-05T13:35:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-waterproof-heavy-duty-rolling-hay-bale-bag"/>
+    <title>Derby Originals Waterproof Rolling Hay Bale Bag with One Year Warranty and Easy Carry Handles</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Bale_Bag_Rolling_Wheel_Main_Image_71-7134.png?v=1583867403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of hay and bale bags and hay nets have been individually tailored to meet the needs of horses and other equines (donkeys, mules, etc.), and livestock such as sheep and goats, cattle, alpacas and llamas, and even small mammals such as rabbits and guinea pigs.</span></p>
+<ul>
+<li>TRULY HEAVY DUTY CONSTRUCTION - this bale bag is made of heavy-duty, reinforced, and waterproof nylon for a durable design that will last for years! This bag also includes eight reinforced handles, five sturdy wheels, and a heavy-duty wrap around zipper.</li>
+<li>WATERPROOF - this bale bag is completely waterproof so that you can store your hay without worrying about water damage causing your hay to become rotted or moldy, unlike many other brand’s hay bags.</li>
+<li>HEAVY DUTY WHEELS FOR EASY TRANSPORT - this hay bag comes with five plastic rolling wheels so you can easily transport your hay around the stable or a show, or wherever you need to make hay!</li>
+<li>VENTILATED FOR FRESHNESS - these bale bags have six built-in ventilation holes to allow for fresh air to enter the bag and keep your bale fresh and dry.</li>
+<li>GENEROUS SIZING - these rolling bale bags are sized to comfortably accommodate large two-string bales thanks to their 44” x 18” x 15” design.</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/Y1V_HHx1uuw" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/94258102288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>71-7134-BK-L</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/2355434258492</id>
+    <published>2018-12-21T09:30:00-05:00</published>
+    <updated>2018-12-21T09:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-9511"/>
+    <title>Derby Originals Ventilated 600D Nylon Full Hay Bale Bag with 1 Year Warranty and Carry Straps</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/NewCaliforniaBaleBag.jpg?v=1571609242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">This high-quality hay bale carrier holds one full-size bale of three-string or California size hay. This hay bag is constructed of heavy duty poly/nylon with two ventilation holes on each side of the bag, making eight in total, to promote airflow and keep your hay dry and fresh. The full wrap-around zipper on three sides and durable carry straps with cross-stitch fastening make this bag easy to use and transport.</span></p>
+<p><strong>Product Features</strong></p>
+<ul style="list-style-type: disc;">
+<li>GENEROUSLY SIZED — this bale bag is the largest on the market and measures in at 52" X 28" X 20", which provides plenty of room for most three string bales, even fitting up to a bale and a half!</li>
+<li>HEAVY DUTY CONSTRUCTION — our bale bags are made with a heavy-duty poly and nylon construction, with durable carry straps with cross-stitched fastening, and a three-sided, heavy-duty, full wraparound zipper.</li>
+<li>WELL VENTILATED — these bale bags have a pair of grommets on the ends and 4 in the front (eight total) to let fresh air in and prevent moisture buildup. Unlike with other brand’s bags, your hay won’t mold in this bag.</li>
+<li>MULTIPLE COLORS AVAILABLE — these hay bale bags are available in three attractive colors: Black/Silver, Red/Black, and Royal Blue/Turquoise.</li>
+<li>NOT JUST FOR HORSES — these bale bags are great for storing hay or straw for donkeys/mules, chickens, rabbits, cattle, sheep and goats, alpacas, llamas, and other livestock, or exotic pets like tortoises.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black/Grey</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>hay bale bag</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>hay bale cover</s:tag>
+    <s:tag>Red/Black</s:tag>
+    <s:tag>Royal Blue/Turquoise</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2355434258492</id>
+      <title>Royal Blue/Turquoise</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-9511-RBL</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2355434258492</id>
+      <title>Red/Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-9511-RD</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/2355434258492</id>
+      <title>Black/Grey</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-9511-BK</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/711658471484</id>
+    <published>2018-07-20T14:31:20-04:00</published>
+    <updated>2018-07-20T14:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-xl-go-around-four-sided-slow-feed-hay-bale-bag-patented"/>
+    <title>Derby Originals XL Go Around Slow Feeder Horse Hay Bag with Super Tough Bottom and 1 Year Warranty</title>
+    <s:type>Hay Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/derby_originals_XL_go_around_four_sided_slow_feed_hay_bag_black_amazon_71-7132.jpg?v=1584044918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Hay Bags<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <iframe src="https://www.youtube.com/embed/APSxTaP2kd8" width="560" height="315" allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0"></iframe></p>
+<p><span style="font-weight: 400;">Derby Originals is the original inventor of the 4-sided hay bag, U.S. Patent No. D742,078. Our four-sided hay bags are the only bags on the market that allow your horse to freely eat from any part of the hay bag. These patented hay bags are the result of years of careful study and testing to create a design that is attractive, functional, durable, high-quality, and preferred by horses. Our bags are constructed of reinforced nylon webbing that is stronger and more durable than any mesh or fabric hay bag. These bags are designed with cross stitches at every intersection and bartack stitching at all stress points along the top, sides, and bottom of the bag. This hay bag also features our exclusive Super Tough Bottom®: a grid of reinforced nylon webbing that will never rip like solid or mesh bottoms. Our bags are built tough from premium materials and are designed to last for years to come. This hay bag is designed to be a great everyday feeder for most horses and other animals: it measures 19x19x41" and can hold 1 bale of hay. This hay bag has 1.75” square openings which will prevent hay wastage and slow down their rate of consumption, but still allow for frustration-free feeding. This premium hay bag also includes a 1-year limited manufacturer's warranty offered by Derby Originals.</span></p>
+<ul>
+<li><span style="font-weight: 400;">HOLDS 1 BALE OF HAY - this 19x19x41" hay bag with 1.75" square openings holds approx. 1 bale of Timothy, Orchard, Alfalfa, or any other type of hay. Our hay bags were designed to minimize frustration and can be stuffed in seconds.</span></li>
+<li><span style="font-weight: 400;">EXCLUSIVE PATENTED 4-SIDED CONSTRUCTION - this hay bag features Derby Originals patented nylon web design that allows your horse to eat from any part of the hay bag. This design eliminates the risk of material rips and tears found in other hay bags.</span></li>
+<li><span style="font-weight: 400;">SUPER TOUGH BOTTOM® DESIGN - our exclusive Super Tough Bottom® is made of reinforced overlapping nylon webbing. This design allows for superior strength and durability while keeping your hay fresh and allowing dust and debris to exit the bag.</span></li>
+<li><span style="font-weight: 400;">IMPROVES DIGESTION - horses are designed to spend up to 18 hours a day grazing. Slow feeding allows you to replicate this natural behavior and is recommended by veterinarians to prevent gastric ulcers, colic, and boredom-related behavioral vices.</span></li>
+<li><span style="font-weight: 400;">ONE YEAR WARRANTY - this hay bag has a 1-year limited manufacturer's warranty offered by Derby Originals. This warranty covers manufacturing defects. Accidental damage or wear and tear is not covered. Contact the manufacturer for more information.</span></li>
+</ul>
+<h4><strong></strong></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Stable &amp; Trailer Supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/711658471484</id>
+      <title>Black</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>71-7132BK</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/711658471484</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>71-7132RBL</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/711658471484</id>
+      <title>Red</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>71-7132-RED</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/711658471484</id>
+      <title>Purple</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>71-7132-PUR</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492739536</id>
+    <published>2017-06-23T10:43:30-04:00</published>
+    <updated>2017-06-23T10:43:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-9510"/>
+    <title>Derby Originals Ventilated 600D Nylon Full Hay Bale Bag with 1 Year Warranty and Carry Straps</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Nylon-Hay-Bale-Bag-Cover-71-9510_NW.v2_8403fbec-315e-4ebd-8f93-bff6925233ce.jpg?v=1571609187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"> </p>
+<h1 style="text-align: center;"><span style="color: #00ff00;"></span></h1>
+<h1 style="text-align: center;"><span style="color: #00ff00;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DOnX5_00mKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></h1>
+<h1 style="text-align: center;">
+<span style="color: #00ff00;"></span> Keep your hay fresh and waste less with this easy to load and carry hay bag. Fits most bales.</h1>
+<p style="display: inline !important;"> </p>
+<ul>
+<li>GENEROUSLY SIZED – this bale bag is the largest on the market and measures in at 44" X 20" X 16", which provides plenty of room for most two, even fitting up to a bale and a half!</li>
+<li>HEAVY-DUTY CONSTRUCTION – our bale bags are made with a heavy-duty poly and nylon construction, with durable carry straps with cross-stitched fastening, and a three-sided, heavy-duty, full wraparound zipper.</li>
+<li>WELL VENTILATED – these bale bags have a pair of grommets on one side to let fresh air in and prevent moisture buildup. Unlike with other brand’s bags, your hay won’t mold in this bag.</li>
+<li>MULTIPLE COLORS AVAILABLE – these hay bale bags are available in five attractive colors: Black/Silver, Forest Green/Plum, Red/Black, Royal Blue/Turquoise, and Turquoise/Chocolate.</li>
+<li>NOT JUST FOR HORSES – these bale bags are great for storing hay or straw for donkeys/mules, chickens, rabbits, cattle, sheep and goats, alpacas, llamas, and other livestock, or exotic pets like tortoises. These bags are also great for storing hay for gardens or carrying tack.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bale Bag</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>Black/Gray</s:tag>
+    <s:tag>Blue/Turquoise</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>Forest Green/Plum</s:tag>
+    <s:tag>Hay Bale Bag</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>Hay Cover</s:tag>
+    <s:tag>Red/Black</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Turquoise/Chocolate</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Hay Bags</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492739536</id>
+      <title>Black/Gray</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510-BK</s:sku>
+      <s:grams>2372</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492739536</id>
+      <title>Forest Green/Plum</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510-HG</s:sku>
+      <s:grams>4931</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492739536</id>
+      <title>Blue/Turquoise</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510-RB</s:sku>
+      <s:grams>2458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492739536</id>
+      <title>Red/Black</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510-RD</s:sku>
+      <s:grams>3792</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492739536</id>
+      <title>Turquoise/Chocolate</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>71-9510-TQ</s:sku>
+      <s:grams>7398</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485367760</id>
+    <published>2017-06-08T12:42:48-04:00</published>
+    <updated>2017-06-08T12:42:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7115"/>
+    <title>Derby Originals 600D Nylon Half Hay Bale Bag with Triple Layer Bottom and One Year Warranty</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/71-7115_Group_Main.jpg?v=1598985760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Derby Originals’ line of hay and bale bags and hay nets have been individually tailored to meet the needs of horses and other equines (donkeys, mules, etc.), and livestock such as sheep and goats, cattle, alpacas and llamas, and even small mammals such as rabbits and guinea pigs.</span></p>
+<br>
+<ul>
+<li>STURDY, LONG LASTING CONSTRUCTION - our bale bags are made with a three-layered base, composed of strong nylon material with a ⅜” plastic sheet sandwiched between them for extreme strength and durability.</li>
+<li>HAY SAVING DESIGN - these bale bags are completely enclosed but ventilated so you won’t lose hay while also protecting it from mildew and rot, being destroyed by rodents and other pests, etc.</li>
+<li>VENTILATED - our bale bags have eight air holes across the front and back sides for ventilation and breathability so that your hay stays fresh and dry during storage and transport.</li>
+<li>HOLDS A HALF BALE - these bale bags are generously sized and will accommodate at least half of a two-string hay bale and up to half of a three-string bale thanks to their 22” x 22” x 18” size.</li>
+<li>EASY TO TRANSPORT - these bale bags have a pair of carry straps so that they can be carried around with ease. These bags are lightweight and can be comfortably fit into cars, trucks, or trailers for transportation.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best seller</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>half bale bag</s:tag>
+    <s:tag>hay bale bag</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>hay bale cover</s:tag>
+    <s:tag>Hunter Green</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Hay Bags</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485367760</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-7115BK</s:sku>
+      <s:grams>3697</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485367760</id>
+      <title>Red</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-7115RD</s:sku>
+      <s:grams>3697</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485367760</id>
+      <title>Hunter Green</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>71-7115HG</s:sku>
+      <s:grams>3697</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485362384</id>
+    <published>2017-06-08T12:41:38-04:00</published>
+    <updated>2017-06-08T12:41:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/71-7114"/>
+    <title>Derby Originals 600D Nylon Hay Bale Bag with Triple Layer Bottom and One Year Warranty</title>
+    <s:type>Bale Bags</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/3LayerFullBaleBagGroup.jpg?v=1598985270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Bale Bags<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/XCWej_4l8t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>Keep your hay fresh and dry. Holds a whole bale of hay and makes transporting it easier and less of a mess.</p>
+<ul>
+<li>STURDY, LONG LASTING CONSTRUCTION - our bale bags are made with a three-layered base, composed of strong nylon material with a ⅜” plastic sheet sandwiched between them for extreme strength and durability.</li>
+<li>HAY SAVING DESIGN - these bale bags are completely enclosed but ventilated so you won’t lose hay while also protecting it from mildew and rot, being destroyed by rodents and other pests, etc.</li>
+<li>VENTILATED - our bale bags have 16 air holes across the front and back sides for ventilation and breathability so that your hay stays fresh and dry during storage and transport.</li>
+<li>HOLDS 3-STRING BALES - these bale bags are one of the largest on the market and will comfortably fit California sized and three-string bales with ease thanks to their 44” x 22” x 18” size.</li>
+<li>EASY TO TRANSPORT - these bale bags have side carry straps and a top padded carry strap so that they can be carried by one or two people with ease. These bags can also be comfortably fit into cars, trucks, or trailers for transportation.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bale bag</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Feeding &amp; Watering</s:tag>
+    <s:tag>hay bale bag</s:tag>
+    <s:tag>Hay Bale Bags</s:tag>
+    <s:tag>hay bale cover</s:tag>
+    <s:tag>Hunter Green</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485362384</id>
+      <title>Red</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7114RD</s:sku>
+      <s:grams>5035</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485362384</id>
+      <title>Black</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7114BK</s:sku>
+      <s:grams>5035</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485362384</id>
+      <title>Hunter Green</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>71-7114HG</s:sku>
+      <s:grams>5035</s:grams>
+    </s:variant>
+  </entry>
+</feed>

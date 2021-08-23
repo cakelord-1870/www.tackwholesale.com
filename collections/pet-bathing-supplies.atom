@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/pet-bathing-supplies.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2018-01-30T15:24:02-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/90169311248</id>
+    <published>2018-01-30T15:24:02-05:00</published>
+    <updated>2018-01-30T15:24:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-horse-bathing-curry-comb"/>
+    <title>Derby Originals Horse Bathing Plastic Curry Comb</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Curry_Comb_Horse_Bathing_Plastic_Blue_Swatch_91-7006.jpg?v=1596635435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small brush is essential for any horse grooming set.<br>
+<ul>
+<li>6.5" long</li>
+<li>Made from stiff plastic</li>
+<li>Adjustable handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brushes &amp; Curries</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Curry Combs &amp; Mitts</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/90169311248</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>91-7006-BL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/90169311248</id>
+      <title>Pink</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>91-7006-PK</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485458704</id>
+    <published>2018-01-22T14:03:24-05:00</published>
+    <updated>2018-01-22T14:03:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7024"/>
+    <title>Derby Originals Super Grip Long Sweat Scraper</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Originals_Sweat-Scraper-Long_91-7024.v3.jpg?v=1571609140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make bathing your horse less of a chore with this great sweat scraper!<br>
+<ul class="product-features-list">
+<li>Size: 20"</li>
+<li>Soft ergonomically designed grip with comfort ribs lessens hand fatigue</li>
+<li>Lightweight, yet durable.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458704</id>
+      <title>Pink</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>91-7024PK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458704</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>91-7024BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485458704</id>
+      <title>Tan</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>91-7024CH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10052663952</id>
+    <published>2017-10-23T15:19:32-04:00</published>
+    <updated>2017-10-23T15:19:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-2479"/>
+    <title>Derby Originals Horse Cleaning and Bathing Sponges</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Horse-Sponge-Yellow-White.jpg?v=1571609215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this sponge to bath your horse, clean your tack or any other chore in place of a rag. Conforms to fit your hand and the horse. Use it with any shampoo, conditioner, and cleaner that you like.</p>
+<p><strong>These sponges may have discolored/dyed spots that are yellow or green. This is normal discoloration and will not affect their performance.</strong></p>
+<p>These sponges measure approx. 6 1/4" x 3 1/4" x 1 5/8".</p>
+<ul class="product-features-list">
+<li>The perfect size for bathing and grooming</li>
+<li>Also works great for cleaning tack</li>
+</ul>
+<p><strong>If we do not have your desired sponge color available, we will sub in other available colors of sponge.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blanket Care</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Halter Accessories</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Off White</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Stable Supply Essentials</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10052663952</id>
+      <title>Assorted</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>91-2479WH</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486148944</id>
+    <published>2017-06-08T15:20:46-04:00</published>
+    <updated>2017-06-08T15:20:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7020-91-9140"/>
+    <title>Derby Originals Grooming Mitt and Brush Combo</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Grooming_Mitt_Brush_Combo_Main-BL_91-7020.jpg?v=1596640835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Double sided grooming mitt. One side bumps and other stiff bristles.<br>
+<ul class="product-features-list">
+<li>Soft rubber lessens hand fatigue</li>
+<li>Stiff bristles on one side and small curry like bumps on the other</li>
+<li>Fits either hand</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brushes &amp; Curries</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Curry Combs &amp; Mitts</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Transparent Green</s:tag>
+    <s:tag>Transparent Grey</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486148944</id>
+      <title>Pink</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>91-7020PK</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486148944</id>
+      <title>Red</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>91-7020RD</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486148944</id>
+      <title>Transparent Green</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>91-9140-GR</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486148944</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>91-7020BL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486145552</id>
+    <published>2017-06-08T15:20:28-04:00</published>
+    <updated>2017-06-08T15:20:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7022"/>
+    <title>Derby Originals Contour Sweat Scraper &amp; Curry Combo</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Sweat_Scraper_Contour_3_7022.v2.v2.jpg?v=1571609166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rubber squeeze mounted on easy to grip handle. Unique design. Curry comb on reverse side. Great water shedding ability. 9" long.<br>
+<ul class="product-features-list">
+<li>Contour sweat scraper with curries</li>
+<li>Curry comb on reverse side</li>
+<li>Great water shedding ability</li>
+<li>Lightweight and durable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brushes &amp; Curries</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486145552</id>
+      <title>Tan</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>91-7022CH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486145552</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>91-7022PK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486145552</id>
+      <title>Blue</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>91-7022BL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486005008</id>
+    <published>2017-06-08T14:58:22-04:00</published>
+    <updated>2017-06-08T14:58:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/91-7023"/>
+    <title>Long Plastic Sweat Scraper</title>
+    <s:type>Grooming Tools</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Plastic-Long-Sweat-Scrapers-3-Colors.jpg?v=1571609148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Grooming Tools<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This long plastic sweat scraper is a basic wash stall item.<br>
+<ul class="product-features-list">
+<li>Size: 20" long, 1.5" wide</li>
+<li>Great water shedding ability</li>
+<li>Lightweight yet durable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Horse Bathing Supplies</s:tag>
+    <s:tag>Pet Bathing Supplies</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Year End Grooming</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486005008</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>91-7023PK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486005008</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>91-7023BL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486005008</id>
+      <title>Red</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>91-7023RD</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

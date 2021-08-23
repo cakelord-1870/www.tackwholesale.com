@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/fleece-sheets-blanket-liners.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-08-19T14:14:27-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4622134542396</id>
+    <published>2020-08-19T14:14:27-04:00</published>
+    <updated>2020-08-19T14:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/derby-originals-safety-no-hardware-horse-fleece-cooler-with-belly-wrap-and-neck-cover"/>
+    <title>Derby Originals Safety No Hardware Horse Fleece Cooler with Belly Wrap and Neck Cover</title>
+    <s:type>Coolers</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tack-Placeholder.jpg?v=1597860868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Coolers<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a brand new design for 2020.  This cooler <span>has been designed to provide maximum amounts of both safety and comfort for your horse.</span></p>
+<ul>
+<li><span>It features no hardware for maximum safety.</span></li>
+<li><span>Double layer fleece for extra comfort.</span></li>
+<li><span>Belly wrap system for additional comfort and adjustability.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4622134542396</id>
+      <title>78&quot; / Hunter Green</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>80-1310-HGR-78</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492992592</id>
+    <published>2020-05-27T15:19:43-04:00</published>
+    <updated>2020-05-27T15:19:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-8096"/>
+    <title>Set of 2 Horse Blanket Surcingle Repair for Blankets Hardware Kit</title>
+    <s:type>Blanket Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Hardware_Kit_Replacement_Surcingle_Lot_Of_Two_80-8096.jpg?v=1600375187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Blanket Accessories<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Use this handy kit to repair your broken blanket straps. The surcingle replacement buckle and slider can replace the hardware on any belly surcingle straps. These can be used on any brand such as weatherbeeta, and weight blankets including lightweight and heavyweight. These are a great alternative to buying brand new blankets and turnouts. They are great for leg straps too!<br>
+<ul class="product-features-list">
+<li>QUANTITY- Sold in lot of 2 (3 pieces per lot)</li>
+<li>SIZING- 2" Buckle and Sliders</li>
+<li>USAGES - Great for belly surcingles on blankets</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Stable Sheets &amp; Blankets</s:tag>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>Blanket Care</s:tag>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Mini &amp; Pony Blankets &amp; Sheets</s:tag>
+    <s:tag>Replacement Leg Straps</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492992592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>80-8096-LOT2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492851920</id>
+    <published>2020-03-05T13:30:17-05:00</published>
+    <updated>2020-03-05T13:30:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-8020bk"/>
+    <title>Removable Adjustable Elastic Leg Straps Pair for Horse Blankets &amp; Sheets</title>
+    <s:type>Blanket Accessories</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Originals_Elastic-Leg-Straps_Pair_Main_80-8020.jpg?v=1595274285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Blanket Accessories<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/HlPMfQnZQDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> No need to give away that old broken blanket. These adjustable leg straps are ready to take the place of those old missing or broken ones. These leg straps feature an unique loop design that helps improve safety and reduces injury.<br>
+<ul class="product-features-list">
+<li>Adjustable 1" webbing with snaps on one end</li>
+<li>One size fits all</li>
+<li>Includes two replacement leg straps</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Stable Sheets &amp; Blankets</s:tag>
+    <s:tag>All Turnout Sheets &amp; Blankets</s:tag>
+    <s:tag>Blanket Care</s:tag>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Mini &amp; Pony Blankets &amp; Sheets</s:tag>
+    <s:tag>Replacement Leg Straps</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492851920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>80-8020BK</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492826832</id>
+    <published>2017-06-09T11:44:38-04:00</published>
+    <updated>2017-06-09T11:44:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-4045"/>
+    <title>Zebra Print Horse Fleece Sheet Or Blanket Liner</title>
+    <s:type>Fleece Sheets &amp; Blanket Liners</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby_Zebra-Print-Fleece-Blanket-Liner_80-4045_BothN.v2_074ff2bf-dfe4-43eb-b90f-a168b9478f39.jpg?v=1571609190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Fleece Sheets &amp; Blanket Liners<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Now you can have that zebra you always wanted! Use after a workout, under a winter blanket, or before a show to keep your horse clean.</p>
+<ul class="product-features-list">
+<li>Fleece wicks moisture away and stays as warm as wool without the added bulk</li>
+<li>Features low cross surcingles</li>
+<li>Double front closures for easy on and off</li>
+<li>Use after a workout, under a winter blanket, or before a show to keep your horse clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>81&quot;</s:tag>
+    <s:tag>BLANKET LINER</s:tag>
+    <s:tag>Closeout Horse Blankets</s:tag>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Dropped Horse Blanket</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>JanuarySale</s:tag>
+    <s:tag>no-returns</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>PRINT</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Zebra</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>72&quot; - White Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-WH-72</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>72&quot; - Pink Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-PK-72</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>75&quot; - White Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-WH-75</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>75&quot; - Pink Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-PK-75</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>78&quot; - White Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-WH-78</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>78&quot; - Pink Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-PK-78</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>81&quot; - White Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-WH-81</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492826832</id>
+      <title>81&quot; - Pink Zebra</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80-4045-PK-81</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485765840</id>
+    <published>2017-06-08T14:09:01-04:00</published>
+    <updated>2017-06-08T14:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/horse-fleece-sheet-cooler-80-1300"/>
+    <title>Derby Originals Fleece Cooler for Horses All Season Sheet &amp; Blanket Liner with Crossed Surcingles</title>
+    <s:type>Fleece Sheets &amp; Blanket Liners</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Horse_Blanket_Fleece_Cooler_Hunter_Green_Main_80-1300-Blue.jpg?v=1598031703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Fleece Sheets &amp; Blanket Liners<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span>DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - this fleece sheet was designed to be comfortable to wear long-term and is designed to keep your horse warm in cool weather without overheating.</span></p>
+<p><span>SOFT FLEECE CONSTRUCTION - this fleece blanket is made with a layer of plush and soft polar fleece, which provides warmth and protection against the cold while also wicking away moisture for comfort.</span></p>
+<p><span>GREAT FOR DRYING OFF YOUR HORSE - If your horse is wet after a bath or sweaty after a ride or workout, our coolers are ideal for drying off without overheating thanks to their ultra moisture-wicking polar fleece design.</span></p>
+<p><span>DESIGNED FOR INDOOR USE - our fleece coolers/blanket liners were designed for indoor use but can be used outdoors in mild weather or under a waterproof sheet/blanket as a warming layer in colder or wet weather.</span></p>
+<p><span>AVAILABLE IN MULTIPLE COLORS AND SIZES - these fleece coolers are available in sizes 69”-84” and in the colors Navy Blue and Hunter Green. The model pictured is a 14.3hh Paso Fino named Tessa who wears size 69”.</span></p>
+<p><span data-mce-fragment="1">Derby Originals Fleece Cooler for Horses All Season Sheet &amp; Blanket Liner with Crossed Surcingles is an excellent and affordable option for the horse owner looking for a lightweight, breathable, moisture-wicking, and comfortable sheet that is ideal in all seasons and extremely versatile. These coolers/blanket liners are ideal for many applications such as: using after a bath or hard ride to absorb excess water/sweat and dry your horse off without the risk of overheating, using in cool or fluctuating weather to keep your horse warm without overheating, putting on your horse before a show to keep their coat clean, or using as an underlayer beneath another blanket to provide extra warmth during cold weather.</span></p>
+<p><span data-mce-fragment="1">Dried mud, hair, hay, and other debris should be regularly brushed off your blanket. A stiff dandy brush often works best for this. Keeping your blanket clean helps extend its lifespan, as well as help to keep your horse clean and happy. You can also use a damp, soapy rag to remove mud/debris and then wipe your blanket dry. Fleece blankets should only be hand washed and never machine washed. All removable parts should be removed before washing, all velcro straps velcroed together, and your blanket should only be washed in a detergent made for use with horse blankets, or gentle animal-safe cleaners. When washing, use cool water and hand wash gently. Do not use fabric softener with any of our blankets as it will damage their waterproofing and breathing abilities and prevent the blanket from wicking water and sweat off your horse. All of our blankets should be air-dried or line-dried, never put in a dryer. If your blanket becomes nicked or torn, the blanket should immediately be sewn or patched to prevent further damage from occurring.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>69&quot;</s:tag>
+    <s:tag>72&quot;</s:tag>
+    <s:tag>75&quot;</s:tag>
+    <s:tag>78&quot;</s:tag>
+    <s:tag>81&quot;</s:tag>
+    <s:tag>84&quot;</s:tag>
+    <s:tag>All Stable Sheets &amp; Blankets</s:tag>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Hunter Green</s:tag>
+    <s:tag>Navy Blue</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 69&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-69</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 72&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-72</s:sku>
+      <s:grams>2531</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 75&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-75</s:sku>
+      <s:grams>1742</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 78&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-78</s:sku>
+      <s:grams>1760</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 81&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-81</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Hunter Green / 84&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300GR-84</s:sku>
+      <s:grams>1882</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 69&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-69</s:sku>
+      <s:grams>1941</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 72&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-72</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 75&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-75</s:sku>
+      <s:grams>4663</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 78&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-78</s:sku>
+      <s:grams>1665</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 81&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-81</s:sku>
+      <s:grams>1719</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485765840</id>
+      <title>Navy Blue / 84&quot;</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>80-1300NV-84</s:sku>
+      <s:grams>9807</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485383120</id>
+    <published>2017-06-08T12:45:36-04:00</published>
+    <updated>2017-06-08T12:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/80-4033"/>
+    <title>Derby Originals Fleece Cooler for Horses All Season Sheet &amp; Blanket Liner with Neck Cover</title>
+    <s:type>Coolers</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Horse_Blanket_With_Neck_Cover_Hunter_Green_Main_80-4033-1.jpg?v=1598033163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Coolers<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Derby Originals Fleece Cooler for Horses All Season Sheet &amp; Blanket Liner with Neck Cover is an excellent and affordable option for the horse owner looking for a lightweight, breathable, moisture-wicking, and comfortable sheet that is ideal in all seasons and extremely versatile. These coolers/blanket liners are ideal for many applications such as: using after a bath or hard ride to absorb excess water/sweat and dry your horse off without the risk of overheating, using in cool or fluctuating weather to keep your horse warm without overheating, putting on your horse before a show to keep their coat clean, or using as an underlayer beneath another blanket to provide extra warmth during cold weather.</span></p>
+<p><span>Dried mud, hair, hay, and other debris should be regularly brushed off your blanket. A stiff dandy brush often works best for this. Keeping your blanket clean helps extend its lifespan, as well as help to keep your horse clean and happy. You can also use a damp, soapy rag to remove mud/debris and then wipe your blanket dry. Fleece blankets should only be hand washed and never machine washed. All removable parts should be removed before washing, all velcro straps velcroed together, and your blanket should only be washed in a detergent made for use with horse blankets, or gentle animal-safe cleaners. When washing, use cool water and hand wash gently. Do not use fabric softener with any of our blankets as it will damage their waterproofing and breathing abilities and prevent the blanket from wicking water and sweat off your horse. All of our blankets should be air-dried or line-dried, never put in a dryer. If your blanket becomes nicked or torn, the blanket should immediately be sewn or patched to prevent further damage from occurring.</span></p>
+<p><span>DESIGNED WITH YOUR HORSE’S COMFORT IN MIND - this fleece sheet was designed to be comfortable to wear long-term and is designed to keep your horse warm in cool weather without overheating.</span></p>
+<p><span>SOFT FLEECE CONSTRUCTION - this fleece blanket is made with a layer of plush and soft polar fleece, which provides warmth and protection against the cold while also wicking away moisture for comfort.</span></p>
+<p><span>GREAT FOR DRYING OFF YOUR HORSE - If your horse is wet after a bath or sweaty after a ride or workout, our coolers are ideal for drying off without overheating thanks to their ultra moisture-wicking polar fleece design.</span></p>
+<p><span>DESIGNED FOR INDOOR USE - our fleece coolers/blanket liners were designed for indoor use but can be used outdoors in mild weather or under a waterproof sheet/blanket as a warming layer in colder or wet weather.</span></p>
+<p><span>AVAILABLE IN MULTIPLE COLORS AND SIZES - these coolers are available in sizes Small - X-Large and colors Navy Blue and Hunter Green. The model pictured is a 15.2hh Quarter Horse named Gus who wears size Large.</span></p>
+<p> </p>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Stable Sheets &amp; Blankets</s:tag>
+    <s:tag>Coolers &amp; Blanket Liners</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Full Horse Blankets &amp; Sheets</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Hunter Green / Small</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033HG-S</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Hunter Green / Medium</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033HG-M</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Hunter Green / Large</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033HG-L</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Hunter Green / X-Large</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033HG-XL</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Navy Blue / Small</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033NV-S</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Navy Blue / Medium</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033NV-M</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Navy Blue / Large</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033NV-L</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485383120</id>
+      <title>Navy Blue / X-Large</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>80-4033NV-XL</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/leashes.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-07-08T10:17:25-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4593271898172</id>
+    <published>2020-07-08T10:17:25-04:00</published>
+    <updated>2020-07-08T10:17:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/nylon-2-way-adjustable-dog-couplers-by-cutenfuzzy"/>
+    <title>Nylon 2 Way Adjustable Dog Couplers by cuteNfuzzy®</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Nylon-2-Way-Adjustable_20Dog_20Cupler_97-6406_b01c11a7-c5dd-45a8-962d-ff6628b5c419.jpg?v=1594217928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walk 2 dogs at once with this handy nylon 2-way adjustable dog coupler. Creates two leashes in one. Helps avoid tangling leashes when walking multiple dogs. Adjustable from 12" to 22".</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i>Made with durable fray resistant nylon</li>
+<li>
+<i class="fa fa-check"></i>Creates two leashes in one</li>
+<li>
+<i class="fa fa-check"></i>Helps avoid tangling leashes when with multiple dogs</li>
+<li>
+<i class="fa fa-check"></i>1" width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4593271898172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>97-6406BK</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4523706187836</id>
+    <published>2020-06-24T10:03:02-04:00</published>
+    <updated>2020-06-24T10:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/cutenfuzzy-padded-double-handle-overlay-dog-leash-warranted-snap-1-x-6-fun-designs"/>
+    <title>CuteNfuzzy Padded Double Handle Overlay Dog Leash Warranted Snap 1&quot; X 6&apos; Fun Designs</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/97-7402_Dog-Leash-Fun_Design_9969d0f0-be97-4bd3-85d5-0836a699f240.jpg?v=1588952045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Soft nylon leash is perfect for training your dog to heel. No more wrapping the leash around your hand to shorten it. It's like two leashes in one! The high-quality nylon resists fraying. Hefty swivel hook securely attaches to D-ring on your dog's collar.</p>
+<ul class="product-features-list">
+<li>TWO LEASHES IN ONE â€“ Select from either a standard 4â€™ length or a longer 6â€™ length to suit your dogâ€™s individual need. The second handle works as a traffic leash for that extra control</li>
+<li>WARRANTED SNAP â€“ New snap design is heavy duty and will endure the weight of all dogs. If the snap does become worn, it can easily be removed and replaced by us</li>
+<li>EXTREME COMFORT â€“ The neoprene padded handles will protect your hands from dogs that pull while providing comfort</li>
+<li>4 APPEALING PATTERNS â€“ There is an overlay design to suit the taste of any dog owner</li>
+<li>MATCHING COLLAR â€“ Search for our cuteNfuzzy overlay dog collars to match the leash.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:tag>DOG LEASH</s:tag>
+    <s:tag>LEASH</s:tag>
+    <s:tag>Patriotic</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Zebra</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4523706187836</id>
+      <title>Black Retro Polka Dots</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402DBK-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4523706187836</id>
+      <title>Zebra Design</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402ZBK-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4523706187836</id>
+      <title>Patriotic Stars</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402PAT-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4523706187836</id>
+      <title>Orchid Polka Dots</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402DNY-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485941456</id>
+    <published>2019-08-05T16:10:41-04:00</published>
+    <updated>2019-08-05T16:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-4251"/>
+    <title>Leather Traffic Dog Leash by Weaver Leather Made in USA</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leather_Leashes--2.jpg?v=1571609145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Manufactured by Weaver Leather, this flat leather dog traffic leash allows the owner to have better control over their pet, especially in busier environments when additional safety precautions are needed. There is a loop on the end of the leash for easy use and sturdy swivel snap for quick but secure on/off.<br>
+<ul class="product-features-list">
+<li>Made in the USA with premium quality leather</li>
+<li>Reinforced handle loop</li>
+<li>Study swivel snap closure</li>
+<li>Color: Burgundy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485941456</id>
+      <title>1&quot; x 18&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-4252-18</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485941456</id>
+      <title>3/4&quot; x 24&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-4251-24</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492973584</id>
+    <published>2017-06-09T12:07:47-04:00</published>
+    <updated>2017-06-09T12:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/97-7402-4"/>
+    <title>CuteNfuzzy Padded Double Handle Overlay Dog Leash Warranted Snap 1&quot; X 4&apos; Fun Designs</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/97-7402_Dog-Leash-Fun_Design.jpg?v=1574550467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Soft nylon leash is perfect for training your dog to heel. No more wrapping the leash around your hand to shorten it. It's like two leashes in one! The high-quality nylon resists fraying. Hefty swivel hook securely attaches to D-ring on your dog's collar.</p>
+<ul class="product-features-list">
+<li>TWO LEASHES IN ONE â€“ Select from either a standard 4â€™ length or a longer 6â€™ length to suit your dogâ€™s individual need. The second handle works as a traffic leash for that extra control</li>
+<li>WARRANTED SNAP â€“ New snap design is heavy duty and will endure the weight of all dogs. If the snap does become worn, it can easily be removed and replaced by us</li>
+<li>EXTREME COMFORT â€“ The neoprene padded handles will protect your hands from dogs that pull while providing comfort</li>
+<li>4 APPEALING PATTERNS â€“ There is an overlay design to suit the taste of any dog owner</li>
+<li>MATCHING COLLAR â€“ Search for our cuteNfuzzy overlay dog collars to match the leash.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:tag>DOG LEASH</s:tag>
+    <s:tag>LEASH</s:tag>
+    <s:tag>Patriotic</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>pet supplies</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>Zebra</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492973584</id>
+      <title>Black Retro Polka Dots</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402DBK-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492973584</id>
+      <title>Zebra Design</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402ZBK-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492973584</id>
+      <title>Patriotic Stars</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402PAT-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492973584</id>
+      <title>Orchid Polka Dots</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402DNY-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9819415952</id>
+    <published>2017-06-09T12:07:16-04:00</published>
+    <updated>2017-06-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/padded-double-handle-dog-leash-warranted-replaceable-snap-1-x-4"/>
+    <title>CuteNfuzzy Nylon Padded Double Handle Dog Leash Warranted Replaceable Snap 1&quot; X 4&apos;</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Dog-Leash-DBL-Handle_All-Colors-2014.jpg?v=1574540439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Soft nylon leash is perfect for training your dog to heel. No more wrapping the leash around your hand to shorten it. It's like two leashes in one! The high-quality nylon resists fraying. Hefty swivel hook securely attaches to D-ring on your dog's collar.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>TWO LEASHES IN ONE – Select from either a standard 4’ length or a longer 6’ length to suit your dog’s individual need. The second handle works as a traffic leash for that extra control</li>
+<li>
+<i class="fa fa-check"></i><span> </span>WARRANTED SNAP – New snap design is heavy duty and will endure the weight of all dogs. If the snap does become worn, it can easily be removed and replaced by us</li>
+<li>
+<i class="fa fa-check"></i><span> </span>EXTREME COMFORT – The neoprene padded handles will protect your hands from dogs that pull while providing comfort</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Black</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402BK-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402BL-4</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Pink</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402PK-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Purple</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402PR-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Fern Green</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402GR-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9819415952</id>
+      <title>Orange</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>97-7402OR-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492971152</id>
+    <published>2017-06-09T12:07:16-04:00</published>
+    <updated>2017-06-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/97-7402-6"/>
+    <title>Nylon Padded Double Handle Dog Leash Warranted Replaceable Snap 1&quot; X 6&apos;</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Double_Handle_Dog_Leash_Blue.v2_14c75c1d-f943-4e30-83a8-ac9f8b079ec1.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft nylon leash is perfect for training your dog to heel. No more wrapping the leash around your hand to shorten it. It's like two leashes in one! The high-quality nylon resists fraying. Hefty swivel hook securely attaches to D-ring on your dog's collar.</p>
+<hr>
+<ul class="list-unstyled product-feautres-list">
+<li>
+<i class="fa fa-check"></i><span> </span>TWO LEASHES IN ONE – Select from either a standard 4’ length or a longer 6’ length to suit your dog’s individual need. The second handle works as a traffic leash for that extra control</li>
+<li>
+<i class="fa fa-check"></i><span> </span>WARRANTED SNAP – New snap design is heavy duty and will endure the weight of all dogs. If the snap does become worn, it can easily be removed and replaced by us</li>
+<li>
+<i class="fa fa-check"></i><span> </span>EXTREME COMFORT – The neoprene padded handles will protect your hands from dogs that pull while providing comfort</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>BF50</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402BK-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Fern Green</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402GR-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Orange</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402OR-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402PK-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Purple</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402PR-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492971152</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>97-7402BL-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492959632</id>
+    <published>2017-06-09T12:05:53-04:00</published>
+    <updated>2017-06-09T12:05:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/97-7601"/>
+    <title>CuteNfuzzy Adjustable Loop Slip Dog Leash with Soft Handle 6 Ft</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/IMG_1897_BK_4699ec2b-59d9-4028-91c2-783299039525.jpg?v=1571609194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ideal for daily walks and training, this loop slip dog leash is adjustable and comfortable for both the dog and the owner.<br>
+<ul class="product-features-list">
+<li>Soft padded handle for extra comfort</li>
+<li>Leather reinforced sliding stopper</li>
+<li>1/2" X 6'</li>
+<li>A great leash for veterinary clinics, grooming shops and kennels!</li>
+</ul>
+<p> </p>
+<iframe src="https://www.youtube.com/embed/aOajh9oKx4g?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492959632</id>
+      <title>Red/Black</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>97-7601RD-6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492959632</id>
+      <title>Royal Blue/Black</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>97-7601RBL-6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492959632</id>
+      <title>Hunter Green/Black</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>97-7601HG-6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492959632</id>
+      <title>Black</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>97-7601BK-6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492909328</id>
+    <published>2017-06-09T11:58:18-04:00</published>
+    <updated>2017-06-09T11:58:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-9019-bk-4"/>
+    <title>CuteNfuzzy Rolled Leather Dog Leash with Padded Handle</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>cuteNfuzzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leash_Dog_Rolled.v3_d52e14a0-db39-4d25-9578-5ba8b74176ae.jpg?v=1571609193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cuteNfuzzy<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">QUALITY LEATHER - this leash is made with quality and durable leather. The leather is reinforced at the hook attachment for added strength. </span></p>
+<p><span style="font-weight: 400;">TANGLE FREE - The use of leather in this product keeps the leash more stiffen and harder to get wrapped around your pet’s legs. This allows for an enjoyable walk that is struggle free.</span></p>
+<p><span style="font-weight: 400;">ROLLED LEATHER - this leather is rolled for maximum comfort. The rounded leather cord shape sustains strength remaining dependable for long-term use.</span></p>
+<p><span style="font-weight: 400;">SOFT LEATHER PADDED HANDLE - this handle allows for maximum grip on a comfortable soft leather inside. The handle features padding for a thicker easier grasp that will not fatigue your hand after long walks.</span></p>
+<p><span style="font-weight: 400;">SPRING HOOK - this detail allows for quick clasping on and off with ease.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Show off your pet with this sleek and rolled leather leash made by CuteNfuzzy. The leash is made sturdy and long lasting with its quality design and durable stitching. This product is made with a soft leather padded handle for a reinforced comfortable grip for long walks. The other end of the leash is complete with an easy to handle spring hook allowing it to be quick to clasp on or take off. The use of leather on the leash allows for a tangle-free easy walk without the lead getting wrapped around your pet’s legs. This leash comes in 2 different lengths of 4 ft long and 6 ft long in a attractive black color.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>cuteNfuzzy</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492909328</id>
+      <title>4&apos;</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>98-9019-BK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492909328</id>
+      <title>6&apos;</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>98-9019-BK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492838224</id>
+    <published>2017-06-09T11:47:03-04:00</published>
+    <updated>2017-06-09T11:47:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/97-7401"/>
+    <title>Padded Double Handle Dog Leash w Warranted Snap Design 3/4&quot; x 6&apos;</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Dog-Leash-Double-Handle-5-ColorsM.v3.v2_867189a5-c878-42db-98e4-ab75e858d217.jpg?v=1596741936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Soft nylon leash is perfect for training your dog to heel. No more wrapping the leash around your hand to shorten it. It's like two leashes in one! The high-quality nylon resists fraying. Hefty swivel hook securely attaches to D-ring on your dog's collar.<br>
+<ul class="product-features-list">
+<li>TWO LEASHES IN ONE-  Select from either a standard 4' length or a longer 6' length to suit your dog's individual need. The second handle works as a traffic leash for that extra control</li>
+<li>WARRANTED SNAP- New snap design is heavy duty and will endure the weight of all dogs. If the snap does become worn, it can easily be removed and replaced by us</li>
+<li>EXTREME COMFORT- The neoprene padded handles will protect your hands from dogs that pull while providing comfort</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492838224</id>
+      <title>Purple</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>97-7401PR-D</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492838224</id>
+      <title>Orange</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>97-7401OR-D</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492838224</id>
+      <title>Fern Green</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>97-7401GR-D</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492838224</id>
+      <title>Black</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>97-7401BK-D</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492838224</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>97-7401PK-D</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486276112</id>
+    <published>2017-06-08T15:36:03-04:00</published>
+    <updated>2017-06-08T15:36:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-9220-bk"/>
+    <title>Designer Series Diamond Shaped Studs Dog Leash with Padded Handle - USA Leather</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/DERBY_DOG_DESIGNER_SERIES_LEASH_WITH_PADDED_HANDLE_AND_DIAMOND_SHAPED_STUDS_USA_LEATHER_Strap_98-9220.jpg?v=1598022171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            14.95 - 19.95
+            <a href="https://www.tackwholesale.com/products/98-9220-bk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">METALLIC DIAMONDS - this handsome leash features eye-catching metallic diamonds. This feature wonderfully establishes a fancy look for your four-legged companion.</span></p>
+<p><span style="font-weight: 400;">TANGLE FREE - The use of leather in this product keeps the leash more stiffen and harder to get wrapped around your pet’s legs. This allows for an enjoyable walk that is struggle free.</span></p>
+<p><span style="font-weight: 400;">SPRING HOOK - this detail allows for quick clasping on and off with ease.</span></p>
+<p><span style="font-weight: 400;">SOFT LEATHER PADDED HANDLE - this handle allows for maximum grip on a comfortable soft leather inside. The handle features padding for a thicker easier grasp that will not fatigue your hand after long walks.</span></p>
+<p><span style="font-weight: 400;">USA LEATHER - this dog leash is made with high-grade, supple, USA sourced leather from Wickett &amp; Craig of Pennsylvania. This 3/4" wide leather was designed to remain smooth, crack-free, and supple for many years.</span></p>
+<p><span style="font-weight: 400;">Show off your pet with this attractive designer diamond studded dog leash made by Derby. The leash is made sturdy and long lasting with its quality design and durable stitching. This product is made with a soft leather padded handle for a reinforced comfortable grip for long walks. The other end of the leash is complete with an easy to handle spring hook allowing it to be quick to clasp on or take off. The use of leather on the leash allows for a tangle-free easy walk without the lead getting wrapped around your pet’s legs. This flat leash comes in 2 different lengths of 4 ft long and 6 ft long in an attractive black color accented with diamond stud design.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>6&apos;</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486276112</id>
+      <title>4&apos;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-9220-BK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486276112</id>
+      <title>6&apos;</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>98-9220-BK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486275536</id>
+    <published>2017-06-08T15:35:57-04:00</published>
+    <updated>2017-06-08T15:35:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-9100-bk"/>
+    <title>Designer Padded Dog Leash with Crystals USA Leather</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leash-Crystal-Padded-Black.jpg?v=1571609169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            14.95 - 17.95
+            <a href="https://www.tackwholesale.com/products/98-9100-bk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Take your pet for a stroll with this stunning American leather leash. Available in Black.<br>
+<ul class="product-features-list">
+<li>Made from 100% Super Soft USA Leather from Wickett &amp; Craig of America</li>
+<li>Accented with Crystals as shown</li>
+<li>Super Soft Leather Padding on the Inside of the handler</li>
+<li>Rust-Proof and Nickel-Plated Hardware</li>
+<li>3/4" wide leather</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>6&apos;</s:tag>
+    <s:tag>Closeout Pet Supplies</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486275536</id>
+      <title>6&apos;</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>98-9100-BK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486275536</id>
+      <title>4&apos;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-9014-BK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486270416</id>
+    <published>2017-06-08T15:34:51-04:00</published>
+    <updated>2017-06-08T15:34:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-9027-bk"/>
+    <title>Designer Bully Dog Leash Padded USA Leather Derby Originals</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leash_Dog_Studded.v2.jpg?v=1571609169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made by Derby Originals - Your dog will be walking around in comfort and style with the bully dog collar. A  Metal spots convey all of the toughness with none of the safety worries of a spiked collar. A Soft leather padding on the inside of the collar means your dog will feel as good as he looks.<br>
+<ul class="product-features-list">
+<li>Made from 100% super soft USA leather from Wickett &amp; Craig of America</li>
+<li>Accented with Metal Spots</li>
+<li>Super Soft Leather Padding on the Inside of the handler</li>
+<li>Rust-Proof and Nickel-Plated Hardware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>6&apos;</s:tag>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486270416</id>
+      <title>4&apos;</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>98-9027-BK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486270416</id>
+      <title>6&apos;</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>98-9027-BK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486269840</id>
+    <published>2017-06-08T15:34:39-04:00</published>
+    <updated>2017-06-08T15:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-9011"/>
+    <title>Padded Fancy Stitch Dog Leash USA Leather</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leash_Dog_FS_HV.v2.jpg?v=1571609169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Show off your pooch with this stylish fancy stitch dog leash. Made with soft 100% USA Leather with white fancy stitching and rust-proof nickel plated hardware.<br>
+<ul class="product-features-list">
+<li>Made with soft 100% USA leather</li>
+<li>Soft leather padded handle</li>
+<li>White fancy stitching</li>
+<li>Rust-proof nickel plated hardware.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Derby Originals</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486269840</id>
+      <title>4&apos; - Havana</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-9011-HV-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486269840</id>
+      <title>6&apos; - Havana</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-9011-HV-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485944912</id>
+    <published>2017-06-08T14:46:50-04:00</published>
+    <updated>2017-06-08T14:46:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/98-4248-98-4215"/>
+    <title>Weaver Leather Flat Leather Dog Leash 1&quot; Wide Super Sale</title>
+    <s:type>Leashes</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Leather_Leashes--5.jpg?v=1571609145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Leashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Manufactured by Weaver Leather. A Classic styling and detailed construction define this flat leather dog leash. Sturdy and reliable, you will not find a better leash. There is a loop on one end and a swivel snap on the other. Made in USA.<br>
+<ul class="product-features-list">
+<li>Constructed of premium quality leather</li>
+<li>Study swivel snap closure</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday Sale</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485944912</id>
+      <title>Burgundy -4&apos;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>98-4248-4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

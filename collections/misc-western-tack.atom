@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/misc-western-tack.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-05-12T12:07:53-04:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4530097717308</id>
+    <published>2020-05-12T12:07:53-04:00</published>
+    <updated>2020-05-12T12:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/ezall-spot-remover-32-oz"/>
+    <title>eZall Spot Remover 32 oz.</title>
+    <s:type>Show Supplies</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/EZALL_Spot_Remover.jpg?v=1589299776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Show Supplies<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>All-natural, plant-based horse and livestock spot remover quickly removes odors and a variety of stains including manure, grass and urine while leaving the skin well conditioned.</div>
+<div><br></div>
+<div>Won't irritate your animal's sensitive skin or leave it itchy and flaky. Can be used to remove any kind of stain. Also works great on a number of surfaces. 360° sprayer works at any angle, even upside down. Gets to those hard-to-reach areas, especially the belly. Just spray on, lather and blot until stain is gone. It's that eZ! Fresh pear scent. 100% performance guaranteed.<br>
+</div>
+<div><br></div>
+<div>Save time, money and effort with eZall, the leader in spray-on, rinse-off, bio-based grooming products. They’re tough on dirt, yet gentle on animals and the environment. eZall is effective without any harsh, drying effects of traditional cleansers. These products deliver consistent results even on the toughest grooming jobs. Just spray and rinse – no scrubbing necessary!</div>
+<div><br></div>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4530097717308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>69-4072</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4530024841276</id>
+    <published>2020-05-12T11:16:22-04:00</published>
+    <updated>2020-05-12T11:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/silverado-face-glo-for-horses"/>
+    <title>Silverado Face Glo for Horses</title>
+    <s:type>Show Supplies</s:type>
+    <s:vendor>RJ Matthews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Silverado_Horse-Face_Glo.jpg?v=1589298507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RJ Matthews<br>
+        <strong>Type: </strong>Show Supplies<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Show-enhancing highlighter for face, ears, muzzle, manes and tails. Formulated with aloe and vitamin E to condition skin and sunblockers for UVA and UVB protection. </span></p>
+<p><span>Size: 8 oz.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coat care</s:tag>
+    <s:tag>Show Season</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4530024841276</id>
+      <title>Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>SFGRD</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4530024841276</id>
+      <title>Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>SFGBK</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4521207136316</id>
+    <published>2020-05-06T15:45:49-04:00</published>
+    <updated>2020-05-06T15:45:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/multiple-ropes-carry-bag-back-pack"/>
+    <title>Multiple Ropes Carry Bag Back Pack</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Derby Originals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Derby-Originals_Rope-Carry-Bag-XL-Back-Pack_81-8140_bboth.jpg?v=1588794663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby Originals<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This custom designed rope bag helps you to easily transport 4 to 8 ropes and other equipment. The soft padded shoulder straps and back relieve your back from stress &amp; lends comfort to your shoulders.</span></p>
+<p><span>Size: 18" x 20-1/2" x 8"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4521207136316</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>81-8140-RBL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/697871597628</id>
+    <published>2019-11-25T16:07:38-05:00</published>
+    <updated>2019-11-25T16:07:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/mustang-collapsible-roping-dummy-made-in-usa"/>
+    <title>Mustang Collapsible Roping Dummy Made in USA</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/9355_d97747fb-1c49-4db8-8f19-b36def79afee.jpg?v=1571609221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finally a steer head tough enough to be made in Texas! Get your practice in but watch out for those horns! Steer head can be used by inserting durable metal spikes into a bale of hay or attached to our Large steer stand by Mustang!<br>
+<ul class="product-features-list">
+<li>Head Only, Stand not Included</li>
+<li>Black plastic with 23 inch horn spread</li>
+<li>Includes 2 metal spikes</li>
+<li>Get your practice in anywhere!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>Roping Steers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/697871597628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9355</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492586384</id>
+    <published>2019-03-13T10:45:27-04:00</published>
+    <updated>2019-03-13T10:45:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-pt4125"/>
+    <title>Paris Tack Padded Rope Back Pack</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Paris Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/PT-Rope-Back-Pack-4125_4cd93cca-6e40-41f3-a07c-dddde40c9aea.jpg?v=1571609172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Tack<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This back pack is ideal for carrying your supplies to and from shows. Also makes an excellent book bag or purse. Great tool for rock climbers as well.<br>
+<ul class="product-features-list">
+<li>Easy clean nylon lining</li>
+<li>Padded Inside Reduces Strain on Back</li>
+<li>19.5" (H) x 11.5" (W) x 4.25" (D)</li>
+<li>Made from Durable Canvas</li>
+</ul>
+<br><strong>Included Components:</strong>
+<ul class="list-unstyled product-components-list">
+<li>
+<i class="fa fa-check"></i> 2 Large Multi-functional Interior Pockets &amp; 2 Exterior Pockets for Quick Access</li>
+<li>
+<i class="fa fa-check"></i> Interior Zipper Pocket for Personal Items such as iPad Mini, Cell Phone, or Tablet</li>
+<li>
+<i class="fa fa-check"></i> Easy Open Clip Allows Easier Hanging from Most Locations</li>
+<li>
+<i class="fa fa-check"></i> Adjustable Shoulder Strap and Padded Bag for Extra Comfort</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&amp; Lariats</s:tag>
+    <s:tag>backpack</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Lasso</s:tag>
+    <s:tag>Lassos</s:tag>
+    <s:tag>Paris Tack</s:tag>
+    <s:tag>rope backpack</s:tag>
+    <s:tag>Rope Bag</s:tag>
+    <s:tag>Ropes</s:tag>
+    <s:tag>Tack Carry Bags</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492586384</id>
+      <title>Arctic Blue</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>81-PT4125BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492586384</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>81-PT4125CC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492586384</id>
+      <title>Orange</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>81-PT4125OR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492859728</id>
+    <published>2018-12-12T13:13:27-05:00</published>
+    <updated>2018-12-12T13:13:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/9355"/>
+    <title>Mustang Plastic Steer Heads Made in USA</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/9355_27bb5044-de7e-4df8-a23a-0dfa9281eb0f.jpg?v=1571609190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finally a steer head tough enough to be made in Texas! Get your practice in but watch out for those horns! Steer head can be used by inserting durable metal spikes into a bale of hay or attached to our Large steer stand by Mustang!<br>
+<ul class="product-features-list">
+<li>Black plastic with 23 inch horn spread</li>
+<li>Includes 2 metal spikes</li>
+<li>Get your practice in anywhere!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>Roping Steers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492859728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9355</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/88043388944</id>
+    <published>2018-01-25T13:00:21-05:00</published>
+    <updated>2018-01-25T13:00:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/mustang-nylon-quirts-with-leather-poppers"/>
+    <title>Mustang Nylon Quirts with Leather Poppers</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Mustang_Quirt_S.jpg?v=1595536910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="dpx-product-description_feature_div">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="feature" data-feature-name="productDescription">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature">
+<div id="productDescription" class="a-section a-spacing-small">
+<p>Product Title Braided Nylon Quirt Product Description This Braided Nylon Quirt over a rope core features a wrist loop and leather popper. Features Ten inch leather lash Bright colors with multi color designs to match any style Item Specifications: Size Approximately 29" in length</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="detail-bullets_feature_div">
+<div id="detail-bullets"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&amp; Lariats</s:tag>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Lassos</s:tag>
+    <s:tag>Lime/Black</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>Pink/Purple/Black</s:tag>
+    <s:tag>Ropes</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/88043388944</id>
+      <title>Pink/Purple/Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3106KDW-PK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/88043388944</id>
+      <title>Lime/Black</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3106ND-LM</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/88043388944</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3106V</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/88043388944</id>
+      <title>Turquoise/White</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>3106VT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9493051600</id>
+    <published>2017-06-09T12:19:52-04:00</published>
+    <updated>2017-06-09T12:19:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/40-0946"/>
+    <title>Weaver Leather 72&quot; Leather Latigo Tie Strap</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/5c10e07ca71e4145e9150d7d103b3b96_4b5f2427-f30d-4555-8747-801ab1adac17.jpg?v=1571609197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Weaver Leather latigo strap is made with premium quality leather. Can be cut to fit. An excellent deal on this important<br>
+<ul class="product-features-list">
+<li>For a reliable fit when tightening your horse's cinch</li>
+<li>Top quality leather</li>
+<li>Size: 1-1/4" x 72"</li>
+<li>Color: Burgundy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>latigo</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9493051600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>40-0946</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492867536</id>
+    <published>2017-06-09T11:51:27-04:00</published>
+    <updated>2017-06-09T11:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/9002"/>
+    <title>Mustang Junior Steer Head Stands</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/9003.jpg?v=1571609191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mustang Junior Steer Head Stands (Not included.)<br>
+<ul class="product-features-list">
+<li>27 inches long, 14 inches tall</li>
+<li>Collapsible into four pieces for ease of transport</li>
+<li>Steel</li>
+</ul>
+<meta charset="utf-8">
+<p><span>In order to offer free standard shipping on all orders over </span><b>$99</b><span>, all oversized/heavy items will have a </span><b>$20<span> </span></b><span>oversized item surcharge added to their price. This charge is applied for each oversized item you buy and is </span><b>non-refundable</b><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>OSFEE</s:tag>
+    <s:tag>Roping Steers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492867536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>9002</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492859792</id>
+    <published>2017-06-09T11:50:26-04:00</published>
+    <updated>2017-06-09T11:50:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/9357"/>
+    <title>Mustang Junior Plastic Steer Heads Made in USA</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/9357_ff793534-baf8-489a-bfa1-675448745e97.jpg?v=1571609191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finally a steer head tough enough to be made in Texas! Your little cowpoke will love wrangling this steer head. Every little cowpoke needs a lariat!<br>
+<ul class="product-features-list">
+<li>Black plastic with 11 1/2 inch horn spread</li>
+<li>Includes 2 metal spikes</li>
+<li>Use with an extra hay bale or attach to our Junior Steer Head Stand</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>Roping Steers</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492859792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>9357</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492859600</id>
+    <published>2017-06-09T11:50:24-04:00</published>
+    <updated>2017-06-09T11:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/9003"/>
+    <title>Mustang Large Steer Head Stands</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Mustang Manufacturing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/9003_88fb3e39-fd5e-476a-b812-3be15e25cd64.jpg?v=1571609190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mustang Manufacturing<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get all the practice you need with this stand. Fits large steer heads and is ready for practice.<br>
+<ul class="product-features-list">
+<li>Steel stand for large steer head</li>
+<li>Collapsible into four pieces for easy transporting and storing</li>
+<li>Mustang steer head available too!</li>
+<li>Size: 31" long and 22" tall</li>
+</ul>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3rd Party</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>dummy</s:tag>
+    <s:tag>Mustang Manufacturing</s:tag>
+    <s:tag>OSFEE</s:tag>
+    <s:tag>roping</s:tag>
+    <s:tag>Roping Steers</s:tag>
+    <s:tag>stand</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492859600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>9003</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492677904</id>
+    <published>2017-06-09T11:22:47-04:00</published>
+    <updated>2017-06-09T11:22:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/81-8025"/>
+    <title>Tahoe Tack Multipurpose Round Nylon Roper Carry Bag with Quick Release Handle and One Year Warranty</title>
+    <s:type>Roping</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe_Tack_Multipurpose_Round_Nylond_Ropper_Carry_Bag_Black_Collection_81-8025.jpg?v=1619439817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Roping<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack’s multipurpose nylon round carry bag was designed to be the perfect multi-purpose bag for a wide range of applications. This carry bag measures 19” in diameter and is 5” wide. Whether you’re looking for a bag to hold your roping equipment, or your horse tack such as blankets, halters and lead ropes, boots, or fly masks, or a portable storage bag for garden and vacuum hoses, a kitchen bag to store your pots, pans, or portable burner, or even a camping bag to safely stow away your gear, our bag will work for you!<span> </span></span><br></p>
+<p><span style="font-weight: 400;">MULTIPURPOSE DESIGN - this round nylon carry bag was originally designed to carry lassos/lariats, but is also perfect for storing garden/vacuum hoses, cooking supplies such as burners and stoves, horse tack and blankets, leashes/leads, and more!</span></p>
+<p><span style="font-weight: 400;">MULTIPLE POCKETS FOR EXTRA STORAGE - this multipurpose carry tote bag features a zippered front pocket that allows you to safely store smaller tools and accessories, while the main pocket can be used for larger items.</span></p>
+<p><span style="font-weight: 400;">FEATURES A QUICK-RELEASE HANDLE - this roper bag has a pair of nylon handles for easy carrying, hanging, and transport. This bag features a unique quick-release buckle and adjustable design on one handle.</span></p>
+<p><span style="font-weight: 400;">AVAILABLE IN A WIDE RANGE OF COLORS - this 19" diameter by 5” wide carry bag is available in seven fun colors: Orange, Turquoise, Lime Green, Black, Royal Blue, Red, and Purple.</span></p>
+<p><span style="font-weight: 400;">ONE YEAR LIMITED MANUFACTURER’S WARRANTY - this product comes with a one-year limited warranty that covers quality and manufacturing defects. Register your product at derbyoriginals.com to activate your warranty today.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Size Chart:</span></p>
+<p><span style="font-weight: 400;">Diameter: 19”</span></p>
+<p><span style="font-weight: 400;">Width: 5”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&amp; Lariats</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Lasso</s:tag>
+    <s:tag>Lassos</s:tag>
+    <s:tag>Red White and Blue</s:tag>
+    <s:tag>Rope Bag</s:tag>
+    <s:tag>Ropes</s:tag>
+    <s:tag>Tack Carry Bags</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-BK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-BL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Red</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-RD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Purple</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-PR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-TQ</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Orange</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-OR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492677904</id>
+      <title>Lime</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>81-8025-LG</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9486088144</id>
+    <published>2017-06-08T15:12:22-04:00</published>
+    <updated>2017-06-08T15:12:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/30-0587"/>
+    <title>Weaver Leather Back In Black Noseband</title>
+    <s:type>Tie Downs and More</s:type>
+    <s:vendor>Weaver Leather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/BackinBlack0587jpg.jpg?v=1571609165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weaver Leather<br>
+        <strong>Type: </strong>Tie Downs and More<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 1" noseband features nickel brass spots, faceted black acrylic stones with bleeding heart knots.<br>
+<ul class="product-features-list">
+<li>1/2" alum tanned crown strap</li>
+<li>Stainless steel buckles</li>
+<li>Details include nickel brass spots, faceted black acrylic stones and bleeding heart knots</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>band</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>black leather</s:tag>
+    <s:tag>black leather noseband</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>NOSE</s:tag>
+    <s:tag>noseband</s:tag>
+    <s:tag>SHOW</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>silver spots</s:tag>
+    <s:tag>Tie Downs</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>Weaver Leather</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>work</s:tag>
+    <s:tag>working</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9486088144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>30-0587-BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

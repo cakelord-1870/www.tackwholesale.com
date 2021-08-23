@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tackwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tackwholesale.com/collections/nylon-western-tack.atom"/>
+  <title>Tack Wholesale</title>
+  <updated>2020-11-10T12:58:04-05:00</updated>
+  <author>
+    <name>Tack Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643020243004</id>
+    <published>2020-11-10T12:58:04-05:00</published>
+    <updated>2020-11-10T12:58:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-overlay-printed-nylon-western-noseband"/>
+    <title>Tahoe Tack Patterned Nylon Padded Western Noseband for Horses Available in Six Colors</title>
+    <s:type>Nosebands and Accessories</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Nylon_Western_Noseband_Overlay_Pattern_Blue_Aztec_Swatch_17-1701.png?v=1605196977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Nosebands and Accessories<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack's Patterned Nylon Padded Western Noseband for Horses was designed to offer a more modern, attractive, and high-quality nylon noseband option compared to your basic, plain, nylon nosebands that are flimsy and unattractive. Our nosebands are available in six attractive patterns so that you can find the option that best suits you and your horse. Our line of patterned nosebands is designed to fit most horses weighing between 1,000-1,250 lbs and have a 28” noseband, and 38” - 43” crown. These nosebands are easy to adjust to fit your horse. Be sure to check out Tahoe Tack's matching nylon overlay browband headstalls, slip ear headstalls, halters. bucket straps, and more!</span></p>
+<p data-mce-fragment="1"><br></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED TO FIT MOST HORSES - these nosebands are designed to fit most horses weighing between 1,000-1,250 lbs and have a 28” noseband and 38” - 43” crown.</span></li>
+<li><span style="font-weight: 400;">PREMIUM NYLON CONSTRUCTION - these nylon Western nosebands are made from heavy-duty nylon webbing, which is durable, long-lasting, easy to care for, comfortable for your horse to wear, and resistant to rips or tears.</span></li>
+<li><span style="font-weight: 400;">PADDED NOSEBAND FOR INCREASED COMFORT - our nylon nosebands feature soft neoprene padding on the underside of the noseband to increase your horse’s comfort during use and promote a healthy fur coat.</span></li>
+<li><span style="font-weight: 400;">FEATURES ATTRACTIVE OVERLAY PRINT - our unique nosebands feature modern and stylish printed designs such as Aztec, Chevron, Paisley, and more on the top of the noseband, which lets them stand out compared to regular plain nylon nosebands.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN SIX ATTRACTIVE COLORS - our nosebands are available in Blue Aztec on Black nylon, Red Aztec on Red nylon, Blue Chevron on Hurricane Blue nylon, Paisley on Grey nylon, Geometric on Hurricane Blue nylon, and Grey Floral on Hot Pink nylon.</span></li>
+</ul>
+<p data-mce-fragment="1"><br></p>
+<p><span style="font-weight: 400;">Measurements:</span></p>
+<p><span style="font-weight: 400;">Noseband: 28”</span></p>
+<p><span style="font-weight: 400;">Crown: 38” - 43”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noseband</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Blue Aztec / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-AZC-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Grey Floral / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-GRF-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Paisley / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-PAS-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Blue Chevron / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-BLC-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Geometric / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-GEO-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643020243004</id>
+      <title>Red Aztec / Full/Average</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1701-RAZ-FUL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4643017097276</id>
+    <published>2020-11-09T16:58:50-05:00</published>
+    <updated>2020-11-09T16:58:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-nylon-western-browband-headstall-with-overlay"/>
+    <title>Tahoe Tack Patterned Double Layer Nylon Western Browband Headstalls for Horses Available in 6 Colors</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/1Nylon_Western_Browband-Headstall_Overlay_Pattern_Blue_Aztec_Swatch_17-1700.png?v=1605196960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack's Patterned Double Layer Nylon Western Browband Headstalls for Horses were designed to offer a more modern, attractive, and high-quality nylon headstall option compared to your basic, plain, single-layered nylon headstalls that are flimsy and unattractive. Our headstalls are available in six attractive patterns so that you can find the option that best suits you and your horse. Our line of patterned headstalls is designed to fit most horses weighing between 1,000-1,250 lbs and have a 16” browband, 40”-44” throatlatch, and 39”-47” bit to bit length. These headstalls are easy to adjust on the throatlatch and cheeks, and have nickel-plated Conway buckle ends to make changing bits easier and hassle-free. Be sure to check out Tahoe Tack's matching nylon overlay slip ear headstalls, nosebands, halters. bucket straps, and more!</span></p>
+<p data-mce-fragment="1"><br></p>
+<ul>
+<li><span style="font-weight: 400;">DESIGNED TO FIT MOST HORSES - these headstalls are designed to fit most horses weighing between 1,000-1,250 lbs and have a 16” browband, 40”-44” throatlatch, and 39”-47” bit to bit length.</span></li>
+<li><span style="font-weight: 400;">PREMIUM DOUBLE-LAYERED CONSTRUCTION - these nylon Western headstalls are made from heavy-duty double-layered nylon webbing, which is durable, long-lasting, easy to care for, comfortable for your horse to wear, and resistant to rips or tears.</span></li>
+<li><span style="font-weight: 400;">PADDED BROWBAND FOR INCREASED COMFORT - our nylon browband headstalls feature soft neoprene padding on the underside of the browband to increase your horse’s comfort during use and promote a healthy fur coat.</span></li>
+<li><span style="font-weight: 400;">FEATURES ATTRACTIVE OVERLAY PRINT - our unique headstalls feature modern and stylish printed designs such as Aztec, Chevron, Paisley, and more on the browband and cheeks of the headstall, which lets them stand out compared to regular plain nylon headstalls.</span></li>
+<li><span style="font-weight: 400;">AVAILABLE IN SIX ATTRACTIVE COLORS - our headstalls are available in Blue Aztec on Black nylon, Red Aztec on Red nylon, Blue Chevron on Hurricane Blue nylon, Paisley on Grey nylon, Geometric on Hurricane Blue nylon, and Grey Floral on Hot Pink nylon.</span></li>
+</ul>
+<p data-mce-fragment="1"><br></p>
+<p><span style="font-weight: 400;">Measurements:</span></p>
+<p><span style="font-weight: 400;">Browband: 16”</span></p>
+<p><span style="font-weight: 400;">Bit to Bit: 39” - 47”</span></p>
+<p><span style="font-weight: 400;">Throatlatch: 40” - 44”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nylon Headstall</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Blue Aztec / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-AZC-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Blue Chevron / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-BLC-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Geometric / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-GEO-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Grey Floral / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-GRF-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Paisley / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-PAS-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4643017097276</id>
+      <title>Red Aztec / Full/Average</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1700-RAZ-FUL</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/4671194267708</id>
+    <published>2020-11-03T16:20:33-05:00</published>
+    <updated>2020-11-03T16:20:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-zebra-print-overlay-nylon-western-browband-headstall-with-matching-reins"/>
+    <title>Tahoe Tack Zebra Print Overlay Nylon Western Browband Headstall with Matching Reins</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe-Zebra-Print-Padded-Headstall-RNS.jpg?v=1604438419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Tahoe Tack’s “Pleasure Rider” series is composed of beautiful leather and nylon headstalls that are made with trail riding and other similar equestrian activities in mind. These halters are beautiful and high-quality, with durable, more plain designs that are suited to trail rides and pleasure riding. This series was designed with quality in mind and features classic western designs.</span></p>
+<br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">QUALITY CONSTRUCTION - this headstall was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality leather that is designed to last many years with proper care.</li>
+<li data-mce-fragment="1">HORSE SIZE AVAILABLE - this headstall is available in Full Horse sizing to accommodate most average sized equines.</li>
+<li data-mce-fragment="1">MULTIPLE COLORS AVAILABLE - this headstall is available in two nylon colors: White/Black Zebra Print, and Pink/Black Zebra Print.</li>
+<li data-mce-fragment="1">MATCHING SPLIT REINS - this browband includes a pair of matching split reins that measure 83” long.</li>
+<li data-mce-fragment="1">CHICAGO SCREW STYLE - this headstall features classic Chicago screw style ends, which makes adding or switching bits out as easy as can be.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nylon Headstall</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:tag>zebra print</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/4671194267708</id>
+      <title>Full Horse / White Zebra</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>17-1705BK-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/793281069116</id>
+    <published>2018-10-08T11:40:59-04:00</published>
+    <updated>2018-10-08T11:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-premium-double-ply-nylon-browband-headstall-with-snaps"/>
+    <title>Tahoe Tack Premium Double Ply Nylon Browband Headstall with Snaps</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/13497x.jpg?v=1571609240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #140604; font-family: tahoma; font-size: medium;">Premium nylon brow band headstall with snaps. This headstall is made of soft and durable premium 2 ply nylon material. Easily adjusts on both cheeks with nickle plated buckles and easy change bit snaps. Will adjust aprox 18" to 23" (crown to cheek). </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Lime Green</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-LGR-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Pink</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-PNK-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Teal</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-TEL-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Purple</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-PUR-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Blue</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-BLU-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793281069116</id>
+      <title>Full Horse / Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>17-13497-BLK-F</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/793275170876</id>
+    <published>2018-10-08T11:36:41-04:00</published>
+    <updated>2018-10-08T11:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-pony-nylon-bling-headstall-rein-and-breast-collar-set"/>
+    <title>Pony Nylon Bling Headstall, Rein, and Breast Collar Set</title>
+    <s:type>Tack Sets</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/12846ppink.jpg?v=1571609240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Tack Sets<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-family: tahoma; color: #140604; font-size: medium;">Pony size bling headstall and breast collar set. This headstall and breast collar set features 2 ply nylon with black overlay accented with silver studs and crystal rhinestones. on browband, cheeks and chest plates. Adjustable cheeks with hook and loop ends. Breast collar is lined with soft neoprene. Headstall comes with matching nylon hook and loop split reins. </span><span style="font-family: tahoma; color: #140604; font-size: medium;">Pony Size.</span><span style="font-family: tahoma; color: #140604; font-size: medium;"><br> <br>Headstall adjusts 13" to 16" crown to bit loop. Breast collar measures 13.5" from center ring to top ring and is 1.75" wide. Reins are 5/8" x7'. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Mini &amp; Pony Breast Collars</s:tag>
+    <s:tag>Mini &amp; Pony Headstalls &amp; Reins</s:tag>
+    <s:tag>Nylon Breast Collars</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pony</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>VTINE</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793275170876</id>
+      <title>Pony / Lime Green</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku>17-12846-LGR-P</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793275170876</id>
+      <title>Pony / Pink</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku>17-12846-PNK-P</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793275170876</id>
+      <title>Pony / Purple</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku>17-12846-PUR-P</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/793229000764</id>
+    <published>2018-10-08T10:43:33-04:00</published>
+    <updated>2018-10-08T10:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-tack-nylon-slip-ear-headstall-with-beaded-inlay-cheeks"/>
+    <title>Tahoe Tack Nylon Slip Ear Headstall with Beaded Inlay Cheeks</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tack Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/13623.jpg?v=1571609240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tack Wholesale<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #140604; font-family: tahoma; font-size: medium;">Nylon single ear headstall with beaded inlay cheeks. This nylon headstall features leather cheeks with a beaded inlay and is accented with crystal rhinestone conchos.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Tack Wholesale</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793229000764</id>
+      <title>Full Horse / Pink</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-13623-PNK-F</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793229000764</id>
+      <title>Full Horse / Purple</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-13623-PUR-F</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/793229000764</id>
+      <title>Full Horse / Teal</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-13623-TEL-F</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/10052879888</id>
+    <published>2017-10-23T15:49:27-04:00</published>
+    <updated>2017-10-23T15:49:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/90-9102"/>
+    <title>Tahoe Tack Draft Horse Double Layered Nylon Western Headstall with Matching Reins</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Tahoe-Draft-Headstall-9102-All-Colors_8830fc53-cbdb-48f5-956b-e561638bf602.jpg?v=1596830816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack’s “Pleasure Rider” series is composed of beautiful leather and nylon headstalls that are made with trail riding and other similar equestrian activities in mind. These halters are beautiful and high-quality, with durable, more plain designs that are suited to trail rides and pleasure riding. This series was designed with quality in mind and features classic western designs.</span></p>
+<p style="text-align: left;">Bit to Bit: 42.5" - 51.5"</p>
+Browband: 18"<br>Throat latch: 52" overall length<br>
+<ul>
+<li>QUALITY CONSTRUCTION - this headstall was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality leather that is designed to last many years with proper care.</li>
+<li>DRAFT SIZE - this headstall is available in Draft sizing to accommodate most drafts large or small.</li>
+<li>MULTIPLE COLORS AVAILABLE - this headstall and rein set is available in four nylon colors: Black, Royal Blue, Lime Green, and Red.</li>
+<li>MATCHING SPLIT REINS - this browband headstall includes a pair of matching split reins that measure 85” long.</li>
+<li>GREAT FOR TRAILS - this headstall is ideal for trail riding, training, or riding lessons thanks to its sturdy but soft nylon construction.</li>
+</ul>
+<ul class="product-features-list"></ul>
+<br><strong>Included Components:</strong>
+<ul class="list-unstyled product-components-list">
+<li>
+<i class="fa fa-check"></i> 85" Split reins included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Average</s:tag>
+    <s:tag>average draft</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>browband</s:tag>
+    <s:tag>browband headstall</s:tag>
+    <s:tag>Browband Headstalls</s:tag>
+    <s:tag>Cheap</s:tag>
+    <s:tag>cheap bridle</s:tag>
+    <s:tag>cheap western headstall</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Draft</s:tag>
+    <s:tag>draft horse</s:tag>
+    <s:tag>draft horse headstall</s:tag>
+    <s:tag>draft horse trail headstall</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>large draft</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>NYLON</s:tag>
+    <s:tag>nylon bridle</s:tag>
+    <s:tag>nylon draft</s:tag>
+    <s:tag>nylon draft bridle</s:tag>
+    <s:tag>Nylon Headstall</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:tag>nylon western headstall</s:tag>
+    <s:tag>padded browband</s:tag>
+    <s:tag>padded headstall</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Royal Blue / Light Blue</s:tag>
+    <s:tag>small draft</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>TRAIL</s:tag>
+    <s:tag>western headstall</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10052879888</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>90-9102RB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10052879888</id>
+      <title>Red</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>90-9102RD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10052879888</id>
+      <title>Lime Green</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>90-9102LG</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/10052879888</id>
+      <title>Black</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>90-9102BK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492551312</id>
+    <published>2017-10-23T15:14:02-04:00</published>
+    <updated>2017-10-23T15:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/17-1720br-f"/>
+    <title>Tahoe Tack Basket Weave Leather Overlay Nylon Headstall, Breast Collar, and Reins Set</title>
+    <s:type>Tack Sets</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/61CDKzeJDGL._SL1000.jpg?v=1571609171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Tack Sets<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack has been making beautiful and high-quality western tack sets for over 20 years. Their tack sets feature a mix of high-quality, durable, traditional designs and elegant features that are available in every style, color, or pattern, designed to suit all riders.</span></p>
+<ul>
+<li>QUALITY CONSTRUCTION - this tack set was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality leather that is designed to last many years with proper care.</li>
+<li>USA LEATHER - this tack set features leather overlays made of high-grade American leather from Wickett and Craig of Pennsylvania, and is extraordinarily supple, soft, and long-lasting.</li>
+<li>HORSE SIZE AVAILABLE - this tack set is available in Full Horse sizing to accommodate most average sized equines.</li>
+<li>PADDED FOR YOUR HORSE’S COMFORT -  this set features light and soft padding on the breast collar and headstall to prevent rubs or irritation to your horse’s coat, and promote a comfortable fit.</li>
+<li>STAINLESS STEEL HARDWARE - this tack set features high-quality stainless steel hardware that will not rust or tarnish, and remain beautiful for years to come.</li>
+</ul>
+<ul class="product-features-list"></ul>
+<br>
+<p><b>Detailed Product Information</b></p>
+<p><span style="font-weight: 400;">Collection: Nylon</span></p>
+<p><span style="font-weight: 400;">Material: Double-Layered Nylon</span></p>
+<p><span style="font-weight: 400;">Nylon Color: Brown</span></p>
+<p><span style="font-weight: 400;">Leather Color: London Tan</span></p>
+<p><span style="font-weight: 400;">Leather Type: American Leather</span></p>
+<p><span style="font-weight: 400;">Type: Breast Collar</span></p>
+<p><span style="font-weight: 400;">Hand-Tooling: Yes</span></p>
+<p><span style="font-weight: 400;">Tooling Type: Basket Weave</span></p>
+<p><span style="font-weight: 400;">Hardware Type: Stainless Steel</span></p>
+<p><span style="font-weight: 400;">Rustproof Hardware: Yes</span></p>
+<p><span style="font-weight: 400;">Inlay: None</span></p>
+<p><span style="font-weight: 400;">Spotting: None</span></p>
+<br>
+<p><span style="font-weight: 400;">Sizing</span></p>
+<p><span style="font-weight: 400;">Full Horse: 900-1250lbs</span></p>
+<br>
+<ul class="list-unstyled product-components-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breast collar</s:tag>
+    <s:tag>bridle</s:tag>
+    <s:tag>Browband Headstalls</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Headstall</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>NYLON</s:tag>
+    <s:tag>Nylon Breast Collars</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Tack Sets</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492551312</id>
+      <title>Full Horse</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17-1720-BR-F</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9648444944</id>
+    <published>2017-07-06T17:07:30-04:00</published>
+    <updated>2017-07-06T17:07:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/tahoe-light-up-led-rechargeable-breast-collar"/>
+    <title>Tahoe Tack LightUp LED Reflective Safety Battery Operated Breast Collar</title>
+    <s:type>Breast Collars</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/17-1940_Main_onHorse.jpg?v=1571609211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Breast Collars<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="font-weight: 400;">Tahoe Tack has been making beautiful and high-quality western breast collars for over 20 years. Their breast collars feature a mix of high-quality, durable, traditional designs and elegant features that are available in every style, color, or pattern of breast collar, designed to suit all riders. Whether you’re looking for a sturdy tripping collar, a hand-tooled, ornately spotted collar for the show ring, or looking for a simple breast collar to use on trails, Tahoe has the perfect breast collar to suit your needs.</span></p>
+<p><span style="font-weight: 400;">This LED breast collar is designed to promote safety during dark, foggy, or other low-light conditions by making your horse highly visible and reflective. This breast collar does not fit like a traditional breast collar and was not intended to be used for high-impact activities like roping. Instead, it is designed to be a stand-alone safety feature, or worn over a traditional leather/nylon/rope breast collar as a cover that allows for added visibility, while your traditional breast collar functions as it was meant to. This LED breast collar is incredibly thin and lightweight so that you can add it overtop of a breast collar without adding unnecessary bulk or weight on your horse.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">This breast collar does not have rigging/tug straps, and instead has an adjustable neck strap that can be fitted over your horse’s neck like a neck strap, or attached around the horn of your saddle if you would like it to fit higher above the shoulders, such as with a pulling collar. This breast collar also has an adjustable strap that connects to the girth via a sturdy swiveling trigger snap. Our snaps are designed to be easily removable and replaceable to extend the life of your LED breastcollar.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">This breast collar features large patches of highly reflective material along the body, and a 9.5” strip of red LED backlit material going down the center for heightened visibility. These LEDs are powered by replaceable, long-lasting batteries.</span></p>
+<ul>
+<li>
+</li>
+<li>QUALITY CONSTRUCTION - this breast collar was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality nylon that is designed to last many years with proper care.</li>
+<li>DESIGNED WITH YOUR SAFETY IN MIND - this breast collar was designed to help prevent riding accidents and promote safety when trail riding, when riding near roads, or in low light conditions.</li>
+<li>REMOVABLE STAINLESS STEEL SNAP - included with every breastcollar is a heavy-duty stainless steel trigger snap that allows for an easy on and off attachment to your girth.</li>
+<li>LIGHTWEIGHT CONSTRUCTION - this breast collar is made from a lightweight yet strong polyester and nylon construction, which makes it perfect for adding overtop of your favorite breastcollar as an added safety feature.</li>
+<li>ADJUSTABLE DESIGN - this breast collar features an adjustable strap along the neck, and the girth strap is also highly adjustable, allowing for this breast collar to fit most horses weighing 900-1500lbs.</li>
+</ul>
+<p> </p>
+<ul class="list-unstyled product-feautres-list"></ul>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/g5XuzG-aHfo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<ul class="list-unstyled product-feautres-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Average</s:tag>
+    <s:tag>breast collar</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Horse</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>light up</s:tag>
+    <s:tag>night</s:tag>
+    <s:tag>Nylon Breast Collars</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>Safety Yellow</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Whats New</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9648444944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1940-YW-F</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9492601424</id>
+    <published>2017-06-09T11:12:24-04:00</published>
+    <updated>2017-06-09T11:12:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/17-1704"/>
+    <title>Tahoe Tack Double Layered Nylon Western Headstall with Matching Split Reins</title>
+    <s:type>Headstalls</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/Nylon_Headstall_Reins_Black_Set_17-1704.jpg?v=1602179070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Headstalls<br>
+        <strong>Price: </strong>
+            19.95 - 24.95
+            <a href="https://www.tackwholesale.com/products/17-1704">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack’s “Pleasure Rider” series is composed of beautiful lather and nylon headstalls that are made with trail riding and other similar equestrian activities in mind. These halters are beautiful and high-quality, with durable, more plain designs that are suited to trail rides and pleasure riding. This series was designed with quality in mind and features classic western designs.</span></p>
+<ul>
+<li>QUALITY CONSTRUCTION - this headstall was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality leather that is designed to last many years with proper care.</li>
+<li>MULTIPLE SIZES AVAILABLE - this headstall is available in Cob/Arab, and Full Horse and Draft sizing to accommodate most equines large or small.</li>
+<li>MULTIPLE COLORS AVAILABLE - this headstall and rein set is available in three nylon colors: Black, Purple, and Pink.</li>
+<li>MATCHING SPLIT REINS - this browband includes a pair of matching split reins that measure 79” long.</li>
+<li>GREAT FOR TRAILS - this headstall is ideal for trail riding, training, or riding lessons thanks to its sturdy but soft nylon construction.</li>
+</ul>
+<ul class="product-features-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Draft</s:tag>
+    <s:tag>FallSeason</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Headstall</s:tag>
+    <s:tag>Headstalls</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>Horse</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>NYLON</s:tag>
+    <s:tag>Nylon Headstall</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>SummerSale2018</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Western</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Cob / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1704BK-C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Full Horse / Brown</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1704BR-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Full Horse / Black</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1704BK-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Full Horse / Pink</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1704PK-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Full Horse / Purple</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>17-1704PR-F</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9492601424</id>
+      <title>Draft / Black</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>17-1704BK-D</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tackwholesale.com/products/9485350864</id>
+    <published>2017-06-08T12:39:21-04:00</published>
+    <updated>2017-06-08T12:39:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tackwholesale.com/products/17-1791"/>
+    <title>Tahoe Tack Patriotic Nylon Western Headstall &amp; Breast Collar</title>
+    <s:type>Tack Sets</s:type>
+    <s:vendor>Tahoe Tack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1898/9069/products/med_memorialdayS.jpg?v=1571609122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahoe Tack<br>
+        <strong>Type: </strong>Tack Sets<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Tahoe Tack has been making beautiful and high-quality western tack sets for over 20 years. Their tack sets feature a mix of high-quality, durable, traditional designs and elegant features that are available in every style, color, or pattern, designed to suit all riders.</span></p>
+<p style="text-align: center;"><br>Pony:<br>Browband: 14"<br>Cheek: 7"<br>Bit to Bit: 34" -41"<br> <br>Cob:<br>Browband: 15.5"<br>Cheek: 8"<br>Bit to Bit: 36" - 43"<br> <br>Full:<br>Browband: 16.5"<br>Cheek: 9"<br>Bit to Bit: 39" - 47"</p>
+<ul>
+<li>QUALITY CONSTRUCTION - this tack set was designed by Tahoe Tack, a fine maker of quality western tack for over 20 years. It features durable hardware and high-quality nylon that is designed to last many years with proper care.</li>
+<li>MULTIPLE SIZES AVAILABLE - this tack set is available in Pony, Cob/Arab, Full Horse, and Draft sizing to accommodate most equines large or small.</li>
+<li>STAINLESS STEEL HARDWARE - this tack set features high-quality stainless steel hardware that will not rust or tarnish, and remain beautiful for years to come.</li>
+<li>PATRIOTIC DESIGN - show off your love for your country with this gorgeous nylon tack set! This set features a bold combination of red, white, and blue to match the colors of the American flag.</li>
+<li>PERFECT FOR COMPETITIONS - this attractive set is perfect for competitions, events like rodeos, parades, or for everyday use at the barn or on the trails!</li>
+</ul>
+<ul class="product-features-list"></ul>
+<br>
+<p><b>Detailed Product Information</b></p>
+<p><span style="font-weight: 400;">Collection: Nylon</span></p>
+<p><span style="font-weight: 400;">Material: Double-Layered Nylon</span></p>
+<p><span style="font-weight: 400;">Nylon Color: Red, White, and Blue</span></p>
+<p><span style="font-weight: 400;">Type: Breast Collar</span></p>
+<p><span style="font-weight: 400;">Hand-Tooling: No</span></p>
+<p><span style="font-weight: 400;">Tooling Type: N/A</span></p>
+<p><span style="font-weight: 400;">Hardware Type: Stainless Steel</span></p>
+<p><span style="font-weight: 400;">Rustproof Hardware: Yes</span></p>
+<p><span style="font-weight: 400;">Inlay: None</span></p>
+<p><span style="font-weight: 400;">Spotting: None</span></p>
+<br>
+<p><span style="font-weight: 400;">Sizing</span></p>
+<p><span style="font-weight: 400;">Pony: 500-800lbs</span></p>
+<p><span style="font-weight: 400;">Cob/Arab: 750-1000lbs</span></p>
+<p><span style="font-weight: 400;">Full Horse: 900-1250lbs</span></p>
+<p><span style="font-weight: 400;">Draft Horse: +1500lbs</span></p>
+<br>
+<ul class="list-unstyled product-components-list"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breast collar</s:tag>
+    <s:tag>Cob</s:tag>
+    <s:tag>coupon</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>Full Horse</s:tag>
+    <s:tag>Headstalls &amp; Reins</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>Mini &amp; Pony Breast Collars</s:tag>
+    <s:tag>Mini &amp; Pony Headstalls &amp; Reins</s:tag>
+    <s:tag>Mini &amp; Pony Western Riding</s:tag>
+    <s:tag>Nylon Breast Collars</s:tag>
+    <s:tag>Nylon Headstalls</s:tag>
+    <s:tag>Patriotic</s:tag>
+    <s:tag>Patriotic Tack</s:tag>
+    <s:tag>Patriotic Western</s:tag>
+    <s:tag>Pony</s:tag>
+    <s:tag>sale tag</s:tag>
+    <s:tag>SET</s:tag>
+    <s:tag>Tahoe Tack</s:tag>
+    <s:tag>Western Patriotic New</s:tag>
+    <s:tag>Western Tack Set</s:tag>
+    <s:tag>Year End Award</s:tag>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485350864</id>
+      <title>Pony</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>17-1791PAT-P</s:sku>
+      <s:grams>835</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485350864</id>
+      <title>Cob</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>17-1791PAT-C</s:sku>
+      <s:grams>835</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tackwholesale.com/products/9485350864</id>
+      <title>Full</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>17-1791PAT-F</s:sku>
+      <s:grams>835</s:grams>
+    </s:variant>
+  </entry>
+</feed>
